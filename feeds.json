@@ -1,17 +1,18 @@
 {
   "title": "Garrett's News Feed",
   "description": "Markets, Canadian economy and BC news, combined from multiple sources.",
-  "link": "https://YOUR-USERNAME.github.io/news-feed/",
+  "link": "https://gpcbl.github.io/News-feed/",
   "max_items": 150,
   "max_age_days": 7,
   "feeds": [
     {"name": "Bank of Canada", "category": "Canadian Economy", "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/"},
-    {"name": "CBC Business", "category": "Canadian Economy", "url": "https://www.cbc.ca/webfeed/rss/rss-business"},
+    {"name": "Google News: Canada Economy", "category": "Canadian Economy", "url": "https://news.google.com/rss/search?q=Canada+economy+OR+%22Bank+of+Canada%22+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
     {"name": "Financial Post", "category": "Markets", "url": "https://financialpost.com/feed"},
     {"name": "Globe and Mail Business", "category": "Markets", "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/"},
     {"name": "MarketWatch Top Stories", "category": "Markets", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
-    {"name": "Yahoo Finance", "category": "Markets", "url": "https://finance.yahoo.com/news/rssindex"},
     {"name": "Federal Reserve", "category": "Markets", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
-    {"name": "CBC British Columbia", "category": "BC & Victoria", "url": "https://www.cbc.ca/webfeed/rss/rss-canada-britishcolumbia"}
+    {"name": "Google News: British Columbia", "category": "BC & Victoria", "url": "https://news.google.com/rss/search?q=%22British+Columbia%22+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "Google News: Victoria BC", "category": "BC & Victoria", "url": "https://news.google.com/rss/search?q=%22Victoria%22+BC+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "Global News BC", "category": "BC & Victoria", "url": "https://globalnews.ca/bc/feed/"}
   ]
 }
