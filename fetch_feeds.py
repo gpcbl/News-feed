@@ -19,15 +19,12 @@ from xml.etree import ElementTree as ET
 import html
 import re
 import socket
-import re
-import socket
 
 import feedparser
 
 # Give up on any source that takes longer than 20 seconds to respond,
 # so one slow site can't hang the whole run.
 socket.setdefaulttimeout(20)
-
 
 ROOT = Path(__file__).parent
 CONFIG = ROOT / "feeds.json"
@@ -64,7 +61,11 @@ def fetch_all(config):
     failed = []
 
     for feed in config["feeds"]:
-        parsed = feedparser.parse(feed["url"])
+        try:
+            parsed = feedparser.parse(feed["url"])
+        except Exception as exc:  # timeouts, connection resets, etc.
+            failed.append(f"{feed['name']} ({type(exc).__name__}: {exc})")
+            continue
         status = getattr(parsed, "status", None)
         if parsed.bozo and not parsed.entries or (status and status >= 400):
             failed.append(f"{feed['name']} (status {status}, {parsed.get('bozo_exception', '')})")
