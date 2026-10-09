@@ -18,8 +18,16 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 import html
 import re
+import socket
+import re
+import socket
 
 import feedparser
+
+# Give up on any source that takes longer than 20 seconds to respond,
+# so one slow site can't hang the whole run.
+socket.setdefaulttimeout(20)
+
 
 ROOT = Path(__file__).parent
 CONFIG = ROOT / "feeds.json"
