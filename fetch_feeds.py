@@ -54,13 +54,24 @@ def item_date(entry):
     return None
 
 
+def story_key(title):
+    """Normalize a headline so the same story from two feeds counts once.
+
+    Google News titles end in " - Publisher", so that suffix is dropped.
+    """
+    title = re.sub(r"\s+-\s+[^-]{2,60}$", "", title or "")
+    return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
+
+
 def fetch_all(config):
     cutoff = datetime.now(timezone.utc) - timedelta(days=config.get("max_age_days", 7))
+    default_cap = config.get("per_feed_max", 20)
     seen = set()
     items = []
     failed = []
 
     for feed in config["feeds"]:
+        cap = feed.get("max_items", default_cap)
         try:
             parsed = feedparser.parse(feed["url"])
         except Exception as exc:  # timeouts, connection resets, etc.
@@ -71,17 +82,25 @@ def fetch_all(config):
             failed.append(f"{feed['name']} (status {status}, {parsed.get('bozo_exception', '')})")
             continue
 
+        # Newest first, so the per-source cap keeps the freshest stories.
+        entries = sorted(
+            parsed.entries,
+            key=lambda e: item_date(e) or datetime.min.replace(tzinfo=timezone.utc),
+            reverse=True,
+        )
         count = 0
-        for entry in parsed.entries:
+        for entry in entries:
+            if count >= cap:
+                break
             link = (entry.get("link") or "").strip()
             title = clean_text(entry.get("title"), 200)
-            key = link or title
-            if not key or key in seen:
+            keys = {k for k in (link, story_key(title)) if k}
+            if not keys or keys & seen:
                 continue
             published = item_date(entry)
             if published and published < cutoff:
                 continue
-            seen.add(key)
+            seen.update(keys)
             items.append({
                 "title": title,
                 "link": link,
@@ -133,6 +152,7 @@ def main():
     write_rss(config, items, OUT_DIR / "feed.xml")
     (OUT_DIR / "news.json").write_text(json.dumps({
         "updated": datetime.now(timezone.utc).isoformat(),
+        "categories": config.get("categories", []),
         "count": len(items),
         "items": items,
     }, indent=2, ensure_ascii=False))

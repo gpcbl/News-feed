@@ -1,18 +1,32 @@
 {
-  "title": "Garrett's News Feed",
-  "description": "Markets, Canadian economy and BC news, combined from multiple sources.",
+  "title": "Garrett's Wire",
+  "description": "Markets, the global economy, and world events that move them, plus Canada and BC.",
   "link": "https://gpcbl.github.io/News-feed/",
-  "max_items": 150,
-  "max_age_days": 7,
+  "max_items": 200,
+  "max_age_days": 4,
+  "per_feed_max": 15,
+  "categories": ["Markets", "Global Economy", "World & Geopolitics", "Canadian Economy", "BC & Victoria"],
   "feeds": [
-    {"name": "Bank of Canada", "category": "Canadian Economy", "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/"},
-    {"name": "Google News: Canada Economy", "category": "Canadian Economy", "url": "https://news.google.com/rss/search?q=Canada+economy+OR+%22Bank+of+Canada%22+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
-    {"name": "Financial Post", "category": "Markets", "url": "https://financialpost.com/feed"},
-    {"name": "Globe and Mail Business", "category": "Markets", "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/"},
+    {"name": "Google News: Markets", "category": "Markets", "max_items": 25, "url": "https://news.google.com/rss/search?q=stocks+OR+%22Wall+Street%22+OR+%22bond+yields%22+OR+%22oil+prices%22+OR+%22S%26P+500%22+OR+TSX+when:1d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "CNBC Finance", "category": "Markets", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
     {"name": "MarketWatch Top Stories", "category": "Markets", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
-    {"name": "Federal Reserve", "category": "Markets", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
-    {"name": "Google News: British Columbia", "category": "BC & Victoria", "url": "https://news.google.com/rss/search?q=%22British+Columbia%22+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
-    {"name": "Google News: Victoria BC", "category": "BC & Victoria", "url": "https://news.google.com/rss/search?q=%22Victoria%22+BC+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
-    {"name": "Global News BC", "category": "BC & Victoria", "url": "https://globalnews.ca/bc/feed/"}
+    {"name": "Globe and Mail Business", "category": "Markets", "url": "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/"},
+    {"name": "Financial Post", "category": "Markets", "url": "https://financialpost.com/feed"},
+
+    {"name": "Google News: Business", "category": "Global Economy", "max_items": 20, "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "Google News: Global Economy", "category": "Global Economy", "max_items": 25, "url": "https://news.google.com/rss/search?q=%22global+economy%22+OR+inflation+OR+recession+OR+IMF+OR+%22central+bank%22+OR+%22interest+rates%22+OR+GDP+when:1d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "CNBC Economy", "category": "Global Economy", "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html"},
+    {"name": "BBC Business", "category": "Global Economy", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"name": "Federal Reserve", "category": "Global Economy", "max_items": 5, "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+
+    {"name": "Google News: Geopolitics & Trade", "category": "World & Geopolitics", "max_items": 20, "url": "https://news.google.com/rss/search?q=tariffs+OR+sanctions+OR+OPEC+OR+%22trade+war%22+OR+geopolitical+OR+%22supply+chain%22+when:1d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "Google News: World", "category": "World & Geopolitics", "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "BBC World", "category": "World & Geopolitics", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+
+    {"name": "Bank of Canada", "category": "Canadian Economy", "max_items": 5, "url": "https://www.bankofcanada.ca/content_type/press-releases/feed/"},
+    {"name": "Google News: Canada Economy", "category": "Canadian Economy", "url": "https://news.google.com/rss/search?q=%22Canadian+economy%22+OR+%22Bank+of+Canada%22+OR+%22Statistics+Canada%22+OR+loonie+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
+
+    {"name": "Google News: BC Economy", "category": "BC & Victoria", "max_items": 8, "url": "https://news.google.com/rss/search?q=%22British+Columbia%22+(economy+OR+housing+OR+budget+OR+jobs)+when:2d&hl=en-CA&gl=CA&ceid=CA:en"},
+    {"name": "Google News: Victoria BC", "category": "BC & Victoria", "max_items": 5, "url": "https://news.google.com/rss/search?q=%22Victoria%22+BC+when:2d&hl=en-CA&gl=CA&ceid=CA:en"}
   ]
 }

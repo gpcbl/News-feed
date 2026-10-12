@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Garrett's Wire</title>
-<meta name="description" content="Markets, Canadian economy and BC news, updated every two hours.">
+<meta name="description" content="Markets, the global economy and world events that move them, updated every two hours.">
 <meta name="theme-color" content="#121311" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)">
 <link rel="alternate" type="application/rss+xml" title="Garrett's Wire" href="feed.xml">
@@ -70,7 +70,7 @@ footer a{color:var(--accent)}
   <footer>Headlines and summaries from each publisher's public feed, updated every two hours. Tap a headline to read the full story. Stars are saved on this device. <a href="feed.xml">RSS feed</a></footer>
 </div>
 <script>
-const state={cat:"All",q:"",items:[],saved:new Set()};
+const state={cat:"All",q:"",items:[],order:[],saved:new Set()};
 try{state.saved=new Set(JSON.parse(localStorage.getItem("wire-saved")||"[]"))}catch(e){}
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -103,7 +103,9 @@ function tidy(it){
 }
 
 function render(){
-  const cats=["All",...[...new Set(state.items.map(i=>i.category))].sort(),"Saved"];
+  const present=new Set(state.items.map(i=>i.category));
+  const ordered=[...state.order.filter(c=>present.has(c)),...[...present].filter(c=>!state.order.includes(c)).sort()];
+  const cats=["All",...ordered,"Saved"];
   const q=state.q.trim().toLowerCase();
   const match=i=>!q||(i.title+" "+i.summary+" "+i.source).toLowerCase().includes(q);
   const inCat=(i,c)=>c==="All"||(c==="Saved"?state.saved.has(i.id):i.category===c);
@@ -138,6 +140,7 @@ $("stories").addEventListener("click",e=>{
 $("dateline").textContent=new Date().toLocaleDateString("en-CA",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
 fetch("news.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
   state.items=(d.items||[]).map(tidy);
+  state.order=Array.isArray(d.categories)?d.categories:[];
   $("updated").textContent=d.updated?`Updated ${ago(d.updated)}`:"";
   render();
 }).catch(()=>{$("status").textContent="Couldn't load the news. Check that the Update news feed workflow has run, then refresh."});

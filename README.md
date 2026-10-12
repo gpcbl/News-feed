@@ -21,8 +21,12 @@ Combines several news RSS feeds into one feed, updated automatically every 2 hou
 Edit `feeds.json`. Each source needs a name, a category, and the feed URL:
 
 ```json
-{"name": "CBC Canada", "category": "Canadian Economy", "url": "https://www.cbc.ca/webfeed/rss/rss-canada"}
+{"name": "BBC Business", "category": "Global Economy", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"}
 ```
+
+Each source keeps at most `per_feed_max` stories (15 by default) so a busy feed can't crowd out the rest. Give a source its own `"max_items"` to raise or lower that. The `categories` list sets the order of the sections on the homepage.
+
+Google News searches make good custom sources: `https://news.google.com/rss/search?q=YOUR+SEARCH+when:1d&hl=en-CA&gl=CA&ceid=CA:en`. The same story found by two sources only shows once.
 
 To find a site's feed, look for an RSS icon or try adding `/feed` or `/rss` to its address. For sites without a feed, tools like RSS.app can generate one.
 
