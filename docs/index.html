@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Garrett's Wire</title>
+<meta name="description" content="Markets, Canadian economy and BC news, updated every two hours.">
+<meta name="theme-color" content="#121311" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)">
+<link rel="alternate" type="application/rss+xml" title="Garrett's Wire" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,650&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+:root{
+  --bg:#f6f6f2; --surface:#ffffff; --line:#dedfd6; --fg:#1b1d1a; --muted:#62665c;
+  --accent:#2a4fd6; --accent-soft:#e6ebfb; --save:#c27a00;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"Instrument Sans", system-ui, -apple-system, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#121311; --surface:#1a1c19; --line:#2d302a; --fg:#e8e9e3; --muted:#9a9e93;
+  --accent:#8ea8ff; --accent-soft:#1e2640; --save:#f0b545; color-scheme:dark}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+.wrap{max-width:720px;margin:0 auto;padding:24px 16px 56px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;border-bottom:2px solid var(--fg);padding-bottom:12px}
+h1{font-family:var(--display);font-weight:650;font-size:clamp(2rem,6vw,2.7rem);line-height:1;margin:0;letter-spacing:-.015em}
+.dateline{font-family:var(--mono);font-size:.76rem;color:var(--muted);margin-top:6px;text-transform:uppercase;letter-spacing:.06em}
+.updated{font-size:.82rem;color:var(--muted);text-align:right}
+.search{width:100%;margin-top:14px;font:inherit;font-size:.95rem;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)}
+.rail{position:sticky;top:0;z-index:3;background:var(--bg);display:flex;gap:6px;overflow-x:auto;padding:12px 0;border-bottom:1px solid var(--line);scrollbar-width:none}
+.rail::-webkit-scrollbar{display:none}
+.rail button{flex:none;font:inherit;font-size:.86rem;font-weight:500;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:5px 12px;cursor:pointer}
+.rail button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.rail .n{font-family:var(--mono);font-size:.72rem;opacity:.65;margin-left:4px}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.status{font-size:.85rem;color:var(--muted);margin:14px 0 4px}
+.day{font-family:var(--mono);font-size:.74rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);padding:22px 0 4px;border-bottom:1px solid var(--line)}
+article{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;padding:16px 0;border-bottom:1px solid var(--line)}
+.meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;font-size:.78rem;color:var(--muted)}
+.tag{font-size:.68rem;font-weight:600;text-transform:uppercase;letter-spacing:.07em;color:var(--accent);background:var(--accent-soft);padding:1px 7px;border-radius:4px}
+h2{font-family:var(--display);font-weight:600;font-size:1.25rem;line-height:1.25;margin:2px 0 0;text-wrap:balance}
+h2 a{color:inherit;text-decoration:none}
+h2 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.save{align-self:start;border:0;background:none;cursor:pointer;color:var(--muted);font-size:1.3rem;line-height:1;padding:4px}
+.save[aria-pressed="true"]{color:var(--save)}
+.sum{grid-column:1/-1;margin:2px 0 0;max-width:65ch;color:var(--muted);font-size:.93rem}
+.empty{padding:40px 0;color:var(--muted)}
+footer{margin-top:28px;font-size:.8rem;color:var(--muted)}
+footer a{color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Garrett's Wire</h1>
+      <div class="dateline" id="dateline">Markets · Canada · BC</div>
+    </div>
+    <div class="updated" id="updated"></div>
+  </header>
+  <input class="search" id="q" type="search" placeholder="Search headlines" aria-label="Search headlines">
+  <nav class="rail" id="rail" aria-label="Sections"></nav>
+  <p class="status" id="status">Loading stories…</p>
+  <main id="stories"></main>
+  <footer>Headlines and summaries from each publisher's public feed, updated every two hours. Tap a headline to read the full story. Stars are saved on this device. <a href="feed.xml">RSS feed</a></footer>
+</div>
+<script>
+const state={cat:"All",q:"",items:[],saved:new Set()};
+try{state.saved=new Set(JSON.parse(localStorage.getItem("wire-saved")||"[]"))}catch(e){}
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"#";
+
+function ago(iso){
+  if(!iso)return"";
+  const m=Math.round((Date.now()-new Date(iso))/60000);
+  if(m<1)return"just now"; if(m<60)return m+" min ago";
+  const h=Math.round(m/60); if(h<24)return h+" h ago";
+  const d=Math.round(h/24); return d+(d===1?" day ago":" days ago");
+}
+function dayLabel(iso){
+  if(!iso)return"Undated";
+  const d=new Date(iso),t=new Date(),y=new Date();y.setDate(t.getDate()-1);
+  const same=(a,b)=>a.toDateString()===b.toDateString();
+  if(same(d,t))return"Today"; if(same(d,y))return"Yesterday";
+  return d.toLocaleDateString("en-CA",{weekday:"long",month:"long",day:"numeric"});
+}
+// Google News titles end in " - Publisher"; show the real publisher and drop the echoed summary.
+function tidy(it){
+  let {title,source,summary}=it;
+  if(source.startsWith("Google News")){
+    const i=title.lastIndexOf(" - ");
+    if(i>0){source=title.slice(i+3);title=title.slice(0,i)}
+    summary="";
+  }
+  if(summary&&summary.toLowerCase().startsWith(title.toLowerCase().slice(0,40)))summary="";
+  return {...it,title,source,summary,id:it.link||it.title};
+}
+
+function render(){
+  const cats=["All",...[...new Set(state.items.map(i=>i.category))].sort(),"Saved"];
+  const q=state.q.trim().toLowerCase();
+  const match=i=>!q||(i.title+" "+i.summary+" "+i.source).toLowerCase().includes(q);
+  const inCat=(i,c)=>c==="All"||(c==="Saved"?state.saved.has(i.id):i.category===c);
+  $("rail").innerHTML=cats.map(c=>`<button type="button" data-c="${esc(c)}" aria-pressed="${c===state.cat}">${esc(c)}<span class="n">${state.items.filter(i=>inCat(i,c)&&match(i)).length}</span></button>`).join("");
+  const list=state.items.filter(i=>inCat(i,state.cat)&&match(i));
+  $("status").textContent=`${list.length} ${list.length===1?"story":"stories"}${q?` matching "${state.q.trim()}"`:""}`;
+  if(!list.length){$("stories").innerHTML=`<p class="empty">${state.cat==="Saved"?"Tap the star on any story to keep it here.":"No stories match."}</p>`;return}
+  let html="",last=null;
+  for(const s of list){
+    const day=dayLabel(s.published);
+    if(day!==last){html+=`<div class="day">${esc(day)}</div>`;last=day}
+    const on=state.saved.has(s.id);
+    html+=`<article>
+      <div class="meta"><span class="tag">${esc(s.category)}</span><span>${esc(s.source)}</span>${s.published?`<span>${esc(ago(s.published))}</span>`:""}</div>
+      <h2><a href="${esc(safeUrl(s.link))}" target="_blank" rel="noopener">${esc(s.title)}</a></h2>
+      <button type="button" class="save" data-id="${esc(s.id)}" aria-pressed="${on}" aria-label="${on?"Remove from saved":"Save story"}">${on?"★":"☆"}</button>
+      ${s.summary?`<p class="sum">${esc(s.summary)}</p>`:""}
+    </article>`;
+  }
+  $("stories").innerHTML=html;
+}
+
+$("rail").addEventListener("click",e=>{const b=e.target.closest("button[data-c]");if(b){state.cat=b.dataset.c;render()}});
+$("q").addEventListener("input",e=>{state.q=e.target.value;render()});
+$("stories").addEventListener("click",e=>{
+  const b=e.target.closest(".save");if(!b)return;
+  const id=b.dataset.id;state.saved.has(id)?state.saved.delete(id):state.saved.add(id);
+  try{localStorage.setItem("wire-saved",JSON.stringify([...state.saved]))}catch(err){}
+  render();
+});
+
+$("dateline").textContent=new Date().toLocaleDateString("en-CA",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+fetch("news.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
+  state.items=(d.items||[]).map(tidy);
+  $("updated").textContent=d.updated?`Updated ${ago(d.updated)}`:"";
+  render();
+}).catch(()=>{$("status").textContent="Couldn't load the news. Check that the Update news feed workflow has run, then refresh."});
+</script>
+</body>
+</html>
