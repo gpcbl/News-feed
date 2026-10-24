@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:08:25.482743+00:00",
+  "updated": "2026-10-24T22:12:37.883267+00:00",
   "categories": [
     "Markets",
     "Global Economy",
@@ -10,12 +10,260 @@
   "count": 200,
   "items": [
     {
-      "title": "U.S. to remove 50% tariffs on some Canadian goods ahead of midterm elections - CityNews Ottawa",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbHhUY2dwMW9tWnFTcjN2NXVPbzRMSFpUVURCUkc3Wmdyb1Q0R1cxdExJS2NuOGt1Qk83Q2Z2S1I2a3lHc05DRkN1T3ZwMGJtOFN4ekNPMW05a3ZiTHZBa0Y5LVliYTZ5RDVaQTJONlZMeGlKOHdScmkwaWt2cXBNb1hiaU1fWmJEV2hCTlFvR0Z2WTZjTXoxaWg3aUs2SlZOb0hYT3AzTG9IUHlqRW1CR1JqcmxrY0tkMTF3?oc=5",
-      "summary": "U.S. to remove 50% tariffs on some Canadian goods ahead of midterm elections    CityNews Ottawa",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "source": "BBC World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T22:08:47+00:00"
+    },
+    {
+      "title": "Are we in a global whisky recession? - The Spectator",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZ0ktMlpGYVBETG94b1ZlUjZ0bW1Sb3piaFdSakdvOVNpUFk2cEgwODJ5QkduY1JpTFhqYTQyX0M1SW5ta2p1MXRJWlBDUHVTSk9Wa0hGcHZ2WmlNVkRyWDdNVVc2TzVLbTgzVGFsc2hYWWQ1?oc=5",
+      "summary": "Are we in a global whisky recession?    The Spectator",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T22:05:17+00:00"
+    },
+    {
+      "title": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmlJOGNzQzNwQ094VkFOY0JCUlNmc2lZQ09mTTR6a2tKNFhyQUozdDh0S3lPeDlSdUlCYXhBempMTk1UcVJCWlBVSnJTMVVqY3FqQjhEY1pHNDJXVnMyeWhfRF9wT0tiSFRuYkdoUHNTR1JmcFhFd05UTngzWjU4M1VJOWF2T2Z5?oc=5",
+      "summary": "I Took America’s Cheapest EV Into the Charging Desert of the Deep South    WSJ",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T22:01:11+00:00"
+    },
+    {
+      "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+      "summary": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War    WSJ",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:55:37+00:00"
+    },
+    {
+      "title": "South Korea's Current Account Surplus Tops Germany and Japan Combined for First Time; IMF Says This Year's Increase Is World's Largest - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VbVVhZGdqZDJPckFSeWZkOGRJZ2xpLUhJQkVRTUxhM1U1U0h2b1RER1FqeTJBSk1PS3VvNFBkZHJZRGJMNHUwbFQ0YWU1MWhWTERtblB5TjM3SGNoV19kdzVhTkUxUy1KSDYyTzgwM3NaV2pucFE?oc=5",
+      "summary": "South Korea's Current Account Surplus Tops Germany and Japan Combined for First Time; IMF Says This Year's Increase Is World's Largest    BigGo Finance",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:55:00+00:00"
+    },
+    {
+      "title": "Trump eases 50% tariffs on selected Canadian goods ahead of US midterm elections - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVNiMzBvRmVrRFZaZ2ZwakZhaGNvU2thVmdvLVNRSGlPQWR5bUZxU1NPTEo5bmdWdXFjY3FWdWVRQlZtZjdDaFBnaUdVMHZyVm1qTnBtejFaZENnNUNCODJqQWJTWmkzV2RCdHp0S0o4ZG0tU1lqYzJmZzZTbkFDNVpzNGZiRWVtWUM0eHgtd042VTMxNm5RZm40Rk0tZXkxVDNsOUdvV2F6bGUyYmF5TnczbXdwQ18wR0RhN19LWUhLUQ?oc=5",
+      "summary": "Trump eases 50% tariffs on selected Canadian goods ahead of US midterm elections    The Business Standard",
       "source": "Google News: Geopolitics & Trade",
       "category": "World & Geopolitics",
-      "published": "2026-10-24T20:07:31+00:00"
+      "published": "2026-10-24T21:54:56+00:00"
+    },
+    {
+      "title": "Massive carbon stocks in grasslands are ignored by climate finance - Science X",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWdrc2ZYck5sOFgwWGdhckc2QURlVGtVQ0N6dGpyc2NLOE9BWWZtdUd0Q3VPUVBsWlpUalRYczZ4TEpGLWp3TDVoT0NpcjZfd3FrWnNmZ1FTWlRvVFlySFFOaUt6TndVdDZtazJfMHZFYXIxY0RmNWx6NGNUem5KNVRfNTNqY2x1eVY40gGLAUFVX3lxTE9FZ2tzZlhyTmw4WDBYZ2FyRzZBRGVUa1VDQ3p0anJzY0s4T0FZZm11R3RDdU9RUGxaWlRqVFhzNnhMSkYtandMNWhPQ2lyNl93cWtac2ZnUVNaVG9UWXJIUU5pS3pOd1V0Nm1rMl8wdkVhcjFjRGY1bHo0Y1R6bko1VF81M2pjbHV5Vjg?oc=5",
+      "summary": "Massive carbon stocks in grasslands are ignored by climate finance    Science X",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:53:36+00:00"
+    },
+    {
+      "title": "Bitcoin or Gold: Which Is the Better Inflation Hedge With Prices Up 3.7%? - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlRSM2pQa28wNU5wX2ZGY3pZNE5KY3dMV2xpMlB0cndndzA4RDI0UHRuMldraDE0cWR1Y1FEaUdCLUZ3QmJrVWZsRHRYTnlHSG0zMGxLaEpuWEw0Qmtid3lfWVFobUpIdUV2ZG1DMlpzN0h2VW9JQTRBV3BSanBZSWtXMlIxZEc3QkRZNXBaczZ5bUFmS3Rqall3WWlQel83ZFZhdG1zMnRtdnEyTUNEb1p4OFRzelU2bW01QXVURDVJRDAtMlV0Mw?oc=5",
+      "summary": "Bitcoin or Gold: Which Is the Better Inflation Hedge With Prices Up 3.7%?    24/7 Wall St.",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:48:00+00:00"
+    },
+    {
+      "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOellkTWRVUld5cVJrVnZTOTFMNTE1ZmFweENDbHhEeXJrYXVTZWVyWDNDZ3VfRG82YXNGa2haMGJVQzltV3BMSllmdm1YODg5eEdpZE5YLXRYeFFoU0lVQnhRdXg5NGktSlRJV0RuVERTY3VwNDdYLVl1Y20xV0M2MEhNa0d2RWkwNjR5cUpsUzY?oc=5",
+      "summary": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:43:00+00:00"
+    },
+    {
+      "title": "How Tariffs Became the Most Hated Word in Politics - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWloQWdGR2RtVlpicDV6Qm1WT3F2ZFlPVHRtVlR0bVZUbW9DWWJHVENrcGUzbzVzZTZDc3lQdDJ0d0FZa3pxR1htNHByQ25aQmtFODNhNFBQU0tNdlpIV011RzM3cFNBbG9yeXBNWUtrb1EwNDl0dWRHMXFuaXZfdVVvbUdaNlRyS21nbWRpMTFuOWhJRjc2TA?oc=5",
+      "summary": "How Tariffs Became the Most Hated Word in Politics    WSJ",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T21:31:33+00:00"
+    },
+    {
+      "title": "The Federal Effect | Van Hollen on War, Tariffs, and Power After the Midterms - DC News Now",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbFkxQjJSa05XR3dkRHI1S0p4ZjhTZFhiMVZ5ZGlid096a1NuV01aREZvM3FwVUp5ZVktSmJrWVVySjYtTmJLeDdOZ2lpYV80YVQyVTZJZk8zU1NBNV9RdkNHbnJMQVJ6N2hmbkRmQTRFSGduYUtONWNrbW9IcC00dG1IeElfd3FhUEV3R0pudi1ZTFFEWUZjcV9SdldCTURha2o4cVRoSmF1LUlNS3IzLWNaV2I4ZVB2VERQNXMyWm9KWG9EUzFrM2JDY3VCUdIB0wFBVV95cUxNZzh3Ty1Ua2s4YnhMUlRuZUdCY2FpY1h1ZmVoME5kbFVpd3huMmpTeF9qeUVHT2t2alBuWTg1RUZvWHMyV3Mwa3dNanpoUEpJaDFPcEVjcG53YjVGbGNJRDJyMGpTUUJKcXM2b2FhNmVaWlNsUDZ6S2VINmtUUTYtRE56cFhPaVNvcG5na0dCSjZpOWNET3h6b1J6R0pkUnlXbVB3TE9hWVpwZXEyT3BpZTVIWGV4TGFpUnd4SldSdkNkanF4TkFCcXdMbVc0elppUmdN?oc=5",
+      "summary": "The Federal Effect | Van Hollen on War, Tariffs, and Power After the Midterms    DC News Now",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T21:29:36+00:00"
+    },
+    {
+      "title": "GDP will beat 2.1% forecast, PM says - Bangkok Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1Bhb2ZDWGlsWFhqNzRvTmJraXkxbHJXZElDVl9LcjVTaUIybE5XVFVIZUMyRzFOb3F3d2tGMl9GMDZMWDg0Qk4zSHhMSUx4WGJ6QjN3SldwR1NnV05ucXVYc1V1Rk1UQ21Gd0QtTzVnY1dGQTNxaVdvZjE1WHRkNDNIM2pVcjVwQ3JzNXM3Yw?oc=5",
+      "summary": "GDP will beat 2.1% forecast, PM says    Bangkok Post",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:24:00+00:00"
+    },
+    {
+      "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1Q1elN5ODBGYTQzQWJEWGNiTjE3NWtTSlBpTzVQcFZOamlOYzhyY0pYT2hBRXkycHBZZDlza2haM0FLaHdsNURMWUd4cmZKb3JNWGZfM2FjQ05ieEs4eFlPM1hlVVpTY3oyYVNUVEgtcXZ6Y0huUnJDTGl6YXNHUk1LRldTcGlUci14THhOZGZvVlVRZjJXX3kySlRJNy0tSzRZQWNac1E0REc50gGyAUFVX3lxTE1sMl9BNjhaRzZBUXhHUF8zN3c0UlB1ZWZDazE3RnVlWU13czd0VFdOSExONFBrYlBFX2FQZEVwenZTM2hnNXJndk5qTTZDb3Zva1VrQ2NoTUVTRnhHS3BFVUlvcXNoa3hyR2kyWHNUdXdnMWktTG9XSWljR2QtbkRBZVV2dkJlLUZKbE5lZVlDTUdjY0xweFJ6aGJ4eThacFpKVzgxdHI1aGkxVEpEX3dNdGc?oc=5",
+      "summary": "Hundreds of Italian soldiers deployed as thousands protest in Milan    Al Jazeera Italy deploys hundreds of soldiers as protests planned across Europe    The Globe and Mail Protests sweep Italian cities amid heavy security presence, some violence reported    Reuters Italy: Thousands take to the streets as protests turn violent in several cities    Euronews.com Hundreds of soldiers sent to Milan…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T21:22:30+00:00"
+    },
+    {
+      "title": "The Assembly of First Nations prepares for historic meeting with Carney, premiers",
+      "link": "https://www.theglobeandmail.com/canada/article-the-assembly-of-first-nations-prepare-for-historic-meeting-with-carney/",
+      "summary": "The meeting is the first such gathering since 2005, when premiers and then-prime minister Paul Martin met with Indigenous leaders in Kelowna, B.C.",
+      "source": "Globe and Mail Business",
+      "category": "Markets",
+      "published": "2026-10-24T21:22:02+00:00"
+    },
+    {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee - NPR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRTb0psYTNxMHVOMEMxQlh4OTRMMTg5WEl2VDN3NnlvLTg5ejN0NlB3WVM3d1UxRWM5a3JDT1dacEJDXzRRX28xWVUyR0pPOHZPRUU1c1o2bjd4ZWt6Z05wUklSaERiRUJDWndqbDMwUFJ2UmFIMWh6bjQzREQ1dWluVkIwY0E3elpJT05idktwdlBHTlE?oc=5",
+      "summary": "Trade tariffs cause whiplash at Port Milwaukee    NPR",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T21:20:55+00:00"
+    },
+    {
+      "title": "Grabbing a bargain: Japan's claw machines cash in on inflation - Japan Today",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT042U2pxdEpNd19vVUFLSWtERzlEUkZjVXFkRl9QME1xaVdNaEQ0NWx0NWVuVEFQeW0yYVVzNndhalJabjlFUEJHckhiVHhQcGhMbGxyZFltRFNkRl9XaE0wOFFvMVhXRFdObUkzTXNRZlRvUHJXNGhJX000QUVQcGtHWV84dHQ3LU1IZHlqcFBJczc5Z2lKZzZBdXRuSEZ2WkFNLUlfVl9yc2s0cmNTblRB?oc=5",
+      "summary": "Grabbing a bargain: Japan's claw machines cash in on inflation    Japan Today",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:19:00+00:00"
+    },
+    {
+      "title": "Top 3 Silver Stocks To Watch In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUZLVGQxT2NKTG9aYV9yaFh0NE9UN2RGSUlnY3BnQnZBcUluamJ3b1c3RzFRNkg0NDRZNHdmSkpYYUlzQ1FsMkFyWXlob1B3dUlmWXBkTWkwR3lPYjU5NmZkWXdqVENVYVZFd05LWmlGa2RyZWhLRVRUQUNFb0tIVjJuOGRZcEFSa2JuTktWU01sU2MzYkwtd3ZVRQ?oc=5",
+      "summary": "Top 3 Silver Stocks To Watch In October 2026    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:10:52+00:00"
+    },
+    {
+      "title": "3 AI Stocks To Watch In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RDbjhlTmVPaU1uTlJiZkRNeFBrR3Bra19wRURmVVllREp1ZVJrc2taWDBBVGtuZVpQSmxQMkd6Q2tCcGlKdWlTU3ZmY2R0VTNsdVQxb1I2RkRBSV9LTjlMUTBWWUNwSnFpQ0E5R2JKaHdySmV1ZF84VDhDdHBNVG82eWVDQ2VjVXlfZUQ4VzJYQU0?oc=5",
+      "summary": "3 AI Stocks To Watch In October 2026    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:09:56+00:00"
+    },
+    {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "source": "BBC World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T21:09:27+00:00"
+    },
+    {
+      "title": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXlLQ19Eb0FSRTdjdU5faDRobTMxdGVlYW1SREZ4S3hfWWFHREkwOVd1cEJWdktWM3Q4TmVRcFliS2hBcXAtYWlqLThJMEstRWFLSUZIdG14MmlpaXJ1c2FRamxHZVc0V0pPeFRoenJQQ1dHb0xpcnowTXo1akF5VzJzMXVJbFAyTnFwUnlUUkVZS2FmMUZhdGZLbVNwZw?oc=5",
+      "summary": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T21:07:48+00:00"
+    },
+    {
+      "title": "When AI Fear Beats Oil Inflation: The Bond Market Finds Its Defensive Instinct - The Dark Side Of The Boom",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2s1bFJ5QVE2SERDMFZxR2xLRHNuek1abFhUcHBETWJSNGU1c3BvZUFRVC1BREExOEhmLVdycklZVHYyMV92akQ0YXQ5UENDLTNxcHFQNU0tQWtoSUlQODlTT2ltZnpnWlFQbkQ0OFhwZE50WkdFaTdHcjR2T2V5ZkpR?oc=5",
+      "summary": "When AI Fear Beats Oil Inflation: The Bond Market Finds Its Defensive Instinct    The Dark Side Of The Boom",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:00:57+00:00"
+    },
+    {
+      "title": "Domino's Delivery Driver Notices Recession Indicator. What Is It? - BroBible",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakdtYW9jU2hSdHNNRGUyeTVhaU5WeGdHQk5POFRHZjliNXVqVFo2aU5EMUtlUXg3Z2ZkX2dvTDhQTGZ0RV94VTgxYm04azMxQjB4dHdfa25pMTNqQmhJaWpCQ1EyNi1aVnByb1hKbzR3Qk1pRkdZdHp2Y3dpSlc4bXRUR09fMHdyZmw3bUl4cTc?oc=5",
+      "summary": "Domino's Delivery Driver Notices Recession Indicator. What Is It?    BroBible",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T21:00:00+00:00"
+    },
+    {
+      "title": "Musk says he was behind Starlink speed restriction in Ukraine - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbm14a3N1ZklZZGVCWEt6ZmEtRzljZDNmUWdwenYtX0IwSjdGemVrZmlLNzVLUDBiQVFjYm1jNjhjUjBzNDJTbXRTYmY3eWNJdFBuUjhFMHhNVEotM3IzUng0OENuYUFYbGpOTkMwenlVQ2hseURhWUFSSkV4eVZFLQ?oc=5",
+      "summary": "Musk says he was behind Starlink speed restriction in Ukraine    CBC Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield    CBC Musk says he was behind Starlink speed restriction after service in Ukraine is restored    CityNews Calgary Ukraine says Starshield back to normal, Musk says Kyiv violated terms    Reuters Ukraine’s military says Starlink…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T20:56:20+00:00"
+    },
+    {
+      "title": "5 Dividend Stocks with the Highest Yield - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXhUdEdnLVhIZFJhMUZ2dnVCWEhteHQ5VHhrbi1QbU9QbWNXNTlTU1laRUVYWTNDRGdXUUZ4VVZkMlloV25uMzVLVHpHYm5FU201S0d3MjNUMkptRDhrZjBEWHBmNHRaVmU3eHk3YVNSYXNaekxONUlOdEl2cDFFNHFaY2xsNzV5bTNGaUV4UVhMeEJ2bGtaSWxMUkE?oc=5",
+      "summary": "5 Dividend Stocks with the Highest Yield    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T20:45:33+00:00"
+    },
+    {
+      "title": "Tens of thousands march in France as protests continue over schools and living costs - CBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkJNY0ljY3dITEhHaGJsbER2amdnZ29kZ2tETkd1ZXg0ODZKakNtMFd0MXdPX09aME40bU80NTBnbEhneDNjbm5rV20tclFCZXVZZlh6QzM5RkRJdG5QUkhUUHlSdUJxdFR1RXFUZEVPVjJBZE9wbF9PaHJGRnJYaXp4Yw?oc=5",
+      "summary": "Tens of thousands march in France as protests continue over schools and living costs    CBC Hundreds of thousands protest in France amid heightened police security    Al Jazeera Up to 70,000 police mobilized to curb violence at France protests    Global News Hundreds of thousands march in France as protests take place across Europe – as it happened    The Guardian How Macron Destabilized France…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T20:41:07+00:00"
+    },
+    {
+      "title": "Ukraine’s Military Starlink Is Working Again, Kyiv Says - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEyMDNVYmxJajlNX3VGZkh3TEgwZGdDU1dsRUZCbk8xXzZxcUhvTG5GelhLXzZkYzRMQnJBRk14Z2o4akdHZEU0bHNqT1poLTVYaDk4YTRKZ0NZRVQ1RE1FUG5MVGExNEhfU2NteExXXzJvTlRaWGVGaXczV0pDSy0wbV9ZZFA5Y2QtZnBOY3NhNWNWTlB2T1NURQ?oc=5",
+      "summary": "Ukraine’s Military Starlink Is Working Again, Kyiv Says    WSJ",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T20:36:00+00:00"
+    },
+    {
+      "title": "Legal expert calls out Trump’s threat to delegitimize Alaska senate vote - Global News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkZXdS1NZzZKMDA3a2NKOEQxSmhlVnN1UjJvWEwzVndka1plU3F6RENYTlFoRlEteGRYaUk1Wmt5Sk9DamdfU2s4Znl1QXpWU1B0NTVraklmZ25Sc1cxTGNIc0l2eEhIbVNsSHRKNTZtQmktcE1MbHBIa0lleEc4Tk43WXpDbTNSZUFBNQ?oc=5",
+      "summary": "Legal expert calls out Trump’s threat to delegitimize Alaska senate vote    Global News Trump aiming to overturn Alaska result if Republican loses    The Telegraph Trump DOJ files lawsuit to block potential Democratic win in Alaska Senate race    CTV News CNN’s Kaitlan Collins Makes Revealing Claim About Trump Amid Midterm Elections    IMDb Facing an electoral wipeout, Trump goes after the system…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T20:23:18+00:00"
+    },
+    {
+      "title": "U.S. to remove 50% tariffs on some Canadian goods ahead of midterm elections - CityNews Kitchener",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZU0wZ2ZHTWJtZ0xySkpnTk85WG1YS3dub0NuQ3I4MlBlU05GRktpYXUwclMyb1AzQUItejI3Q3Z0cVJfRFhiNkxZaUJ5cENVNmowaGZQMFNLVGJ1X2pGalFhTDVxVmhuVzFfcExqLWNtVmJWRl9ZaXotZzBWUDZURGRYS041Q2VVVkZDSWlfa3VnakRUMWU3YkxXSUlNZTdoVVhKaW5pYmhHNFZSb3FBTHhlTE5IRUdRQTktR1dlTQ?oc=5",
+      "summary": "U.S. to remove 50% tariffs on some Canadian goods ahead of midterm elections    CityNews Kitchener",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T20:22:48+00:00"
+    },
+    {
+      "title": "BC Election night 2026: preliminary provincial election results - islandsocialtrends.ca",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHZkZ3ZuRzZ4SVkxRW93MkxHWFVtVERaQ3dOV0lTbWxqT1JlVTE3VXJnVkNxSjdNRUNDSlVXRU83M3NnT1FVdC1hN0kwTGRmcDBBbnVvVmlYNnZqcTUyRXBXelNtVC1wbGJFVnFCS1dXQi00ZU56OEZvUUE1dGt2SlVJX29rdWNvdFpQOEZwQ2N1bTJCbFk4Tg?oc=5",
+      "summary": "BC Election night 2026: preliminary provincial election results    islandsocialtrends.ca",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
+      "published": "2026-10-24T20:15:06+00:00"
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "summary": "“Nothing has been set aside for his needs.”",
+      "source": "MarketWatch Top Stories",
+      "category": "Markets",
+      "published": "2026-10-24T20:15:00+00:00"
+    },
+    {
+      "title": "3 Gold Stocks With Net Margins Over 34% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2xEOVl0U29RR3RwWVlkYTFmbHVCY1RWSkl6SUNiQkJMM0NNSWRrVklkZWo5Qkx2NDB4SlFfT2lwck9od0FOMmxYZk9xOGRrUldaYVYybGVVQmpUemZzZXNicmtDOVgzS0kyZmpDc1JHRnNTcnFwTkNuTVZTc2hWT1prcnRKczJKa25acU1USmtfWmwzdHBLRVZZSQ?oc=5",
+      "summary": "3 Gold Stocks With Net Margins Over 34%    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T20:12:33+00:00"
+    },
+    {
+      "title": "3 Tanker Stocks In Focus As Oil Shipping Risk Returns - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0Y5RGdIUEd2STcyUU0zX3FSd3ZKd21STm9ZWmNSaUwtYXlMNlU3U0RnSkt3eGhZOVRYUUozY19qVUNBb1g4ZW5RZnYtQ1dkTWtsMC1iUS1GVlcwellUeXVzY09lRV8tTFFxYXhCSzNhX3NkeXJ6cDhSeGJES1hQbzcwTngzd2VlVkE?oc=5",
+      "summary": "3 Tanker Stocks In Focus As Oil Shipping Risk Returns    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T20:12:11+00:00"
     },
     {
       "title": "October 2026 FOMC Meeting Preview: Will the Fed Raise Rates Again? What Does This Mean for US Stocks? - TradingKey",
@@ -23,7 +271,7 @@
       "summary": "October 2026 FOMC Meeting Preview: Will the Fed Raise Rates Again? What Does This Mean for US Stocks?    TradingKey",
       "source": "Google News: Global Economy",
       "category": "Global Economy",
-      "published": "2026-10-24T20:04:37+00:00"
+      "published": "2026-10-24T20:04:01+00:00"
     },
     {
       "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -32,6 +280,30 @@
       "source": "MarketWatch Top Stories",
       "category": "Markets",
       "published": "2026-10-24T20:00:00+00:00"
+    },
+    {
+      "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
+      "summary": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead    Bloomberg.com",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T20:00:00+00:00"
+    },
+    {
+      "title": "5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlFlZW9xRXpScTRoWS0ybU9UOW5waXlSNVZ6dFQ2Q0FFaWtST0VqOVktTmYtSVh1RmRQbG1lU2stSEt4RzdrUmZGcERtN3ZKYmU1bk81WUpJWVd0VUQ2ZmVNYUFWNmlBY2dkX2R1SjI0VG9fVmJhSWRoZ1Z2SGRmNjItWXJ0Q3ZJMHJfblMzb3I5LXJiSUE?oc=5",
+      "summary": "5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T19:59:56+00:00"
+    },
+    {
+      "title": "Why did Trump ease tariffs on Canadian goods ahead of the Midterm Elections? - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZEgzcnpHQzhfZTRXUmFPTlp1SllUUUJBWGJzblIyQ0UtczhEQUlQUkFrd0h6UE5Zb3NnaTNpbnNZMjBhV0RUSlctTFo1M1hKcGhPTnRHVWZlUlRpelVXWWdyQUxnUi1YREMyRnBrSzlTWWctaDhLVnZnUzVaNGgxMzY4Z1NtU2xBRWU2Q1RQSWhpQjBna2Z3MnZ0RjZaTXhUeFBBbHpMTQ?oc=5",
+      "summary": "Why did Trump ease tariffs on Canadian goods ahead of the Midterm Elections?    The Business Standard",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T19:59:28+00:00"
     },
     {
       "title": "AI Spending Vs. Nasdaq Sell-Off: Why Wall Street May Be Misreading the Boom - Investing.com Canada",
@@ -43,7 +315,7 @@
     },
     {
       "title": "$1.9T or 56 per cent of GDP...latest ESSJ details trail of damage caused by Hurricane Melissa - Jamaica Gleaner",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVndtVGFTc3AzbjBrTUJtS0t3OGh0amZiRi1XUHVUQjlrRUs4N2F6NlNzMkZ6bU8zc3NLWG9uWUMtSzViTm0xYzZIdDVXTUhTQm9yUExCRjJpV2wzbTZld0ZnQXhNSU1sak1EeXpBQURwLTRvZkx5RnVXRGpRUFA4OEtVcnNPOEk1bHQ2M2dudDk1eGJad25MSTRkUDVySWJmUk9RM2VWUWRqNGU4eDk5SjN3aXRHVVpSSzI5WVd5VlJRN2s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUp3bHN3cmVnV1FVcWVhdnRSRUpMdGdCOE81UFRBRy1XQU16dEZRaGNLWHNqZjFFdndhd2FoNE83VXhKZDZxVTBIQzRXNDhTR2Vjd2E5bVN4ai13Z3RaUU9kU1lodHo0cmxNR3JGeDJ5ZGRzYUlQS0ZycnV4LTc1cTIxWjVscHFPbmJXeWg5Qm80aHdkaEpGYTR2MnRiSDNaM2RrTHZueWtXbkFidF8zcl94TXdXc0JDdVEwQU4yY1ZIQQ?oc=5",
       "summary": "$1.9T or 56 per cent of GDP...latest ESSJ details trail of damage caused by Hurricane Melissa    Jamaica Gleaner",
       "source": "Google News: Global Economy",
       "category": "Global Economy",
@@ -58,12 +330,44 @@
       "published": "2026-10-24T19:45:00+00:00"
     },
     {
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "source": "BBC World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T19:37:35+00:00"
+    },
+    {
       "title": "Crews fight apartment building blaze in downtown Victoria - CBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhUDQwZ21xTUhWb1BhLXhOa1A2N2xvdFI4aU05dFU2dW1RamhXc0NoSDQzVGU4YTZlbmFna3ZUMHF3NU9MRUpOanZBUjJjd01FQ3kxdVB2cVdkVG9KZHh3Q05MbFMzWk45U1hrR0k3OUo2S085aDRic1NZMA?oc=5",
       "summary": "Crews fight apartment building blaze in downtown Victoria    CBC",
       "source": "Google News: Victoria BC",
       "category": "BC & Victoria",
       "published": "2026-10-24T19:35:17+00:00"
+    },
+    {
+      "title": "Former hotel in Victoria engulfed by fire, no injuries reported - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdYUS1id3NMTWNCVzdYc2NCT3hUdU13SGhadDg0UkYzc1l2M3Ffd0tDRkhxOGVPWjRGNEFyblRPUThPRGFvaW5iNE9KbjNLcThkemJoVzk3Qy1Ybmp3LUdyLU1NZXdGWXJqQ3I2MS1CajV3U3pzbDhTcWpMOWpYYjdjSDdHZ1dSbGlNbHFqUF8xbVpEenc?oc=5",
+      "summary": "Former hotel in Victoria engulfed by fire, no injuries reported    Times Colonist",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
+      "published": "2026-10-24T19:35:00+00:00"
+    },
+    {
+      "title": "Gold Stocks That Could Hold Up Best As Inflation Starts Rising Again - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3lRaVpnTzFkY2d2aFFKaXNVMGE4YjdxM2FoM1B5UlF5OUNnVjFEejdsek5FOV9OWGFfUF9MYVVfZVFJY1d1VzRXTjRJX0JYN0ljNTd5WnNra0dpMVlrVFZQWHZKTlM5M1pXalk1VUszR0lILWNOencwaHBvSlhSb21mb0syX2hzYkVJbFpnQ0ZSS1cxYjNJd0F2Mi1scWhPa1YwUmlrTG02a3NrR1Y1SWxxRzE3X0JrTnhwbGxYZVpxNU8wOG1TckpwRHZKUdIB0wFBVV95cUxNUkMzRVczdFE5MS0tQWJjRmdBSDBsZ291cDF6V04xUGs2VWRrRFNIT1NkOFluM1dZaXAySHpGYTRLVlQySEhDeFVmYldKQkw5X001V2tNR0hYRXJDYVFaM05ZUHk5MEx3aXNiODJRYTN0U3JxUDFMT0JUbUYyS0p3MnZLNk1sYUJURUFQWnBzb2NGYzBWSWhrTks1NHFCUkh0Wk82SVpUSXlnX1NqaXR5Q0pXTGtWdE9YSDFLSzNrNWhCS2hBWm8xWmNXY0dKQnM5cC1Z?oc=5",
+      "summary": "Gold Stocks That Could Hold Up Best As Inflation Starts Rising Again    Simply Wall Street",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T19:33:46+00:00"
+    },
+    {
+      "title": "Vancouver Island voting guide: Everything you need to know for the Oct. 24 B.C. election - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
+      "summary": "Vancouver Island voting guide: Everything you need to know for the Oct. 24 B.C. election    Times Colonist",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
+      "published": "2026-10-24T19:31:19+00:00"
     },
     {
       "title": "‘Buy himself political favour’, Trump walks back certain tariffs as trade war appears to sway voters - CTV News",
@@ -122,12 +426,20 @@
       "published": "2026-10-24T19:11:33+00:00"
     },
     {
-      "title": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5",
-      "summary": "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount    WSJ",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T19:11:13+00:00"
+      "title": "Accounting Brief: Financial reporting implications of tariffs - RSM US LLP",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU05pX29UeE9IWm5kaXZGYW1lemdPYWpleWlWbG8xWWRXRTdaZTc2dlRkUUxIdDNYcUdqakZSeEt0TnRWek80UzZkQXRIRVRqQXZ2Yy05ME1TbUgzZmgtc2FraGg4aXhjTnE3SEcwNmhpdnFCd3VLUXZOQ3UzbEtGMktuTWtjVHFLZXo3eVZtWE9CQWRtREtyelBQRDV3TGdiRlV3VGFjbDdJV1NKN2RJRA?oc=5",
+      "summary": "Accounting Brief: Financial reporting implications of tariffs    RSM US LLP",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T19:11:32+00:00"
+    },
+    {
+      "title": "South Korea’s Central Bank Plans Global Framework Against Illegal Crypto Trading - TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51SUxCWWZYdXA4UE5Qa3dCcGJnOXY4YndCcXYzOFhlTmJiM2c2TkN3a09kelI0ZUNHdFFNZ1R4a2tXeXl0dDZlRWdLVFlrLVhRb2VNdW1sNHJuaTA?oc=5",
+      "summary": "South Korea’s Central Bank Plans Global Framework Against Illegal Crypto Trading    TOKENPOST",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T19:04:56+00:00"
     },
     {
       "title": "Within Nine Months, Inflation Consumed a Fifth of the Minimum Wage Increase - Nacionale",
@@ -138,6 +450,14 @@
       "published": "2026-10-24T19:03:30+00:00"
     },
     {
+      "title": "5 of the Fastest-Growing Stocks in the Market - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUNDRUYybV9KUXFMN2hESEdIRzhmY0NhaGhtUmtQczVzeHJ5QU12RDhVX1ZENDNIWVJ3c2xjb2VTOUZGYUpCUEZHS1ZIRGd5SU82a05sZkR5MVRVcWh4MlBrV0hIcmwwSXdxemxKaXJkekV5ajIxNW9za1JZS0tMSG0tTXQzQWlLOXI2bUJQWEh2QQ?oc=5",
+      "summary": "5 of the Fastest-Growing Stocks in the Market    The Motley Fool",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T19:00:00+00:00"
+    },
+    {
       "title": "Gold Falls to Three-Month Low, Oil Prices Fuel Fed Rate Concerns - Morocco World News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHpfQWhCN2haOVlaTXBiMVo2ZGNmMURKdG54TVM1MGQwc2pSb29tZFNUYjJBM1V3VEthdl9OMGlwbHRlb1BXM2hzWUtZU3FWZnhEb1NfNlMwRGw2OWoyeGpoZ2EwRUhleWtENXUzWU1qMEpjamJQNTBoT2NZZGdCU1FQMEV0RjlyNktjX0pfbUpCX1dtTG41anpZcVdSMy1POVlnYnNPTEpnSkJPOEJ6cENR?oc=5",
       "summary": "Gold Falls to Three-Month Low, Oil Prices Fuel Fed Rate Concerns    Morocco World News",
@@ -146,20 +466,28 @@
       "published": "2026-10-24T18:48:09+00:00"
     },
     {
-      "title": "Tens of thousands march in France as protests continue over schools and living costs - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkJNY0ljY3dITEhHaGJsbER2amdnZ29kZ2tETkd1ZXg0ODZKakNtMFd0MXdPX09aME40bU80NTBnbEhneDNjbm5rV20tclFCZXVZZlh6QzM5RkRJdG5QUkhUUHlSdUJxdFR1RXFUZEVPVjJBZE9wbF9PaHJGRnJYaXp4Yw?oc=5",
-      "summary": "Tens of thousands march in France as protests continue over schools and living costs    CBC Live updates: Police and protesters clash in France as water cannon deployed in Paris    CNN Hundreds of thousands protest again in France over school funding, living costs    The Globe and Mail Thousands march in Paris and other French cities as protests take place across Europe – Europe live    The…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T18:46:45+00:00"
-    },
-    {
       "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
       "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
       "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
       "source": "MarketWatch Top Stories",
       "category": "Markets",
       "published": "2026-10-24T18:45:00+00:00"
+    },
+    {
+      "title": "Pezeshkian Points to Household Strain as Inflation Pressures Iran - TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIT2JRUVJmdGpGQ29HUUJiUUVYSnBWc0drWm56MFdHRDhsMUVYSjgyTzFXazVPSHNWY09CZGpXQ2QzZVdRbDZkZDV5d3FiYlI3RWJRZ0lPbEhhcUE?oc=5",
+      "summary": "Pezeshkian Points to Household Strain as Inflation Pressures Iran    TOKENPOST",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T18:42:45+00:00"
+    },
+    {
+      "title": "Developer has big plans for Orillia's 'raggedy' old Econo Lodge - OrilliaMatters.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFhfTXlWeHkwQVM0bm82aWdsVE1jWlVWMl9URzZUTTBreTdJR1B3ZHFTZ2UzUFhyUmQwdXpoVzRQYWFqeTVyUlNoNjZGMDNhTTlrWTcxekpOOGM4U1lfYWF5XzZTa3J3U01LRVE2QzBVdnA3SE9kZHBwWGQyY0VUZEx6bVRhUU0yOWtQSjB5WnFfcjZGaUdsQS14ZjRUY1RJLWpFcHRsUTlOM1p0ZWJTLQ?oc=5",
+      "summary": "Developer has big plans for Orillia's 'raggedy' old Econo Lodge    OrilliaMatters.com",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T18:33:38+00:00"
     },
     {
       "title": "Trump Adjusts Tariffs on Canada Ahead of Midterms, Exempting Some Agricultural and Forestry Products While Adding New Items - finance.biggo.com",
@@ -178,12 +506,28 @@
       "published": "2026-10-24T18:12:13+00:00"
     },
     {
-      "title": "5 of the Fastest-Growing Stocks in the Market - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUNDRUYybV9KUXFMN2hESEdIRzhmY0NhaGhtUmtQczVzeHJ5QU12RDhVX1ZENDNIWVJ3c2xjb2VTOUZGYUpCUEZHS1ZIRGd5SU82a05sZkR5MVRVcWh4MlBrV0hIcmwwSXdxemxKaXJkekV5ajIxNW9za1JZS0tMSG0tTXQzQWlLOXI2bUJQWEh2QQ?oc=5",
-      "summary": "5 of the Fastest-Growing Stocks in the Market    The Motley Fool",
+      "title": "Hospital Purchased Services: The Supply Chain Gap - Supply & Demand Chain Executive",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1dBWUJ2SW1NMzB5S2xOT0lmaENrRmVROC1oQ1U3Uy13Vlhtenlyd1NGTHJZenJWT2dzRVNmT2g5N05TZGJDcmRGTWVGVkc3S0hoUUNrM0RyRmxmUlpRYVZxcFB0Zm1wRFlkWHluNmdlNmNKNHRBdU16Z1NkQ1hVMTRucmVNY01ESHhEekxkdUdmai1mS3RaZW5VR2JCMHp4SzhNRWNlSmd0Mm1FNV9Vcm1tb3JyR09lV3NNMi1LMkpka09KQWF6OG5zRUZUamFrTEJIR0FBYw?oc=5",
+      "summary": "Hospital Purchased Services: The Supply Chain Gap    Supply & Demand Chain Executive",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T18:11:15+00:00"
+    },
+    {
+      "title": "3 British Biotech Stocks To Watch In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHZUalo3TWVudUkwblN5WVJ4eF9GZ1ZZaXVDNlN5bHN3UVJkLVVrTE9CbS1VMHNKbjdma3Rvd2hzRXBWMm9jRkpTM1RIXzVDeVAxc1RUd3gzUFNpel9XVnMzNlA1R2VHZDR6MS05U1pMMVVyQl8yZGlKalZpak1KUUZUazlZckMtOF8xWHlHX2pBdkdCWlE?oc=5",
+      "summary": "3 British Biotech Stocks To Watch In October 2026    Yahoo Finance",
       "source": "Google News: Markets",
       "category": "Markets",
-      "published": "2026-10-24T18:06:08+00:00"
+      "published": "2026-10-24T18:09:57+00:00"
+    },
+    {
+      "title": "Netanyahu says he'll consider BoI's criticism of his crypto sanctions plan, but will do what he thinks best - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWDUyMnBVbGpnQlVXNkxDOWsyQi1OMTRuYy1ON0pSMEg2dGlmdDBMNTV4d3JQZVNldlp0eUY0ZWNldzBoOUVNblFjZ1FYelhBR1lyUW4xUl9VclRiTUVzcnpOem9Zc1F1dk5rdGlQQ1FEem13eEdnaDVCSjB1alVKUUJ0aGJ0WG11OF9VRnZGMGI4eXQ4SDlEUjFZUlctNGJSSGhsMmQ2MjNacy1YOGd6WVFDQllmN1hVQm1VaXItX1FwSldxaXlGYkVoYUFaanhaNFhwT0MwUGdBenRMbE1wTThueVM?oc=5",
+      "summary": "Netanyahu says he'll consider BoI's criticism of his crypto sanctions plan, but will do what he thinks best    The Times of Israel",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T18:05:04+00:00"
     },
     {
       "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
@@ -192,14 +536,6 @@
       "source": "MarketWatch Top Stories",
       "category": "Markets",
       "published": "2026-10-24T18:03:00+00:00"
-    },
-    {
-      "title": "Netanyahu says he'll consider BoI's criticism of his crypto sanctions plan, but will do what he thinks best - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWDUyMnBVbGpnQlVXNkxDOWsyQi1OMTRuYy1ON0pSMEg2dGlmdDBMNTV4d3JQZVNldlp0eUY0ZWNldzBoOUVNblFjZ1FYelhBR1lyUW4xUl9VclRiTUVzcnpOem9Zc1F1dk5rdGlQQ1FEem13eEdnaDVCSjB1alVKUUJ0aGJ0WG11OF9VRnZGMGI4eXQ4SDlEUjFZUlctNGJSSGhsMmQ2MjNacy1YOGd6WVFDQllmN1hVQm1VaXItX1FwSldxaXlGYkVoYUFaanhaNFhwT0MwUGdBenRMbE1wTThueVM?oc=5",
-      "summary": "Netanyahu says he'll consider BoI's criticism of his crypto sanctions plan, but will do what he thinks best    The Times of Israel",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T18:01:41+00:00"
     },
     {
       "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg.com",
@@ -224,6 +560,14 @@
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-10-24T17:38:41+00:00"
+    },
+    {
+      "title": "New generation of bad loans, amounting to €1.7 bln - eKathimerini.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblB1UkhvNS1SaEd6bjJwa1BBNktCLW5XeHN6Qlh5U25FM2ZCZlI2UXI5RU5zYXRPWEVxN05aZzZuUERuSmdnT1Nxcm85dGhpQXVqS0hYVnU1c2FtLTVqR3JTRFZvWDBzRi12eDBoZ05fUTJKX2wwU01uOF9xUGtCTmd5NXRBMEYwRnlZUTR4NUU2MjNxeVNFalpPMA?oc=5",
+      "summary": "New generation of bad loans, amounting to €1.7 bln    eKathimerini.com",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-10-24T17:30:10+00:00"
     },
     {
       "title": "Opinion | How I budget - The Washington Post",
@@ -266,12 +610,20 @@
       "published": "2026-10-24T17:23:00+00:00"
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "source": "BBC World",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMEdmMlZaSzhHcFgtaEdjZlNkQ29JdlE3VEVRaGxyd3J2ZktQeHF0NC1RRTlnaVJKTHNBdlZwNmRVM2JSZ3ljbzY5cmdDWVRBbXJZZXRZYzEweWs?oc=5",
+      "summary": "Palestinian families displaced as Israeli forces demolish Hebron homes    BBC Why is Israel launching a new military operation in the occupied West Bank?    Al Jazeera Israel launches collective punishment campaign in Hebron after two soldiers killed    The Guardian Palestinian officials plead to foreign governments as Israelis return to the polls    Global News Israel imposes closures across a…",
+      "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T17:21:42+00:00"
+    },
+    {
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVB6VTFhY2thYlQ0T3NYb0xZeGt6T0E3WGtqNGMzMlhmMlh6UVBmRHZDeUxzRjFSTEV1aWtBR29NUHd5MjdESEhicTUtSTZETkJqRmdocmRpaV9mSkxlcFN2NWkzdFB6WjFudHJkZ2lfVUd3UWx0U0ZCVWRrU19vdVFCQmd1ZlZaWHlLUXBwTQ?oc=5",
+      "summary": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now    The Motley Fool",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T17:15:00+00:00"
     },
     {
       "title": "CIBC (TSX:CM) Stock Could Be 30% Undervalued As Excess Returns Impress - Yahoo Finance",
@@ -290,12 +642,36 @@
       "published": "2026-10-24T17:11:56+00:00"
     },
     {
+      "title": "Top 3 Canadian Value Stocks To Watch In October 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3RKblY2aDg2SExfc3NVOFd6bG9WMXNxZDIwUkhHeU5JMDRNenNOUTU4LTdQbkVYSUNoN1lwRkVGN2NQWDJtLXprUWhJX0hSa3lEaC1SXzAwbXQwZ1lTdDhab1Z3QVg2QVpCLVN0U0Fuc0xxaUFXWFRNMVhVNG1yLXdseTNHUmtlUGV0V2dkb1htTDJnS2c4?oc=5",
+      "summary": "Top 3 Canadian Value Stocks To Watch In October 2026    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-10-24T17:11:43+00:00"
+    },
+    {
+      "title": "Robert Murray, candidate in 4th District race, not convinced sanctions against Russia are effective - WTVR.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2hVTUg0RnJaMVlIS3JGZzNHdUs5NEZJM3VTYjB5ZFlGQ0R2cnQtVGtHQUliRERXanU0RGcwekFTWmJja0pQQUtvVGlqdDk5X013QkczSTRhUUN0aHUtNHZnSW5wVHdwcm5GNjlOUUhhdUl4TW9WRldoN3U3ci1CVENnOTJOaG43emdSRmhlM0VCY0dhakllUG13RXZSVjZpSjNncWo5T19OQQ?oc=5",
+      "summary": "Robert Murray, candidate in 4th District race, not convinced sanctions against Russia are effective    WTVR.com",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T17:10:15+00:00"
+    },
+    {
       "title": "3 Financial Stocks Backing AI Infrastructure as Data Center Funding Gets Tough - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXluRXFYRnhzLUdOdFJYYzRuNXdtWHg0dkc3ZnVqdTY1cWtCUmxsaEp2MHFmaUhQU2o5cXpkal9wenZjQWo0ajJfSnJtWlFka3huYm1rQk95RjQ5aDdRcTY1YkVkek1qN0Z2MGhOZEY2N1Y0Nlk3UDVSR2liNXpZVUJjcGtUd3dyMkZmY29ZR3pJMmdEcEpfMHpn?oc=5",
       "summary": "3 Financial Stocks Backing AI Infrastructure as Data Center Funding Gets Tough    Yahoo Finance",
       "source": "Google News: Markets",
       "category": "Markets",
       "published": "2026-10-24T17:09:04+00:00"
+    },
+    {
+      "title": "ServiceTitan Survey: Tariffs Pressure Contractor Profit Margins - For Construction Pros",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQck9Hd0thcGlfdTZlQ25HdEpJbHoxSU9QbTY5RnN6N1JvMVlnZC0yUFNLUXZINllEMGxESWVjMWdyaTRXWDZhZXRLTktWUkZncXJnVkptdW5EM092R082bnlwbU1aSUdsRUhaekdQS0o1bHRIRmVEX0xCOHlkRDJuU1lidnQyWENja2tyQjRteFFpcjQtUkkyNEo2SzROVWpJd25lSUFZa3E2STJpWkJOLUgyZG5ldzNVeGZqRHBVRkZ6c3RWZ1N3Tlp3NTZQNktGanBVOHp0ck5qOGZmdy1lNVd2SEc4bDZRcWZ4eFYzM3BzZw?oc=5",
+      "summary": "ServiceTitan Survey: Tariffs Pressure Contractor Profit Margins    For Construction Pros",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T17:06:15+00:00"
     },
     {
       "title": "Form 4 YPF SOCIEDAD ANONIMA: Walter Ariel Actis (Supply Chain VP) For: 1 October - Investing.com Canada",
@@ -370,20 +746,12 @@
       "published": "2026-10-24T16:58:55+00:00"
     },
     {
-      "title": "Netanyahu Eyes Crypto to Bypass Sanctions - Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVpzNVVNRTR6bUgyQUVudTRYSk1kQURKUkwxa0dQSnlrLVZHNUVSREVlRjhHSUVOb1V4TGxVcWp2M3hsLUFtSnNVYzhYUHhTMmFyTE9ua09kYmxpWTI4RWJaYUNwYUF1dWtnZ2ppVEt0ekNWLUZNRzU3VUdLM1NuZkdSRmo1SkcweFVwa0tDUWlnZw?oc=5",
-      "summary": "Netanyahu Eyes Crypto to Bypass Sanctions    Briefs Finance",
-      "source": "Google News: Geopolitics & Trade",
+      "title": "Donald Trump advisers open to working with Netanyahu's opposition if PM loses - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xR0pveHZ6VFphejEtbEhud0lTSkF0NXhwdFFEX19BQWJKc2dienJCN09oajkxSDdOX3hmelRKeVUyd3ZwSzVKT1JFanFOOW44VHhvLUJCWUxpN1At?oc=5",
+      "summary": "Donald Trump advisers open to working with Netanyahu's opposition if PM loses    The Jerusalem Post As Israeli election looms, Trump advisers see opportunity beyond Netanyahu    Axios Is There an Effective ‘America First’ Position on Israel?    Tablet Magazine Israel’s election is yet another test for Trump’s endorsement    MS NOW Trump endorsed Netanyahu, does it help?    Yahoo News Canada",
+      "source": "Google News: World",
       "category": "World & Geopolitics",
-      "published": "2026-10-24T16:57:11+00:00"
-    },
-    {
-      "title": "GDP leader works with Naval Service - en.qdnd.vn",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckJmYlJDbzYwRW9RODNZaXZCX1ZUci15UDhUOXA3Y01IMUVqUktBN05ZTG0zRlc3cWFpYU9LOUgzQmR1MkVaR0IwMUc5bnZESEY2WVhYOHdaT0ZnWnduZUlZUll1akphVVJvWVYtbVRzbk1zOEh1NGp1TXJsZnJnZw?oc=5",
-      "summary": "GDP leader works with Naval Service    en.qdnd.vn",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T16:48:00+00:00"
+      "published": "2026-10-24T16:50:14+00:00"
     },
     {
       "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
@@ -400,14 +768,6 @@
       "source": "Google News: Geopolitics & Trade",
       "category": "World & Geopolitics",
       "published": "2026-10-24T16:45:52+00:00"
-    },
-    {
-      "title": "Contractor Profit Margins Under Tariff Pressure - For Construction Pros",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQck9Hd0thcGlfdTZlQ25HdEpJbHoxSU9QbTY5RnN6N1JvMVlnZC0yUFNLUXZINllEMGxESWVjMWdyaTRXWDZhZXRLTktWUkZncXJnVkptdW5EM092R082bnlwbU1aSUdsRUhaekdQS0o1bHRIRmVEX0xCOHlkRDJuU1lidnQyWENja2tyQjRteFFpcjQtUkkyNEo2SzROVWpJd25lSUFZa3E2STJpWkJOLUgyZG5ldzNVeGZqRHBVRkZ6c3RWZ1N3Tlp3NTZQNktGanBVOHp0ck5qOGZmdy1lNVd2SEc4bDZRcWZ4eFYzM3BzZw?oc=5",
-      "summary": "Contractor Profit Margins Under Tariff Pressure    For Construction Pros",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T16:41:25+00:00"
     },
     {
       "title": "Oil Hits Six-Month High as US Stocks Decline - WANA News Agency",
@@ -434,22 +794,6 @@
       "published": "2026-10-24T16:34:25+00:00"
     },
     {
-      "title": "Vancouver Island voting guide: Everything you need to know for the Oct. 24 B.C. election - Times Colonist",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pDdkVzd1BkYnlmZ1JXa0UtNWZBWkIxdGFDalpCUDVkOEJ1bmktNVhvZU5ZNG9EeTVHS0F4Y19JOWFQTm5EOXlLZUxGaXdiemhsNUpwaGt4NWoyWF9XSHVKTklxdk1GZ19xX1ZmZWR1djRYME8tbG5ady1sZ0c1QmpWVXp1aGMzeVJSOTJTWGNGaDVxSzVOQUR1Y1FoUjRjOWlwOQ?oc=5",
-      "summary": "Vancouver Island voting guide: Everything you need to know for the Oct. 24 B.C. election    Times Colonist",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-10-24T16:30:28+00:00"
-    },
-    {
-      "title": "Six Flags adding seat belts to Goliath rollercoaster following death - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFNG5aZG1fZlh0UUlwQ0lONnd1cnhQQ2xfVG5ZTlBFdEhMWWlqbkc0SzdQc2NrQ2tJMFRTM0d5MHMxVER1cl94czBPcHFFUkhLWkpYOVpZVThGQjA?oc=5",
-      "summary": "Six Flags adding seat belts to Goliath rollercoaster following death    BBC Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death    The Guardian Six Flags says it will install seat belts on Georgia roller coaster after rider’s death    CityNews Vancouver Six Flags Will Add Seatbelts to Some Roller Coasters After Rider’s Death    The New York Times Six Flags…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-24T16:29:31+00:00"
-    },
-    {
       "title": "Trump eschews tariffs for trade talks on wind turbine imports - https://megaproject.com/",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVl9NV2dfRFh2T0QtbDJsUElMLXItY3YxWGwyaDJoOE90LVFLQWZURGxjU3dXT2U1QlpCRXdubkRNeE9QN0cxbXBqNkZWTnYzbFdkOWc3cGVuSzRuOGhNN0RpblZPakxtVW1ERlV3YlFQNVpSRE9LOTlraEwzem9qWWNOdk9mQXVUTmxKeDJrelJKVWoyUnhabmZzUlE2MUdFcGhR?oc=5",
       "summary": "Trump eschews tariffs for trade talks on wind turbine imports    https://megaproject.com/",
@@ -458,20 +802,20 @@
       "published": "2026-10-24T16:27:52+00:00"
     },
     {
-      "title": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZVB6VTFhY2thYlQ0T3NYb0xZeGt6T0E3WGtqNGMzMlhmMlh6UVBmRHZDeUxzRjFSTEV1aWtBR29NUHd5MjdESEhicTUtSTZETkJqRmdocmRpaV9mSkxlcFN2NWkzdFB6WjFudHJkZ2lfVUd3UWx0U0ZCVWRrU19vdVFCQmd1ZlZaWHlLUXBwTQ?oc=5",
-      "summary": "Prediction: 2 Stocks That Will Be Worth More Than IonQ 5 Years From Now    The Motley Fool",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T16:22:23+00:00"
+      "title": "Ranked: Countries With the Highest Online Gambling Rates - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12VkVPS0I5bEVOemNGUHJodnRXYWxla1dwWkpJLUtmNHJvVzVGQ2wzc3RUOE1BY1R4eXpWc2lyeGpXN0oxSFJ6SjdvbXVJWmNsY0Q1RkJWTnRpQ0FBOG9kdElwUVpVR2tCWFg4Yw?oc=5",
+      "summary": "Ranked: Countries With the Highest Online Gambling Rates    Visual Capitalist",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T16:24:27+00:00"
     },
     {
-      "title": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTy01WmhSdFhCTnNBdmZ2ZHczcmNGSTRRNzNsdmxKVmQ0d0pOYVZWTUJBWVJqWlhYOFl0R3g1aGJjS0xnYTBKN3RuV3hJZFBJT2NRaXQ1QmJ6Q0ppYWRrZVZjTmhnRkxfUkYwRm14MjJHTDRsVFoxTlJFdHk2N293OGZ6d0RteVBqaFM1VmQ3dDRNbENyZkZvek1FN0VaZ3NIVVhiXzlhNXcxdkxXZG40a3JDdUNWVjhKR1BOMFM5NG9lcWJmNDItMlJPeVlpSEMyeFhaUzNRVldYU0Y1MDdoZHBqTVBIajFOVG9YWm1lWGotZE0yLWQzdlRwdlNUS29fUEJhR0hTdnVnbEY2SlZObHczN1Awa25saHkzZ3hjNGVlb1Z0LWpRa3pxclo?oc=5",
-      "summary": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left    The Globe and Mail",
+      "title": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaHhNbDBkWl91WHRKT1JzZkxCeUwxc2N0a01ISTRlWkhiVFZLdVJtVTU5WlBDZC1ERktLMUFyb1c3d18xZ21iNkhRWVRSRzljVUwxc2d2dmFNQlc0WmowUVhGdXBqREJDQjQ3QV83clBiTWlheGdoQzNCdzE4RGd0Z3NIMGZDNXpjVm9KaG8wVDNhUkp3a1pGNl9Ycw?oc=5",
+      "summary": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left    Yahoo Finance",
       "source": "Google News: Markets",
       "category": "Markets",
-      "published": "2026-10-24T16:20:00+00:00"
+      "published": "2026-10-24T16:20:02+00:00"
     },
     {
       "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
@@ -482,60 +826,12 @@
       "published": "2026-10-24T16:18:00+00:00"
     },
     {
-      "title": "Benjamin Netanyahu warns of banking sanctions, plans alternatives - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGpHOHlpeHMzV0pMc3JOOVJvN3AtVFNjNGZWOUNzM1JlbkdLWmk2MVlHV3FBYkZqLUFJaEZBRW42OHhRZzRtWUw5RFV2cUwzZGR6d2FQeE0xWldISl90TGhqa1E2eVFGUXZDb0RKYXJZN1pEeFNyOU1OcW9MaElpeF93azluUQ?oc=5",
-      "summary": "Benjamin Netanyahu warns of banking sanctions, plans alternatives    The Jerusalem Post",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T16:14:43+00:00"
-    },
-    {
-      "title": "Wall Street Assets Take Nearly A Quarter Of Crypto Perpetual Trading: Glassnode Report - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTNnY3ZmQlFjcklVTFpTV05ZYjNQS003Y0t3M3NOZDhINWYxUkpueVl5NTY0VHplMjRwalhKcXFzTjRLYVpTc0JNUmZaMlVtd1M4UXRfaFk5MVRfTC1uQktYajBDazVPNXJUT0JwRHBwU2o2cms3RDI4VWtfc3NQd21NdHVycklfSFlUTUNTYlpkU04tRjl5LUFZVmhWSDQ?oc=5",
-      "summary": "Wall Street Assets Take Nearly A Quarter Of Crypto Perpetual Trading: Glassnode Report    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T16:14:32+00:00"
-    },
-    {
-      "title": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUG9zeEZkRnJhRXdEUm1hMHEtbFk3Uno2bXkxb3BhQWowN2tOTEtIQW1oSVo4bkh6R252Qm9Zd3AyY0l2cmh1WDNtSmFPanZzVk9jQkxIRS03LWRqUXVjUFJ6OXBoRlVGUkw2SkxJMWtrazdhRXNSTDZTZThVcXhhTlZUczZzWXVDRXRJbkVqeVRoOE0?oc=5",
-      "summary": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T16:12:34+00:00"
-    },
-    {
-      "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUFnNnBmeFFYOGM4WGYtQjlTaTNpcWhhdDZVbnFYZHRyb29fOUE3YV96eENvNE1haVBuNWJVOG0zdVZMYktYMkkzaFZrWmRlZHR5am94b0RPVEtVTXV1MzRPOHNRVmpWS1NVYmpRTmk3YlFzRGh3OEczWXlUZjJvUVV2UDdFbjhCQ3JaOW8wZkEyaEZEaEtkREs0U2VQXzUxUW94NDhRYnp6d0RXbGRmZHJwd2YweDA3ZW9VT2ZQOXZPM2c?oc=5",
-      "summary": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio    CNBC",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T16:11:39+00:00"
-    },
-    {
       "title": "Royal Bank of Canada (TSE:RY) Stock to Pay Quarterly Dividend of $1.76 - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXVQVi0wcFhKTzlqbV85aXdoNFVvSGdGVHZhT3Bha2w5UThOUjJqcDZ2MUtPOTJGemJpQ1laeHVpcXFOdU5iXy1rYUdNUHBLMnV6UFFJQi1pcUxiMF9nUm9jUmhyX0NmQ0ZaVlJxSEtBOVYyS0RjM2VxSnBuSEhYcFM2U2puOVcydE1EQnpJMS01OEJ5cnV2YWhpcm82d2RIZ2tBQTJnSVV2YWNFcnBkbU1pWkdvTnZrQkRmMFZyTmVkRVh2Nzdycg?oc=5",
       "summary": "Royal Bank of Canada (TSE:RY) Stock to Pay Quarterly Dividend of $1.76    MarketBeat",
       "source": "Google News: Canada Economy",
       "category": "Canadian Economy",
       "published": "2026-10-24T16:10:15+00:00"
-    },
-    {
-      "title": "Bank of Montreal And 2 More Canadian Dividend Stocks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFQ3NHJLOWFXUVlVWU1Ha0dKOTN4OFVHdFl5M1FYbFRzSHA0TFlTNnVzZ2o3WUx3dFoyOFN0LXpJR2Q5YUpQUkJkbndtOG9jOW42T1dEOWtFTHg4MGJTRll5LWpjRmM0X2VNVC1VQWQzLXl3Vms0SzJxaTR0S0NMbVRTN2xWMzRxUnJybVhmZUZNT3BHUkt6b0JB?oc=5",
-      "summary": "Bank of Montreal And 2 More Canadian Dividend Stocks    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T16:09:49+00:00"
-    },
-    {
-      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
-      "source": "MarketWatch Top Stories",
-      "category": "Markets",
-      "published": "2026-10-24T16:04:00+00:00"
     },
     {
       "title": "Toronto company launches a healthier vaping device – and Big Tobacco is sniffing around",
@@ -546,7 +842,7 @@
       "published": "2026-10-24T16:00:00+00:00"
     },
     {
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
       "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "source": "BBC World",
@@ -554,52 +850,20 @@
       "published": "2026-10-24T15:56:48+00:00"
     },
     {
-      "title": "'NO SUPERPOWER CAN SUSTAIN WITHOUT...': Mark Carney Slams Trump In Front Of Erdogan Amid Trade War - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOaHhIV3g0QVJ0dVBlYWZhMGJlYzEtYkpLWDVNNlBoTWlUMGhQOUFWaGlUc2Z5a0FjNU5yQVFDU01XZENtdVRvTXNRWmh2TXRSVlhhWmNDcVIyamtQTWZvdlhBaG1BWi1URmRGU1FuS1JXeHF4ZUNvaEJhdDlNS1c0dlRvY0hIeElyRkNVVFpFSmp2dEhDaDdDQ2x1eDBTT3BwTmFjZFZiZGR2MXZ5MEY0RkEwaFQ3VHE1SUdwUWUxdWwxaV81ekJnM2VIU3Y1dUxhWjB5Z2xKYVNRczBxSTFiWnVtQU52VXZ0MWZQOXdkeWQ0QkFONGlVTjhGdFdwMmh6VTBZ0gGIAkFVX3lxTE1Pd3B5YU94a1c3c3lkY2JOQ0xBWFZ1STltNU5XUFRpQ2hob1p3eGswRGlTeGF5STNDU3U4SnFGclpLc0NwSW9jakEzaWVlSGpVZkp3SnRaWlhJSUZZWEd0RXVGNEtZQmM5V21INTNmZFMtM0pRdVZhWW5RYjg1d2xNS0JxdDdvenV1TEl0Z09NUjV3SDV2SUFKYVFkcjJIaDB1cndGYW0ybVNyMS1QYmxFTUdQN0VMQTZfMUl0R3hSMEF1V0pPZmhHNUZHQndhdTd2MlVfVjlFUndDODVQY3djeUJpUGhkWExzeUtOcm5FVmNTQ1dVT0YxRGVJTVNNY09rUEZBcVVtdA?oc=5",
-      "summary": "'NO SUPERPOWER CAN SUSTAIN WITHOUT...': Mark Carney Slams Trump In Front Of Erdogan Amid Trade War    The Times of India",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T15:52:45+00:00"
-    },
-    {
-      "title": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV2RyekJDTGFYYzFuRmp3b3lNSV81Y2F5Y2tTT3ZZNm54d1F2T3hCb2xlNTkyLXEwYW1KYnRHcFNxOE9MOXZwMnR1NlE5Y0l5ajE3UldyVFc3bUMwUkR6d3FQekZLZnBNUGYwZ3d4VDRya2d0VXpFVkpfXzBEcFEzMnhGUmZ2bW9Gdy1ySUNSSWQ5cXVEX3Vv?oc=5",
-      "summary": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity    Barron's",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T15:44:00+00:00"
-    },
-    {
-      "title": "Why Trump’s latest tariff changes are good news for Quebec — mostly - Montreal Gazette",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2ZRZFd5MGk5V19ZbDZiODhScmliSW81bVBvbFB5Wi1PRW00dEJFd2xMTHFwQWhUbmV5MHlMTG01aE4wbW5nTHpGbWt5cFhxUUhEeno2X0VnQ1BPXzhOQ0NCcVVtTEotUHUzeGNBUU9rSDFhZHlMblNsLXY0Q2VRUmo0Yy1FcVNtbkVwVjJrTmNWd2NQcExvMk5FelE4Mk0?oc=5",
-      "summary": "Why Trump’s latest tariff changes are good news for Quebec — mostly    Montreal Gazette",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T15:43:35+00:00"
-    },
-    {
-      "title": "Former hotel engulfed by fire in Victoria - Times Colonist",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGdYUS1id3NMTWNCVzdYc2NCT3hUdU13SGhadDg0UkYzc1l2M3Ffd0tDRkhxOGVPWjRGNEFyblRPUThPRGFvaW5iNE9KbjNLcThkemJoVzk3Qy1Ybmp3LUdyLU1NZXdGWXJqQ3I2MS1CajV3U3pzbDhTcWpMOWpYYjdjSDdHZ1dSbGlNbHFqUF8xbVpEenc?oc=5",
-      "summary": "Former hotel engulfed by fire in Victoria    Times Colonist",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-10-24T15:35:00+00:00"
+      "title": "Royal Bank Of Canada (TSX:RY) Taps Debt Markets, Is The Stock Still Undervalued? - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTltMnpyTV81eEV4Q01lODNvUzd6MUdFTmtZNnptX2dzWUVJeDltZ0p1THRhaDd2dUFBOHk0R3lzb1o3cVdieE9tRzZyV2h5SW4yUUVIWjRIVzlLbnRIdlplSlVyY3NwdG1CbmdSS1FHbFRRejRzNlhqM3hNMFoyVXV6enFzNm5leVJJdnhINHpDUzFLLWtJVnhLemc4SEEwc3lvTWxLOS1NQlVIQjJMclhjcGNyYVlIaHVZZFhHUTQzcVp4WjkyMVRFSmo2R1p4c3R1MdIB2gFBVV95cUxNR1E4Q19FOHlDMmZCU2xVVjdaYWYtd3BtWFMzZmphYlYyX1BoLWZKeThEdzZkNDBXd0N2T2VZR1hPZVdDOElRQm8tTFlYbGRTa1AxWXN4a3cxZ1lMZ0h5UGh0V2xnSllhcUMyZ2U0aXMtekdzNW1kbzJORWI5dDJzRndnNFhmUVlGVUFUQkpjMXl4d3Z5NGFFQTdlMk9lSFpCY0NKYjY4bzVib2ZkMnEzZmtrV1dXT2xLaFp5ZkNPUXI0aWRBTFlvSmotdHg4NHozTExrQ0VHMmVKQQ?oc=5",
+      "summary": "Royal Bank Of Canada (TSX:RY) Taps Debt Markets, Is The Stock Still Undervalued?    Simply Wall Street",
+      "source": "Google News: Canada Economy",
+      "category": "Canadian Economy",
+      "published": "2026-10-24T15:39:44+00:00"
     },
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMEp4VjFiMF9oYllMcllnVzU1SmZqZWJxMm9nQ3loQ3NuNm1oc1JrWmg4MVVJWFNNeHlvOGpEOEJKLWZ1eU5KVDlscTZvOC15Qk51T01QYTltTHhNV2hCbVV0cmFDNTRlTzMteWFBbm1mYVlMdEJpOU03TTZ1X3V1QnBIWHY3NTBoSHdqTlNuYXdvVnFueTlwZGFYRkZxbTZM?oc=5",
-      "summary": "PHP-ocalypse: How two critical web bugs almost broke the internet    TechCrunch AI Hacks Are Coming Thick and Fast and Overwhelming the Internet    WSJ The 5 Things You Need to Know About the PHP Security Flaw Breaking the Internet    The New York Times Patch the Planet: global response coordination as agents uncover critical vulnerabilities    OpenAI Welcome to the Valley of Pain    The Atlantic",
+      "summary": "PHP-ocalypse: How two critical web bugs almost broke the internet    TechCrunch Welcome to the Valley of Pain    The Atlantic Will AI expose the rickety infrastructure of the internet?    TechCrunch ‘No indication’ of Canadian data compromised by global PHP issue: officials    Global News Patch the Planet: global response coordination as agents uncover critical vulnerabilities    OpenAI",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-10-24T15:30:00+00:00"
-    },
-    {
-      "title": "Why is Israel launching a new military operation in the occupied West Bank? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcTVxUHFqOWZDUGMzSDYycTBIbFhHRDYtc1p4ODE3Nk9iQlhNcUhlZFBxQy1sS01VQkRpd2prT20yNVFjd0VOT3ZOYWVKczF2Vm53aGpGamxlN0VhVFlqejdVUHFjYk1HQTRaV3hUVHcySDhPSmFCU2c2MVUwSVktaUxNY2JUNHVSa1hDMWdMcXhVMDBtQndDNVp3bVhLeWw5bElIeWkxWjQ1aXRDUG56YVhudEJ3dWvSAbwBQVVfeXFMTmpUMnhhb2ctYmVHbFRfX01CVXNjblh2dEdrd2t1cEtSdmo4WU1PRFBjSjJxdlV5anE0aTVISHpTX1VqS2FfY255eXY5aUR6SWxIczRPY3RGMi1WdFNsSUpBN1NnWW5UN3AxRkdGYVMwbll4WTN6c1JOSGJvbFdWZmVOTFdCc2lESXZVYTBDT0sxeTVid3NtYmZaTVA1N2p1bmhSd0tjS1dJWTczdE1WMlZXRUhWdjBROTdtTHo?oc=5",
-      "summary": "Why is Israel launching a new military operation in the occupied West Bank?    Al Jazeera Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say    BBC Palestinian officials plead to foreign governments as Israelis return to the polls    Global News Israeli soldiers raze neighbourhood in Hebron, driving families from homes    The Guardian Around 1,200…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T15:29:19+00:00"
     },
     {
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -610,84 +874,12 @@
       "published": "2026-10-24T15:21:44+00:00"
     },
     {
-      "title": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR1JSenhjLTJxdEhCRHJQaU9mZnVpQXNNeGdJMTd3YVFvcHJCbEFRV1JNVzdzTHhZMXJUY25MSXNzblJmMUR4blBDNldGRGw5MzI2WmJlR3RCNndEODRfUXYtUUdlWVVCY1lNSWhmekt3c1JmOXdmZWRhUHpYVWNsdHhzQUtfYUF0bmFjOGJXMjdWUQ?oc=5",
-      "summary": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell — Exposing the Risk Hiding in Your Portfolio    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T15:20:07+00:00"
-    },
-    {
-      "title": "Flight Centre Travel Group And 2 Other Australian Owner Operator Stocks - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVZkQ3FMVmFkdVBVWFQ4UUJmR3kzWnZkVm8zczRpU216U05GSE5UdVFnNVZ4WVN5Nm14a0NVVVlrUjRjeXM0cksxVXJVcWlMNmRCWHJoN1ZBY0FoTzc4a3JWOEUzamZLQUEzeFZZX21qUGpTbEgzeldNa0phVzdxZTRrQXpqMTBPcDY2RVNLczNhY3gxOVdtSg?oc=5",
-      "summary": "Flight Centre Travel Group And 2 Other Australian Owner Operator Stocks    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T15:14:57+00:00"
-    },
-    {
-      "title": "Flames engulf former Travellers Inn in Victoria - CHEK News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYlRMWk5aUkpNcnpGYUZoaGJ2b2RKRmJOaG5oRFItemw3NHhhS2VZeHdNTkhJZWlWaWRXMHZsc2hEbnV5MkZoeU1PTnpkS2FvcTkwSjdnelFZSGRuRXhxSno5ZzV0SmtOV1ZaR2lNc3VEODBnMFg1WnNPVGZLcWRkYlFvN3JPQ2FRX2hLQU9SbDU2T2M?oc=5",
-      "summary": "Flames engulf former Travellers Inn in Victoria    CHEK News",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-10-24T15:03:14+00:00"
-    },
-    {
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbm5pWDd4RndldEZ5NU1XRVVESnRLMmdDSUdqU3BDdUx0a29iMEFEMFY1UThtWk5VdDhXd2JMMllwd3h1M0FVZzNNZkM2NmVHUm4wd0FQMk81UDlYZksycnV5N2JIQ1hoYmNsbHlSTURFMkhyc0pSemo2MEt6R2N0amtPenJQWkNZNG1BSUhmbm1MYThvS3ZaNWJsWGtZbmlkOTQtX1Y0RElUYkNwQjlDSWo2MUp4NmJUVU14TWZJaGxpeUZCdzRyWg?oc=5",
-      "summary": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker    CoinDesk",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "title": "Wall Street Lowers the Bar: Why Ford’s Q3 Earnings on Oct. 28 Could Trigger a Surprise October Breakout - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHV3YTB6bjBMSDVydEhxYlp4SThIYVFEYjN2eklYSzlZNFZMYm10TTJZbW9oUG5GczFiSl9FNjVXQVhhR0t3QkJWX3hZZmNIam5hWndfRE5MNWE0dHZDMUluZkdsS0VrbmZIOTlXZGk5Z0YxeER6Ym4xR2FYVTg0RmFBVnhhSFlmWGdScS0ySEh6R1NuOXc?oc=5",
-      "summary": "Wall Street Lowers the Bar: Why Ford’s Q3 Earnings on Oct. 28 Could Trigger a Surprise October Breakout    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T14:57:02+00:00"
-    },
-    {
       "title": "David Eby's job on the line as British Columbians head to the polls for snap election - CBC",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak5LejlPeVkwSXJfOEtjTzhoNGRUOUVrRzZWTVNSMk90OThqMkJ2ajB2QTFtR3B1TXZzeGl2enQ3T0I5YzlJRUthNnhPQVI5S3F5NFZ2ZENRNGZKX2s3LVdvbjFSU1BScFJrRkd4UE1ReGZuQXN4eENLY3d0ZzBvdnc0ZzN1YVdVOF8wRVJ6LXJKaWpXclFIaFBQVQ?oc=5",
       "summary": "David Eby's job on the line as British Columbians head to the polls for snap election    CBC",
       "source": "Google News: BC Economy",
       "category": "BC & Victoria",
       "published": "2026-10-24T14:56:02+00:00"
-    },
-    {
-      "title": "Vanguard Morningstar Growth ETF vs. Vanguard Information Technology ETF: Here's Which One I Believe Is the Clear Long-Term Winner. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMUhLZG0weE5jZUJuMVVYT0t0b3RKaVJOTlNSV0ZXQnhLZGdxODRqYWp3SW9JamtiX2czRXdqVnFBRE5oUEZPTnZENW9rMEtlYlhzbU13WnQ2Yzk2MDBKSjFmOVU0aFgwVlFQUERsUzRGdWFsVWdBU0ZqX2lVUXp2OXlTZjdhWlBLVEFCcjBrVU51V2ZoMC1aU0p1SXlib2xIbTd4cXY2UWRwc2RwbnpvRV9jRzJUU2tfMVBtV0RreEw5dEdzbHVYcHZkNFd5c1pFbWpjVDd6X3NmcU9jVVEyMEFfX194LVdPWG9tVVByY3VyMDhHOHlfbGhRa2J4d01mYjJKZ2RVZUMybm5pWklIVkpuMmYxbDBodTFKT3B2bEM1TW81RjJSdlRTNVNNdkZYazJ5V2dlYWJDdw?oc=5",
-      "summary": "Vanguard Morningstar Growth ETF vs. Vanguard Information Technology ETF: Here's Which One I Believe Is the Clear Long-Term Winner.    The Globe and Mail",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T14:55:25+00:00"
-    },
-    {
-      "title": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB?oc=5",
-      "summary": "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans    WSJ",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T14:47:00+00:00"
-    },
-    {
-      "title": "Is China driving up oil prices? - Robin J Brooks | Substack",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHa3JhT2pEWHpXLVVrOEFuM0dKWEZobVRCTXJ4cXZiU1NhX3kwdHpiaG9HT1lQNlJsVlhMTHotU3N3ZTNkdXNEdG5GQlNiYU1BdzcybFFqQ2RCdzd2MXZqdjNuQk95T0dOaGZueVA5VzhfYnhWeXZPeEx3?oc=5",
-      "summary": "Is China driving up oil prices?    Robin J Brooks | Substack",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T14:45:02+00:00"
-    },
-    {
-      "title": "Court remands former central bank gov Matolcsy into custody - Daily News Hungary",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1BhVmN5UG9POVBuU0IzYk5VNjR3TVZfY2VLbG9LeTRCRFpTUk80ZlNLSXc0dldDbEZLanFwNzBYWlNvSm5RbjZSNXc3TTdMYnVPTFIxcWZtNmt6WXBvWnhSalBIUEI3UGNDOGxsODFLbkdGYmtjaUZwSkRrRVVIQlBfQXdUYVdkbDFWZnlxMkQwMFE?oc=5",
-      "summary": "Court remands former central bank gov Matolcsy into custody    Daily News Hungary",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T14:45:00+00:00"
     },
     {
       "title": "B.C. Election Day: Voters head to the polls - CityNews Vancouver",
@@ -698,68 +890,12 @@
       "published": "2026-10-24T14:42:20+00:00"
     },
     {
-      "title": "The Real Economy: October 2026 - RSM US LLP",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0aHJfQmxCWm9qWVpCcG5YbWlJeGt2elBYNzltNlB1dzlCcjMyUzZKenhnLVN6SjZCcXEwMVZmS3ZmLU51cERkMnNJUnlFS3BUOEVyaDFVRzhyNV9XM0VJNVh3?oc=5",
-      "summary": "The Real Economy: October 2026    RSM US LLP",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T14:38:39+00:00"
-    },
-    {
-      "title": "Milkyway Intelligent Supply Chain Service Group Co., Ltd. Class A Estimates – SSE:603713 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qbFVvdkppSng3QlNjWlg1ZER3dTNDRlZVVDZjdzlQUDQ5WUp6OGVWVFV4cnkzNjAtV1laYmtrV1hOakJDV2VMU04tdkRHVHg4V0htNjRYelBMTE1wVWdQcmhYaGFSX0lGak1ZWURVREZpOUhkdzZB?oc=5",
-      "summary": "Milkyway Intelligent Supply Chain Service Group Co., Ltd. Class A Estimates – SSE:603713    TradingView",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T14:29:13+00:00"
-    },
-    {
-      "title": "US revises tariffs on Canadian plywood and carpets — The Rio Times - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDh4LWpJQzlTS251ZjJUWGFxYXVjak43QWVLZVI2NTVKVUVTSnBRel9IYUdDVUpoNzRyWnh5Z19PWDlSNmFVaW54dGQ2NkpnTklBRndfbTluMWdZcGdPWnQ3dmpIWXhTVUc2YlpuWmZGQnNrdDVJRlg1YVM0WjI1bEdKZ1l4bjlUWWI4V0pZWGJ6N0NT?oc=5",
-      "summary": "US revises tariffs on Canadian plywood and carpets — The Rio Times    UA.NEWS",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T14:28:18+00:00"
-    },
-    {
-      "title": "African Union Calls for Immediate Lifting of Sanctions on Zimbabwe - Shabelle Media Network",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0pxUzl6eEpjZ2FJWVRJSmtpQ1N1X25RNEZxNHVqUEo5c05EaVlTRkg0ekFIQ1VUcGRidXQ5aUxfazd6cmJpNXhDR3d5MlBWVExnWTBGd3pEQ0trc3BLVDVCOFZVY3poUTktT2pqLW9jek9uUGloaXRQUWNhRTBIWlhBaVcxNlhkOG9lUE1aeEM1MmtncTVXUg?oc=5",
-      "summary": "African Union Calls for Immediate Lifting of Sanctions on Zimbabwe    Shabelle Media Network",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T14:21:54+00:00"
-    },
-    {
       "title": "‘Something to worry about’: Parliamentary budget officer concerned about Carney government’s debt levels ahead of budget - CTV News",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYWxmWnljT0FhaHV1QjBWU0pGWTRmS18zMXJ3b1h2QmNnd2t5VW9RbHNDMDVMMlFTbXlDSTlhRFUzYmlDQ0phT2VraGY3X00yVklxVVNzT2Roa3lDYXZLQm1xengyb0RBb3RnTldfX0R6QUp0dnJWTGlxRENjMnRaUFNWZ0pKMzE3YkE3LTROOXRBV0hWWi03YWQ2NF9JYlpmSzJlVHQ0dExRdTFweHptMzcwTURnTFkwbEIxS09RNlA2ajJDZ3piVnpCSkV5OTNFaGd2WnVTNHNUUkptUzlwb3d3dG9GZWd6LUxMRl9B?oc=5",
       "summary": "‘Something to worry about’: Parliamentary budget officer concerned about Carney government’s debt levels ahead of budget    CTV News Economic and Fiscal Outlook – October 2026    Parliamentary Budget Officer Ottawa’s accounting obscures true scale of borrowing, PBO says ahead of 2026 budget    The Globe and Mail Ottawa trims economic forecast for 2026-2027 amid new U.S. tariffs    BNN Bloomberg…",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-10-24T14:20:59+00:00"
-    },
-    {
-      "title": "Wall Street Analysts Are Bullish on Top Healthcare Picks - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2NqVk45VGRZZXByblF5TTkyRmszUUZSX250eG5CV1hqSTBwb1F2Sk1NM2U0NlpwMTg4bjR4X1RWT0hYOUFwMkJhWVhSYm91UnN0WUlveUVyTVhjcjNJZXQwNEhkN21YYnpGeklGUFlXcGZ2YnB4NUtkT201clp5Tlp6aUo3bTN0VzZSTEZDM3BfZEhWOFNaVW5Db21lZk4xc0hha2M3dzZpekxBbFA0TWNMN19GUE5wWnlhOTNXejBUZWdIRm5MamFSWXFhZTIzdmlnblY2S2hWQQ?oc=5",
-      "summary": "Wall Street Analysts Are Bullish on Top Healthcare Picks    The Globe and Mail",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-10-24T14:20:00+00:00"
-    },
-    {
-      "title": "SBV to curb property price inflation, enforce lending rate rules - vietnamnews.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY000ZjNqMU1GZ05haERDRl9HczdSbTAwaGx6aFNJcDdHT0xIcHhBQjFOS2dMTGFxT1pRd1NWTW8xMmtoSW56WnpXTGVnYk96UHNTVGxjMjhRb0UzdlBvWWlET1RGOVhPSVg4QU02NTBybGVmT0JSdHhhcjBEZG9Rdm92S2pUX1p0YmZLMng2YS1pZHFhODVjMDlUMWxmNUpTeDdnNlBjZzlWcjA?oc=5",
-      "summary": "SBV to curb property price inflation, enforce lending rate rules    vietnamnews.vn",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T14:18:00+00:00"
-    },
-    {
-      "title": "Netanyahu orders plan to bypass banking sanctions, eyes blockchain as option - Türkiye Today",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaTRwUzkwRTJ1U0tHeVh1WWhmS2dRUFA0cnZoa2dmajgzeWJZNFFDdkQ5ZGZjMFRZS3VyTmJiSjJhVzN4MzhGQ0VJTGN0bm5US3JaYkE2Q0htOUE4WHdjQWs2elR5aEMwSWhOaUhzb2F5OVZiOGdpRWZ5QmJXZVE4bm9jZXB1Tld5RENCYjZkdU5qaWRFUDdZRjQ0NkJfaTVtblRYMmEteGJXR1FkeGhDcXY5U3RkcDY0ZzM4?oc=5",
-      "summary": "Netanyahu orders plan to bypass banking sanctions, eyes blockchain as option    Türkiye Today",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T14:10:56+00:00"
     },
     {
       "title": "November 1st – Earliest Date to put Studded Tires on Vehicles - VOCM",
@@ -786,36 +922,12 @@
       "published": "2026-10-24T13:51:52+00:00"
     },
     {
-      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - The Transylvania Times",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZjVzQWlxVjVrRWhMSENkOXJPbUlZUFJrS3NHOVlEaGwwXzdfZjNqV194OVZTSlVMLUNnV1RGWjRSSDI5RnVYWXBlTGlKOHI0SFRuNno4b1o4Q1JTZ0U2U0JDTWpBV3Azd0s0SVJDNndJT1IyRWNtVVZmT0lRNkFYNDFROE5kSEJ3emttcWMzRDlua1c3cjNpOVJzdERuRXZuUF9LMW1xQXVkNk9lWTJudzcwSm5kMEZQdW4zVUl1OVh2b29kS19rNTA2MENSRXM2R3l2NVEzYURCS1BEdEowUktIU09YWm9lelRBYVl1cTRYcnhseXBja2NicnlNWm9EUHJqaDRHSXhYN0VWRGpGMEU3TWYzZTZn?oc=5",
-      "summary": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week    The Transylvania Times",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T13:47:38+00:00"
-    },
-    {
-      "title": "Sonoco Leans on Productivity Gains Amid Rising Input Costs - PlasticsToday",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjViOTQ1dmt6alZuM2lHLWowZmV3Rm1DYzF5MFQ4aXhqLXNjVkNYNFdRWGdLX2J4TlRtNEwwaEw1d1l1N1RXWmpQdHd1bjViQVdBOUdfTUNKSHM5S3FyNEdJYkFCSEVvRmRtN2FpY1dKWjg4eml3WFFDQlBpYmg2NlcyZVJiam0yVnZTTGFKb2p5dks5NHVrUERKaw?oc=5",
-      "summary": "Sonoco Leans on Productivity Gains Amid Rising Input Costs    PlasticsToday",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T13:44:35+00:00"
-    },
-    {
       "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IRmpNUTRQQl9RS1hYc2tsSGM5T1lma0U0a1BIRlJGYmhjSjRhdFZwU1lIZ0prZXQ2b0VlUG43Qy1wTTZwTTdPbDRmTXZMb1h4Qm8xX19vMzVUN0E?oc=5",
       "summary": "'My daughter's bed was propped up on books,' says mum amid child poverty fears    BBC",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T13:43:05+00:00"
-    },
-    {
-      "title": "Watch Persistent Oil Prices Threaten Inflation Outlook - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0pVZzhLemJyT2tuQjV0VURWeWNUaWVLQnJiNjZqMzIyLUZjT2djNGVLcHRxOGdpdDItb1htSGlhbjdrbTF3LW54OWRfT2F3el9zT2hoQjJwekpkazF2R19oNWdTNWpPWlR1LXVwNE1BLVpHQUZuaWd6U0xBTE5jdmhkMzVGaFBTTFZVZk9vWVp0dDlBX3JvM0M2TUtvdmhEbWV4azN3?oc=5",
-      "summary": "Watch Persistent Oil Prices Threaten Inflation Outlook    Bloomberg.com",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T13:22:27+00:00"
     },
     {
       "title": "2026 National Poppy Campaign launches with a donation “first” … and stunning mural: Don’t forget to Remember",
@@ -858,44 +970,12 @@
       "published": "2026-10-24T13:00:00+00:00"
     },
     {
-      "title": "Met Police confirms it received 2019 letter with \"number of claims\" about Meghan's father - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tb2tsNmFfUWswaURyTjRqbnZNY2VWTm02RW9OT3NBME1iYWxsTDByT0xYTlR4QWZVaVctMHVtU002UVg4c05iZXp5WHVLVUk3Qm5MeGdvSUdTeUE?oc=5",
-      "summary": "Met Police confirms it received 2019 letter with \"number of claims\" about Meghan's father    BBC Exclusive | Thomas Markle’s ex-wife sent 2019 letter shared with Meghan warning of his alleged child abuse: sources    Page Six Meghan Markle’s Half-Brother Responds to Dad’s Denial of Child Pornography Allegations    People.com UK police says letter with claims against Meghan's father was not shared…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T12:59:49+00:00"
-    },
-    {
-      "title": "Brazil’s economic challenges after the Lula–Bolsonaro runoff - Buenos Aires Herald",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRkxfVkZaYzdVY0J2a0ZqdmFhb09jVHF4ZjExb2VQSUlDZTVmMXB4bWVnYURualY1ZDZ0b21VOW5UYkxOVXhWY0hjQWttQnVFcV9XVnZlXzg4VEoyVF9kZWl0Qko3cGdINzJZRkUzWXRzazR0Uzk2R3p4SUZMa0QzZGFyWldwSzg1NHhRNlRya09OZk5kSnBuLWNMdw?oc=5",
-      "summary": "Brazil’s economic challenges after the Lula–Bolsonaro runoff    Buenos Aires Herald",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T12:58:42+00:00"
-    },
-    {
-      "title": "IMF conditions persist in new loan, how far has revenue reform progressed - Prothom Alo English",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CeGFjVkU4Tk5SWnQxal9EVUxGRDFqRGZ4V3hZV2lRUXNkREMtSlFDYkZzNG9lZVBveHp5Ymc0R2lXb3ZUWEdpM1hHRnAzUGhSRmZEa2FOZm9DQ0ZJQjZZRNIBbkFVX3lxTE5kM1NzU3Rtd2UycXZSWVhSMENJa3pHdmVZaDJLVG50TTB6a0dTQlJkYzRSYng0SmVTQlZqVFo0MXNFOVNzRjdOUFZNY2dLNGlhejJ0SHBlVkNDZ1N3YXVURDNiT0FkZmZNWTRETndn?oc=5",
-      "summary": "IMF conditions persist in new loan, how far has revenue reform progressed    Prothom Alo English",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T12:43:15+00:00"
-    },
-    {
       "title": "Italy deploys hundreds of soldiers as protests planned across Europe",
       "link": "https://www.theglobeandmail.com/world/article-europe-protests-italy-spain-portugal-albania-october-24/",
-      "summary": "Milan is among the many other European cities where demonstrations are also scheduled Saturday, from Portugal to Albania",
+      "summary": "Milan is among the many other European cities where demonstrations were also scheduled Saturday, from Portugal to Albania",
       "source": "Globe and Mail Business",
       "category": "Markets",
       "published": "2026-10-24T12:29:59+00:00"
-    },
-    {
-      "title": "IMF finds Turkey wealth fund omits audit from website disclosures - Turkish Minute",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTVWMzk3bGxWY0xpeFFjdFBNQ0dmZjFOTndkaHpyd2VlNWs3OUt5VjNmUmRUcnVKdDI4aWI0bnBWNTl2VFdlWGV4eGxsa1hBazNNdW5zeXZpUEJxSjVoVnNvOFR3ZEp6cjlESVg3aWh3Rm0yLUxLbzRORGNUWDJWYnctdDZJWXloaXA4REoyRnFVSGt2S3lOMjgxTWZmeC1jb3doSzItMlpYdXPSAbABQVVfeXFMTXZDQUF3MUtxdE9ieGgxdEhfVTlWWHdmbGtsUmtaLWpxUER3ZzNVOVVPYk81azZ4elNzSVVzYld5bzJaZzRiVGlFOFRFZ0doalUzemV0V3V3UVptUDRJY2F4TFJYTVBZNzEyVVpzcUlZcVVta3RFb2JZS0RYRDBybGlSanJ2VkdMSVJtWnVlN1JGbWhLa2FUY2V2b1E2eE5hc19EMVkxYzUzR0NBMzROdnc?oc=5",
-      "summary": "IMF finds Turkey wealth fund omits audit from website disclosures    Turkish Minute",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T12:25:07+00:00"
     },
     {
       "title": "‘Always try to buy Canadian’: Retailers see demand for Canadian Halloween products grow - CP24",
@@ -914,20 +994,20 @@
       "published": "2026-10-24T12:12:40+00:00"
     },
     {
-      "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned - InsideEVs",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yMVFyZ0ZIT2VVQUMxanV2anFKbUxqWnFmRm1uZi01eVZld19KczJYYzU5d0VDMzQ1bDdRcGhSMy1GcmFHMVVKMlU3bE9kV182T1kydmRTbW5FMjhtcXFvZUltYmFrYkNWUHdIaXFWdGw3UDB2cEdORk03bG8?oc=5",
-      "summary": "GM's Future Cars Will Be Very Different. Here's Everything We Learned    InsideEVs GM outlines plan for next-gen EV platform, Level 4 autonomous cars    Driving GM simulated 300,000 EV battery designs before building a single cell. Now comes the physical part    Fortune SALTZMAN: General Motors shows off future of 'personal autonomy'    Toronto Sun GM Is Coming for Tesla, Rivian, and China, on…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-24T12:06:20+00:00"
-    },
-    {
       "title": "As Water Crisis Continues, Backup Water Supply in The Colorado River Basin Is Also Drying Up - ScienceAlert",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDRsblNzVkFhMHB1ejI1bG1HUkV0RVY1YWh4QjFpemVScXZ5bTE2SnJjVHB2RlFqQ1k3NjJXMG5xQ1h1Qk1DSlAxYWtKNDQyb2JhZ3VuT0I4OWY4clRxZ3ZwbUluZHo4dnAtWnppdUJtMTQtZ2o1amo0ZF9IbVJkSlZHSDdtTk9PRjZoVGFXS1RfSGo3ODRwN1VXVUtyR2xYTGZ4SmRSQUVjSDJsM0ZCU0I4QlBtTFFGdWswcw?oc=5",
       "summary": "As Water Crisis Continues, Backup Water Supply in The Colorado River Basin Is Also Drying Up    ScienceAlert There’s another water crisis happening in the Colorado River Basin — and this one’s invisible    CNN Groundwater depletion outpaces Colorado River loss since 2003 By Investing.com    Investing.com Canada The hidden water crisis beneath the American west    Financial Post The Human…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T12:04:53+00:00"
+    },
+    {
+      "title": "7 dead, 40 wounded after gunmen open fire at funeral in Jordan - Global News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2U1hKcWlXOEdmT0wzQ2RYdXYyVFU3Z0hId1ZVNG9qZG9VV1hmX0dVblpTNzhPWVA4N0JFWnBtSk5pdjd1ZzhuN2pmV0hDMXZ1U2x2U1lQenhoYVA3ZVFfcDQyT3Y3d2FOUzVubjN2Ni1obUxLNEFj?oc=5",
+      "summary": "7 dead, 40 wounded after gunmen open fire at funeral in Jordan    Global News Death toll from Jordan church attack rises to 9    CTV News Jordan king orders 'iron fist' response amid search for suspects in deadly church attack    CBC Jordan church attack survivor says assailant pointed handgun at him    Reuters Survivor of deadly attack on Jordan church describes people crawling for their lives…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T12:01:02+00:00"
     },
     {
       "title": "Israelis are leaving the country in record numbers. Could a looming election accelerate the trend? - CBC",
@@ -954,22 +1034,6 @@
       "published": "2026-10-24T11:50:33+00:00"
     },
     {
-      "title": "Peter Schiff Says Buy Gold Near $4000 As Prices Sink From January High, Warns Of Currency Crisis Worse Than 2008 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY0tWek0xalNqc01zTlBiM0U1S0dmWjMtUUNQWkxHcExNUzZKM0NYWmpSZWhaWTNtamlrYURrc0RsUVFnSUUzWWZuZ1h1b0RlVlNCSnNRRGlfVF8yNEpMa0tMZkkxOUxpWjluM2plbXQ0UXJPakJaZHlQb2pWZGExd2RIbEhXM0xBTE5BVkoxUkpQck14RzRuaFlvXzBvdndoSTVLak5Yd3l2Yl84NnFSOEhBYW81Qm5fMUhidjNUcDN0SGdHUzY1TzBVMFVsZnI2NnVuV1FpOVRRQ0hZMUwtS0xnckRiZHJVdEpwenAzTHYwZUI4TDB5aDdBZHkxd3Q5?oc=5",
-      "summary": "Peter Schiff Says Buy Gold Near $4000 As Prices Sink From January High, Warns Of Currency Crisis Worse Than 2008    TradingView",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T11:46:04+00:00"
-    },
-    {
-      "title": "Cuban ambassadors ask Canada to renew rejection of U.S. embargo and fuel blockade - Global News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyMjdic09oOUNfalNoR3J0S1l2Mzk2TTBzS0hQOXdNRE1ZcGttS1pRNzBqN2thOFZfN2pRaVFEZDdOTmlmeThISDNmZWJXSUszZ1NzSmduNWhpTnZQalpxMDRPa0JKb1BIV2tSXy02MkpSaElqZ3ZUMTBB?oc=5",
-      "summary": "Cuban ambassadors ask Canada to renew rejection of U.S. embargo and fuel blockade    Global News Cuba envoy asks Canada to renew rejection of blockade    Yahoo News Canada Cuba takes fight against US blockade to the UN    The Militant Top Cuban diplomat accuses US of threatening countries that vote with Cuba at UN    Reuters Cuba needs Canada’s voice in coming UN sanctions vote    The Hill Times",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T11:37:47+00:00"
-    },
-    {
       "title": "Varcoe: Massive new Alberta data centre proposal takes form, as municipal leaders face questions from 'wary' public - Calgary Herald",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTHJyNHBhNzNHX1lyUFRlN3B4SE9ZZTgtOHNfTDNhcmpzc0ZTRk84RmxZYmw0QmRsNnZzYkY3SkJnRXpQTHktMHhDbUxRcVRwRk9uTEhfVXNZdU9TRWdOZUpPLWNxNGN2OWc4UnVyNklCNDBsZDlVVUN3TUo3Y1NzbDl3R0dtTDF5ajB2ZHhUYjIyVU1DZGpFYmJ4a21tUGdCNGpINHd4Yjc0b2dwWWNpblphLTVtSG1WQVZudGYzNVMtcEpxSFJfN05qbmdHRHRjS1U1eGV6dnlkS2FUaThRQndFaWlqY29XaXotNQ?oc=5",
       "summary": "Varcoe: Massive new Alberta data centre proposal takes form, as municipal leaders face questions from 'wary' public    Calgary Herald Calgary data centre rules to be developed amid review of land use proposal in northeast    CTV News Calgary councillors calling for data centre development freeze, new rules    Yahoo News Canada",
@@ -978,25 +1042,9 @@
       "published": "2026-10-24T11:33:19+00:00"
     },
     {
-      "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed. - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
-      "summary": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.    MarketWatch",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "title": "Starlink connection restored at high speed in Ukraine, defense minister says - POLITICO.eu",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEllMUVrbmlBVUdxTnN5Tk80THQ5RmcyUTVNVmxoVi1kMHMzRFJsX1h4eE9vZlNFVDhlX1ppSG1fUHNmc0plSGUyeXFTWmQzVnF4X3RBN2VybVpHcm80dXR0R3UyTWlJV2xDZHMtWFRxbGxRWlpPNHZQUzJ6TTMxLWhCMUcxTFdyNlkzNzR2RU45MGYyaWU3R1pvSlhwYlRKYmVFOV9MTQ?oc=5",
-      "summary": "Starlink connection restored at high speed in Ukraine, defense minister says    POLITICO.eu Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield    CBC Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions    WSJ Ukraine’s defense ministry says access to Starshield has been restored    CNN Ukraine’s military says Starlink…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T11:09:00+00:00"
-    },
-    {
       "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFdmUjhpdUVBdWlWRndpZnhrZjNKTV9nOFM1dTZfSDlPZDBnRzUzcTY1SkstZlNRd1hYV2hsM3ZYRTByM3FEYURtcXBtSlk3M1ozRzluOGNYZjJYU1JQTVJtWEpGMW9wMkFkY2s5WjlTZ0RhWExvVHJ2T3h2dUJQQWlzVHdiMUhlRWJKWHEzQ2VNWHVldDlSaFpiWWdnLXhsd0F4MUpfUWtuelhoM1HSAbMBQVVfeXFMTWhQY1gyUnl4WTR1WDZ4aWtyR2RfUXJ5RjE1Yk8wRHAyLU4xRUppMU04Rm12WGl0UEE5dHZLcWIxYWxPOFRGbHhrdTYtLW54VURWa2FjV2Vmc0NsYURmU1FRNWlSNk9tcldwYzFzUlp2X2gtb3FMRnVGWGt5OW1LTlRkZjdrVVpNbWxTSUVzTXJJbUo2YnRhbzRZb2lmbkM0Rm1RR3U4dWpsdXExdV9vREVlYnM?oc=5",
-      "summary": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest    Al Jazeera Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat    BBC Fire devastates Eagle’s Nest retreat built for Hitler, one suspect detained    The Globe and Mail Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria    The Guardian ‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps,…",
+      "summary": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest    Al Jazeera ‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire    The New York Times Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria    The Guardian Fire tears through Hitler's mountain retreat, suspect detained    Le Monde.fr Fire devastates former Nazi guest house 'Eagle's Nest'…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T11:04:50+00:00"
@@ -1018,6 +1066,14 @@
       "published": "2026-10-24T11:00:00+00:00"
     },
     {
+      "title": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage - CBC",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3ZTY0xueGFVWi1BWEFPeThaWG8wMnNVY3pLeDVOOVd3dzd6YjZocF82NTRmRjRqeVQ3cGtTLWtLSHJsSG5sdEtoMlYtV0loSGg0TGNVMThsczZmYWJjLXo2VjIzaU5GeVVjUlNYanIzY3dITjBGNmY3N1o5WGwtMHJvSHN6UXRHY29jV0plVHBDYjd2dkxCT1N4dTZIQlpVUkZQc3VYQ0kxanBZTlFRQ3N0UDBkV1BpY0dnc2g2SmVfbWQ0ZWNzOXRJU3gtd21aVkpJ?oc=5",
+      "summary": "From horses to electric cars: Sask. couple sees world transform over 75-year marriage    CBC",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T11:00:00+00:00"
+    },
+    {
       "title": "Low taxes, big projects: Salmon Arm’s new council sets priorities - CBC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEZWOEpfUnoxQ25XWDl6WVVhUlV6UU9fNzhZTHNJUC1IV1BqYVlYc05Lb1hNME5MX3RCXzFmeURpdlE5a2FfM0xvaS1kS3hObzVLTk5Nb2ZDTFYxTGVTZ2dxREF6SGR4ek54MjA0N3BnZl9RZjRySW96R09VRF9JbmxjU0RKVTZKU3p0X2FQcC14RWZoTy1MazRuRndHT0FqUldF?oc=5",
       "summary": "Low taxes, big projects: Salmon Arm’s new council sets priorities    CBC",
@@ -1032,6 +1088,14 @@
       "source": "Financial Post",
       "category": "Markets",
       "published": "2026-10-24T10:53:09+00:00"
+    },
+    {
+      "title": "Inside Ontario's smallest municipality, where only one man lives year-round, but over 100 still vote - Inside Halton",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMHdpcFNiajcyQmF2dzRSVDhaVFZ3cG0xc0IxY1ppeld5RlA0UmkxekFJaS1qNDVpUEpfTWFXUU9rSU5sOE9aeVRHdE91NEp4UmgydHdpMkRtckVIMkdyLW5QRDVyMnkzcjVKNWdkSjFaQklDcmx5N1lhLVpNTHU0N2xRMm1Hb01nZGh2Q2t2WW1ZN3lOcUsyLTNzZ182bU1VY1JLU1IwWVc0b1JKUml6YUFDajliNGt2WldIYTR0Y3VnZUJyTmdySVMzSm1zUWFvdWFEZlVxQUlraGs2S3NidHBaN29uZzRFMWZXWkJpTQ?oc=5",
+      "summary": "Inside Ontario's smallest municipality, where only one man lives year-round, but over 100 still vote    Inside Halton",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T10:45:00+00:00"
     },
     {
       "title": "Canadians cut holiday spending by $64 - Money.ca",
@@ -1050,9 +1114,17 @@
       "published": "2026-10-24T10:15:00+00:00"
     },
     {
-      "title": "Canada spent second most out of 32 countries on health care with little to show for it': Fraser report - National Post",
+      "title": "Canada spent second most out of 32 countries on health care with little to show for it: Fraser report - National Post",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2F0RHlLR2Jra1YwVUFQeS1LdXlDZXA1TXROM0QwYnI2UVRpcnd2UUZ0S1ltQjRpRW1EM0RObjNVRjVqaUphZHBrVzVzQWRPZ1JpdXpfckZkUUVNbU95WUdwaFpXYjc4WWlPNmhEaEZVQThIZmVlVjdoUnBwSUVWZDk0N3p3WEtOZWR2TzFrZE50MFFTcjFFSDNNUHE1NXFmSFlRM0RBOHVEOGhPZk1iM0ZTSlJDTkdyTS1Dc3FBckJPZGd3aWNWOGZSOFZTTDJMT1BZ?oc=5",
-      "summary": "Canada spent second most out of 32 countries on health care with little to show for it': Fraser report    National Post See more headlines & perspectives on Google News",
+      "summary": "Canada spent second most out of 32 countries on health care with little to show for it: Fraser report    National Post Lorne Gunter: Canada needs to look to public-private models to fix health care    Edmonton Journal Canada ranks 30th out of 32 industrialized countries with universal health care on the number of doctors, despite one of highest spending levels    The Globe and Mail Canada spent…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-10-24T10:06:35+00:00"
+    },
+    {
+      "title": "Michael Higgins: Mahmoud Abbas played Mark Carney for a fool - National Post",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3BoOHM0M1VVb1RDbXp1azFCbkl6ZUtWeXpCWmFuakFXTHBDTlAzdWt6bTRGVkhwbnVwaE5RNjI4X1JLNWQxbmw4WmdTT1RuYnVVUldOZVhVSU9kNG51WG9ZaDZLRW9NOEZla2d3VFlKaWFaRTM0U0VlSlZkblRSeHJn?oc=5",
+      "summary": "Michael Higgins: Mahmoud Abbas played Mark Carney for a fool    National Post See more headlines & perspectives on Google News",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T10:06:35+00:00"
@@ -1074,9 +1146,17 @@
       "published": "2026-10-24T10:00:09+00:00"
     },
     {
+      "title": "Kitchener transit hub plan on track for construction in 2027 - The Record",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWUJuVmVxMmc2blUzek43SnliNGpBU292ajloWGNUUFM3TnhRMDRvV0F2V2tDSW83QzlmbTVHZUxfVTFXbjZMMFhvV05icmpwa2YtNzlhdUQtNE1QWFRTbWdtaEM4QVdSQ1BWQ1c4Vldva2owTk9ReGZvMk9Mcm5Rb0hnTHkwSXlEb05pOEh6U1JNcnRxaW5vcHNnTGJpb2tiWjFia3V1T241eTlZby05RW04VFFoZHFCYXozN3NyVTdzSWRDV2c3SGdkS3EtWEIzZXZMNkJZMTVaOXBUbFJQOU1EMA?oc=5",
+      "summary": "Kitchener transit hub plan on track for construction in 2027    The Record",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T10:00:00+00:00"
+    },
+    {
       "title": "In Netanyahu stronghold on northern border, signs of fraying loyalty emerge before election - The Times of Israel",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalRQSGdJRjJJZEZ3OHkxTWhjTTdxdWpWUjBkQkhZNmM5ODFGbm13dzJ3TlRKc2ZVLTh0ellDUjB6ZGhBUmVIdHdpdEdZZXJ6ai1hSE4zaUhtY3c1SXcyUGN4V0Z3LVRmODhqZElzTFJ4SGZqWkM0VFF6Vl8zai16S19RUldtejAwYTdCRHJ3ejVoeGV6WGRRSUlEYzFna25jbmc5RVhzMXVFYXJ1dkFPMnRyUm81bHVmalA3bUJB0gHDAUFVX3lxTE5ZLVRrN1RLSkZIOWpEdUtsODNMbDYxSXAxY3p6UWFOblFFelJHZklVU2t1UllPYWdzWmJPRHNfVFhLQ1JTdEdLd0tsVHlmckFkZGNWM2JQaVRYc19TNWpCLTVON2QzSlRnblVQM19ycXVJa2VSRlhUZmpsbWY5emFRaUY3UldJeC1LR0I2TTh0ZG5zcEg0c1JmM0FYaEtOcU9XZmtUcU1QM0dOaGlETkJaalNBVHA0MGl3OXdIeHh1TDduZw?oc=5",
-      "summary": "In Netanyahu stronghold on northern border, signs of fraying loyalty emerge before election    The Times of Israel Opinion: As Israelis go to the polls, non-voters in the Jewish diaspora can only watch and hope    The Globe and Mail As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?    The Guardian Thousands of Israelis Are Flying Back to…",
+      "summary": "In Netanyahu stronghold on northern border, signs of fraying loyalty emerge before election    The Times of Israel Opinion: As Israelis go to the polls, non-voters in the Jewish diaspora can only watch and hope    The Globe and Mail As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?    The Guardian Opinion | What the Israeli Election Won’t…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T09:55:16+00:00"
@@ -1088,6 +1168,14 @@
       "source": "BBC Business",
       "category": "Global Economy",
       "published": "2026-10-24T09:53:42+00:00"
+    },
+    {
+      "title": "The Bank of Canada might hike interest rates soon. Why now? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5N2R5UW5ja1NXb1BmNXJTWGJWclRIalI0NXNtd1loU0JSUkFiYy02eTlFTmo5cjZ6TUV3cmcxOUlxbGtJdnEwMWlNanBFWlpwc2JHbm54bVFYdw?oc=5",
+      "summary": "The Bank of Canada might hike interest rates soon. Why now?    CBC",
+      "source": "Google News: Canada Economy",
+      "category": "Canadian Economy",
+      "published": "2026-10-24T09:52:08+00:00"
     },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -1112,14 +1200,6 @@
       "source": "BBC World",
       "category": "World & Geopolitics",
       "published": "2026-10-24T09:38:28+00:00"
-    },
-    {
-      "title": "Kim Jong-un crosses newly opened bridge into China - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0NzMlA4aEpROUJIdmc4NVZ1LWYwdy1PQnpyREpLQTRaV0gzNE9nUlRzdGpDeUlvbk5TeTE0M043WFlkbXN0aFhnbnhVNWlTZ01tdlVoYkVFSzI5RFhQbEhYaGRwQW1GVUVhX1hRZUNQN2tpS0NCVjhHNlBlWUtoaTlBc2JSZ21Ed2c2Nmk5WFpSWEJQWkNIMVB4S3A?oc=5",
-      "summary": "Kim Jong-un crosses newly opened bridge into China    The Guardian North Korea’s Kim crosses new bridge into China as trade ties warm    CNN North Korea has opened up bridges to Russia and China – in which direction will it go?    The Guardian North Korean leader Kim Jong Un visits China, South Korean news agency reports    CP24 Kim Jong Un travels to China via newly opened border bridge    DW.com",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T09:32:00+00:00"
     },
     {
       "title": "Why thousands of local politicians are winning without a single vote - CTV News",
@@ -1178,14 +1258,6 @@
       "published": "2026-10-24T08:00:00+00:00"
     },
     {
-      "title": "Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship - CBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yTXVnV0xoVHVZWTV1bnpqcjBZQ1RpZ3VyUG1rWDBDdFRuVzBSd0VnZ3VuQ25jQnBFN2RGa3cxRFd6dVJ6QnVGdFRQYTJtQXlnWkRweTNOX3lpUDl4VDZiX2R6bGhmMmd1cXptWHMwNjMyQQ?oc=5",
-      "summary": "Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship    CBC",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T08:00:00+00:00"
-    },
-    {
       "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
@@ -1216,22 +1288,6 @@
       "source": "Google News: Canada Economy",
       "category": "Canadian Economy",
       "published": "2026-10-24T06:24:28+00:00"
-    },
-    {
-      "title": "After 14 Years, Man Convicted in Killing of Haliwa-Saponi Tribe Citizen Faith Hedgepeth - Native News Online",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRnN0dUpSNEVNRmhxZGYtU2IxbDJzWDhONzFJQWFVTThsNzlWdGxtTWFBOU00b2pLcDFURkVEMmlLWHJjM09JVHhHMEhXSzl3cll2alVxOHlXWWRmdFB4SkdYSGI4VE5UY1ItQlkxZFIxcjRRakJhUWxvYjJuVVh3TlNUaXJBOFRubjZiR0N3dXdveWtFN1VQdENIV3U5TTFhdkNPWlhDb1ZmODZEZkNsd045SFRIX3Y4WlhXQU5BQzFjeWM?oc=5",
-      "summary": "After 14 Years, Man Convicted in Killing of Haliwa-Saponi Tribe Citizen Faith Hedgepeth    Native News Online Jury convicts man of rape, murder 14 years after UNC-Chapel Hill student’s death    CNN Jury convicts man of rape, murder 14 years after UNC student’s death    Toronto Star Guilty: Faith Hedgepeth's killer sentenced to life in prison without parole    WRAL Closing arguments underway in…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T06:07:41+00:00"
-    },
-    {
-      "title": "Canada’s trade surplus driven by natural resources, not weak loonie - Todayville",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmtZNE1FSWxTd2tuV0JhMVFzQjVnVTZSOG5JcEZvRXZDSGNMTjhDR3ZrT09CV3NmalpqSVQxS3ZvSmFiTGotclcyREdUS1Z1ZlJhWUhDUmhBX2g2UHFXZkZUTms3R3dkNHB2d0ZzMjEyN0RGOUhldmNkeHBZaEtxOVVQaUwzNVRZMWkxcUVfRkF3T21jZGlpVA?oc=5",
-      "summary": "Canada’s trade surplus driven by natural resources, not weak loonie    Todayville",
-      "source": "Google News: Canada Economy",
-      "category": "Canadian Economy",
-      "published": "2026-10-24T05:41:41+00:00"
     },
     {
       "title": "Business Outlook Survey—Third Quarter of 2026 - Bank of Canada",
@@ -1266,20 +1322,20 @@
       "published": "2026-10-24T05:03:44+00:00"
     },
     {
+      "title": "Why the BC NDP and Conservatives are making so many election promises to Surrey - Daily Hive",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVBWbGsya0M1NjctVEZvU0JQdmI0b2xaQWQ1VFN2cFFlUXJYbE1oLUxPeHMzN2p6WmxWR1d3Y2xGVkZ4NFM4QXZiSHczSGpZUXBWMkhEMnZpNWpGME4zb1RsOEEwSWY4aEs3S2ZPejBibGxONW1oTmV5Zm1zbjBzTkJWb3dJLWZYQUE?oc=5",
+      "summary": "Why the BC NDP and Conservatives are making so many election promises to Surrey    Daily Hive",
+      "source": "Google News: BC Economy",
+      "category": "BC & Victoria",
+      "published": "2026-10-24T04:14:00+00:00"
+    },
+    {
       "title": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObEdUYVFXaTY4T0dKcVlkbU9nRjZBMDE2N01UTFJobktqLVdQTXhUeUx0cllxb2VqRExCWDBiQUp2dnRCV25tYndjVjhXRndvYURvSUZQX2QtNmp6M0NEclNnek41X2pmSXVaTi12bkJxRGd1cEpxSHhNeTlIdEhjS21OTUhvVFlSYjI0aHFSNmFIbF9jRURIMURpLXVUemVCd2xpSHhDZGJ4M205Mk1RRlExdHQza0lDVGR3UzFRd29BLUxyUFp0eU9HZ1VYZUh2UWxWZXcyd09NcVEyWXfSAd4BQVVfeXFMT2VCMVgxYmtpVGJyaC12TlpVanpiSnQ4SkFHbXU5ei1nZmpIbHNmWWFDOVE0d2ZyTkhLUEdlX0JmZUtPYUptLXdrWDl0cVBMNnFqNlJiczk0Umltc3BhdUdYOEpUWGFtVzJRMTBhSXhYSE5Md0tsd29TYnQyY0dyVzRTZHptLTBnZG9nX2RrMnVxdlVwQUNtWVU5UW93UXFoMTgtd0F4Q0dnRUNkMVlRLS16UGhhbDFOQUh2Q1A4VG16MndjamhFMFVIdkFQcGVYeFRYclpmcW1DVXhjWXl3?oc=5",
       "summary": "Crypto platform on alert lists opens Hong Kong office, prompting calls for scrutiny    South China Morning Post",
       "source": "Google News: BC Economy",
       "category": "BC & Victoria",
       "published": "2026-10-24T04:00:16+00:00"
-    },
-    {
-      "title": "Block (NYSE:XYZ) Given Outperform Rating at Royal Bank Of Canada - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlY0UUxsdlBTS2pCUzF6NGtTT2pTMWpUemluNUI2YWcteG5wWHBWdXlXaXhrQ28wVkp6VzJqaEhXNmJfdFJoLWpEMEFqOGFubGRuaUtOMDlleC1CRTdJTnR0UjJkbDE3TEdsWVhiZlRCMGlHd0ZwN0NDV1poTWMyeUdPMjNfeVlTVWtrWWtPOUtoS2wzS0VNSnNGb3k5OEtPLTdVc05TTHhESG9aVWp5ZkJYTGc5aWszNW9jVy1OZlN5UDhaWHhxcQ?oc=5",
-      "summary": "Block (NYSE:XYZ) Given Outperform Rating at Royal Bank Of Canada    MarketBeat",
-      "source": "Google News: Canada Economy",
-      "category": "Canadian Economy",
-      "published": "2026-10-24T03:59:51+00:00"
     },
     {
       "title": "Junshi Biosciences Announces Completion of First Patient Dosing in the Phase 3 Clinical Trial of JS203 in Combination with Chemotherapy for the Treatment of Diffuse Large B-cell Lymphoma",
@@ -1314,14 +1370,6 @@
       "published": "2026-10-24T02:04:32+00:00"
     },
     {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "source": "BBC World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-24T01:55:15+00:00"
-    },
-    {
       "title": "ROYAL BANK OF CANADA (WT72) Bond Price and Quote - London Stock Exchange",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTUtT3BnS2NVQkFNS0FnZ1M2NXhnQ2ptd2NTdHRkZlhjZHFQNEJIMjRQNXl0cl9BQUdJZkZUYURLN3VhMEFkcm9fQ0ItZzlOdEJ3VFB1MzJTN2xKN2dDN3AyS3N0N3RKRVc0NzdwQjBaM3dRVlJkcFBxM1BVclJxSTVB?oc=5",
       "summary": "ROYAL BANK OF CANADA (WT72) Bond Price and Quote    London Stock Exchange",
@@ -1354,20 +1402,20 @@
       "published": "2026-10-24T01:53:28+00:00"
     },
     {
+      "title": "General contractor in Nanaimo sues for alleged unpaid work - CHEK News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdC12MTZVendhNEUtcjFkWTM4SzEzMVUzc3Rya3AxV3ZmTXllN2FoWDJXS1JyQXJmQ3dJN1JNbkNxT2RhZVphRFdtVURmcWQzbW54ODZnQ1o4R2lvcHZVWEktSElFYlY0cUpsTkFFNFd6Q1dSSGZuZFFUeFJVVlROcWZDVm9EckU5NTdHLVdsVm8?oc=5",
+      "summary": "General contractor in Nanaimo sues for alleged unpaid work    CHEK News",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-10-24T00:48:24+00:00"
+    },
+    {
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
       "source": "BBC Business",
       "category": "Global Economy",
       "published": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "title": "Mario Canseco: BC Conservatives closing in on Eby’s NDP, poll finds - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlNlYVFDZHNuSTRxbEJGbjdZck1mNno2d3UwdktFOUtYbWFteHpSSzd3azVod1NwMlZmdXVGcmVleFZYNVVWRkJOU3ZROHNtRGZPNENLVXR0VlNteDNwWEJuSjY0NTFYeXFhRHFTZ2hNU1BHTGJ3Mm1Gcnp0Rms1TG94WEdvV2FMTzVBeVNIOHVQRFBCQkw4SlF3dFJyOW5qLWZ2bTlTdGdHTWhSS0E?oc=5",
-      "summary": "Mario Canseco: BC Conservatives closing in on Eby’s NDP, poll finds    Business in Vancouver",
-      "source": "Google News: BC Economy",
-      "category": "BC & Victoria",
-      "published": "2026-10-24T00:20:00+00:00"
     },
     {
       "title": "Canadian bitcoin firm Coinkite facing proposed class-action lawsuit after $140-million hack",
@@ -1416,46 +1464,6 @@
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-10-23T23:49:20+00:00"
-    },
-    {
-      "title": "Calgary family finds box of Pokémon cards valued at roughly $48,000 - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HSHZhZHlNak5GR1JmN25zcEc5Z2ZWaTZXQnZfekZVLVR6dFBSX1ZCaXoyX2FJQ2d5UUNsRkJyNGxJV2cyT3F6YWMzWkdhaXJxQUhWLTZwX0o0R19WUDAtOGVmNTB1WTR4VzFEWnRRMnhqRExrRmk4SmVR?oc=5",
-      "summary": "Calgary family finds box of Pokémon cards valued at roughly $48,000    CBC",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-23T23:46:37+00:00"
-    },
-    {
-      "title": "Vancouver concertgoer sues Live Nation for excessive volume level - Business in Vancouver",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzZ0WXpSSjBkVDhXV0pMcElBMjdxdlcwbGVxNXNVWWJCVkJkdG11WmwxMTU0MFN3Mm9Edm4ydVRlLUo3aUJDWk9JZDdiTVNnN0dBYWV1MzN5SzlGRTNuU05sUVpvRkQ2bGZKZlRLenI4QTg4WElaWWZ2cXFLcnNIdW9NcVJsb2dCM1NSNEtpdGo1R3hiWmsyb29feTlGUGNZOTVpQXVoQm1qekZDeWI4REE0QnJwZ1dzX2VKNw?oc=5",
-      "summary": "Vancouver concertgoer sues Live Nation for excessive volume level    Business in Vancouver",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-23T23:30:00+00:00"
-    },
-    {
-      "title": "Canadian cybersecurity exec arrested by FBI accused of working with criminals to defraud his own clients - CBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YLVBwTFpneWxOQUpFb1FxbzZoM1hXX01JZHBYVTRLY1VqYTZXcF9CVGVndEU5ZHBWUHZEWUx4dGNfX2l6MEwzQVJXRGlZTFJSR1B2YnFuaVFpUlJlZEw1UDhXY2wyTk9ha0lVNkoxU1Z3ZHZtT1gyTVRn?oc=5",
-      "summary": "Canadian cybersecurity exec arrested by FBI accused of working with criminals to defraud his own clients    CBC Canadian cybersecurity expert Edward Dubrovsky was charged earlier this month in a U.S. federal court with an extortion conspiracy offence and \"interference with commerce by threats,\" according to a public docket.    Yahoo News Canada Cybersecurity firm hired by Hamilton says director…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-23T23:23:19+00:00"
-    },
-    {
-      "title": "Gateway Mall owner looks to replace rooftop parking with 500 modular homes - paNOW",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREFMQmxvcW5NNm9iX0pUYVhpcEZOWl9aWUluaG5qMXZIc3d1eHZycnNjN25RbnJWS0JxUElpRnk5VTAwa2RaRVlwZ2pLWnRvLVlTdEU1RWphLUl0dV84dlBsOGllWUw0dHhVRllJRUU3SXRqcmVvMGN4bFdJX1RweDF3eElfXzZLdlZSQWZJcGhkcF9GX0RWaDY4RDFFXzFjWEtLc3MwZw?oc=5",
-      "summary": "Gateway Mall owner looks to replace rooftop parking with 500 modular homes    paNOW",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-10-23T23:14:19+00:00"
-    },
-    {
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "source": "BBC World",
-      "category": "World & Geopolitics",
-      "published": "2026-10-23T23:11:31+00:00"
     },
     {
       "title": "Complaint to Competition Bureau alleges Israeli companies misled Canadians about West Bank real estate",
@@ -1520,14 +1528,6 @@
       "source": "Globe and Mail Business",
       "category": "Markets",
       "published": "2026-10-23T16:48:03+00:00"
-    },
-    {
-      "title": "Bombardier to expand U.S. operations, invest $270-million as threats from White House peter out",
-      "link": "https://www.theglobeandmail.com/business/article-bombardier-to-expand-us-operations-invest-270-million-after-trump/",
-      "summary": "Aircraft maker hiring for 500 current jobs and creating 300 new positions, with plans to make Texas its next focus of U.S. growth",
-      "source": "Globe and Mail Business",
-      "category": "Markets",
-      "published": "2026-10-23T16:28:55+00:00"
     },
     {
       "title": "The little-known investment Martin Lewis wants you to understand...",
