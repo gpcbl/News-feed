@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:27:25.229851+00:00",
+  "updated": "2026-11-07T00:30:06.281871+00:00",
   "categories": [
     "Markets",
     "Global Economy",
@@ -10,12 +10,452 @@
   "count": 200,
   "items": [
     {
+      "title": "Ottawa aims to simplify taxes, addressing corporate loss transfers and preferred shares",
+      "link": "https://www.theglobeandmail.com/business/article-federal-budget-corporate-tax-simplification-carney-champagne/",
+      "summary": "Measures proposed in budget stop short of larger corporate tax reform effort, a Liberal electoral promise",
+      "source": "Globe and Mail Business",
+      "category": "Markets",
+      "published": "2026-11-07T00:22:22+00:00"
+    },
+    {
+      "title": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks - شبكة تواصل الإخبارية",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TbUVKVWxJaFo5TTVjd1VWOS1vcVRtWVlLZUxrVzJIeVllLUhkcDByRTVkTjlIUGowYkYwYU1Wa2l6Q1ZMRXVhd2ZPU2dOMFpXcUFR?oc=5",
+      "summary": "IMF's Georgieva says any slowdown in AI-driven growth would be factor for central banks    شبكة تواصل الإخبارية",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-07T00:20:52+00:00"
+    },
+    {
+      "title": "Regina business sees growth despite ongoing Canada-U.S. trade war - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczdTeDF2UE91UTN5YmFKaDZFWk53dk5FbEJ6VlIwU2l2UVZLX1hEbnBBcUdHMnluSUR3aGVEOW5BR0JzZ2l4V1kta1QtN3U1dUo5NlBIdFd0bU9fU3ZuQ3ZGWWM0cFprU2R0NmN0X1NuanVmMWltZXNEX1ZWYVdyVC12VGhJQXJOTjdWWm1MYkdNWG9sMVJwemkzVlBYN3l5c2U4c25mZHRlYmh2RkROYw?oc=5",
+      "summary": "Regina business sees growth despite ongoing Canada-U.S. trade war    CTV News",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-07T00:14:00+00:00"
+    },
+    {
+      "title": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0YwY3BZVmJJTGNmT2N0QVdkdXYwRHBydU1KYXpFWGU5ZDFEaUY0WGM4VnJtekpiaU9ieW53VngycHZvU2FoQ21xb3MwSGYycjZmR0g5TkJIVUJ2NHB3c21WcE1yUWFfM0h6WTdwbnAzSjh3aXQwcjdiQ2pVQ2JBcDh2alYzaEx0TEp6NHpPaWFDeVdMWmVfbXQxbGduaF9vQXJTMFdMZHVKLUVDaGc1eWswbDBNTEhKazQwQ0hzX3o?oc=5",
+      "summary": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory    The Seattle Times",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-07T00:07:43+00:00"
+    },
+    {
+      "title": "Non-profit behind PrescribeIT should no longer deliver digital services, internal review concludes",
+      "link": "https://www.theglobeandmail.com/business/economy/article-canada-health-infoway-review-prescribeit/",
+      "summary": "In wake of failed $300-million program, Canada Health Infoway says it should keep receiving federal funds to champion national standards in electronic health data",
+      "source": "Globe and Mail Business",
+      "category": "Markets",
+      "published": "2026-11-06T23:55:12+00:00"
+    },
+    {
+      "title": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding - CBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEoxMkV4SkN2dHpVdG9ybmRkMDlRMllxR1pia3c4eWtWbXRwUGEtbjZYNlhleEs4V0hfeEQwaVRuWkNuT1VPWmp4QzExNFBtVWNlVkFiUjVVZTh2UDRfZVhta05BbnVEbmMxRVFrWWU3U0ktVkFVdmRlUktBdXdaa1Y3VEdiemNwQjFMWEFEb1RkaTVQdVQ0ZnVRMkU0ZzZBUGlRWg?oc=5",
+      "summary": "U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding    CBC",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:51:00+00:00"
+    },
+    {
+      "title": "US Sanctions Eight Canadian Money Services Businesses Over Iran Links - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHdaamFPYnNfcmhnR0hvZVJYQVJsNUliZG40Sl84YkZoUmlKQkVoc3JJODR3VF9qZlJCcDJtVVFQYURvQ21ESzloVE85Zk9FSzc0NkhlU1RhZ1AzWDEzdy1FemotQVNkWmNnODlIZGVSMVhHUDNnVktZWUpsOUJVNTdlTzExV09vYnJtYkFLTDB2WXctNWUzX3gtX1c2N0E0bExRalJ2SEFwbHJJUWgtYXkwb3QtUmpMaTYzYVNuZw?oc=5",
+      "summary": "US Sanctions Eight Canadian Money Services Businesses Over Iran Links    marketscreener.com",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:47:30+00:00"
+    },
+    {
+      "title": "Sask. trampoline maker still dealing with tariffs - 650 CKOM",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX01UNWNsLW1WUFV1Y1c0N3dLaGdJVmttSFFMdjdsQzdxYWM3a1QwelZ2NHYtUzZZMmQ3cWxSb2ZObzVNbkptUkpJRWJpcFpZVzlnNk5DUldOVVB0Z3NUQ1hNdHJ5N19Oc2VrdlhCb2pjc0hZdVRCcXk0cVhVMTQtU2FRTHRiemZF?oc=5",
+      "summary": "Sask. trampoline maker still dealing with tariffs    650 CKOM",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:46:00+00:00"
+    },
+    {
+      "title": "The Affordability Agenda, Step One: End the War - DCReport.org",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3F4QlFFbTVEMUxua0p5SVNUUEVCcWdpUmlrMnBZcVZKQ1duekhwNlJPazZ5Z0hrS0xYZzRCTW1fdVNuLWh4Qm9UbHlkWHlsVGJTM0tXTDdjamhfQl9PY09rcENYdmsyVDNrc2xyUzhlemtRbUhqZTc5ZEsyRnlBeEc3M2prOWNrVkE?oc=5",
+      "summary": "The Affordability Agenda, Step One: End the War    DCReport.org",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T23:41:02+00:00"
+    },
+    {
+      "title": "Oil prices fall as mid-terms signal possible end to Iran war - Oil & Gas Journal",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlkWkZDQWhUblg3c0VWaHN4Mmp4MjgwMGFmRWRieWp3VnNHR2t1MzlSa0xsRExCVDc0WFdXOGduekR5RmlsbEFuOGFJWW5VX3hOOW1ELVY4SjhlMTZjSkRsRTFFeURyUVhaNkcxajNMalpQbEtKSHk1Y3BEYmU4em5wV05GVFZ4RlFWQUhiTjdzQmh3Mkg4UWZ6SGNYNjlMcTBxOUh1Q21VemVZQWRRcUZmdVY5aG90eGhBSkJiZmNQQTdRSXJ1UDBSU2c?oc=5",
+      "summary": "Oil prices fall as mid-terms signal possible end to Iran war    Oil & Gas Journal",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:29:28+00:00"
+    },
+    {
+      "title": "U.S. Treasury sanctions Canadian firms connected to Ryan Wedding and Iran - Global News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fSzF4RmZtSUpmbTFhbVBYTUcxZlRKa19TZ3dkWk9YX0tadDhyaGNIdG1QakptWEVvSHQxWmNfNHV6Y29aUlVPVDRKenFiOXZxSzl4YkJVa3c3VFlPVFZUWm9BeTlIeElHZEdIR1hNVlM4SmZLNlR1SkJmQ3JieUE?oc=5",
+      "summary": "U.S. Treasury sanctions Canadian firms connected to Ryan Wedding and Iran    Global News",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:25:19+00:00"
+    },
+    {
+      "title": "S&P 500 Earnings Season Update: November 6, 2026 - FactSet Insight",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCRlpfbGZiMEtQTy1uVURVVjdubUxXRFVkTGpjelhTc0pyVFFfR0djYk42VjJISkVYbEhjTm5xRE5oVFp5V0QwQkI0NmJBeEpTRFR0cHVjVm9qN0pGRHhTQmVNLWhvU2JKb2xMeFJVa1I3aW5DRnNFNm5TbURtd9IBjgFBVV95cUxOVGladW9BV0dmMEl6LWJiTnBoSVh0VnBTUU5BemZhVWJESWdtUHRIVTBMbzFOZmVOQ1NhMVpPUG9SSlJMMmRVa05fcEU4Y0VUNXBVNkxZY2NCTFhQd1RGVWpuMnM5NzZPY3J6TTJCZVFBM1N3NTNTNXd4bUxTc09MSEJjWTY2OW9EdHVtVU13?oc=5",
+      "summary": "S&P 500 Earnings Season Update: November 6, 2026    FactSet Insight",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:19:57+00:00"
+    },
+    {
+      "title": "AI’s Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc ‘The Technological Sublime’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUnlHTWJfU3dxQkx4aDkyVzJySVd3c0tvTUdyY1gycDF6aHNaNU1rd1VndDhGcWJDdzhRcXl6ajN5MkxjN0d1bEpuRGlfLUhIWk94Umdmd0VNRTZvVjh2VDdMRnFLZ0ZuZkdMdlo0ZVRWYUZfYWE1c0N5VzRfdS1iN2xVaDFxOXc3ODNPN1FzRVFJZVQ1U0ExaGV1djhCeWZDQXFpaUNBMUpnWWFHR2h4bklSNnRPZw?oc=5",
+      "summary": "AI’s Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc ‘The Technological Sublime’    Variety",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:18:00+00:00"
+    },
+    {
+      "title": "Democrats plan to fight Trump's Canada tariffs once they're back in control of Congress: report - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzTlY3NzZJQk9LMmZnbW9STGFBRzZpVUhONm5EbEpMV0hkVFhNeFdDcFJxb3VjbEtfeUwwTlBOMkFjNkU2UXgtWkRDNTBQY3duU3huWkVqV0hPbXplVy0tZGYyYkp6Mi16Q3FmTUdvN0tMT3JYQlhmZjV3alBnSnM0MGRuS2tQQTUzcjFFLU5sMlpoT0hMdjBiQy1iYVl3LTY1djBScnVmTGpYXzdIN2FiOTl6cS1vV2tqdW5oYldYSnRjazFuV3NsVDU?oc=5",
+      "summary": "Democrats plan to fight Trump's Canada tariffs once they're back in control of Congress: report    New York Post",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:17:00+00:00"
+    },
+    {
+      "title": "Foreign governments own fewer Treasurys these days. That's pushing interest rates up - Marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0lkV0RrVGJtR1ZrVFFfWlN3dWJfQ2VZOWxlUzV3OTB2eTBjcmhlWjhsaml6LUhUU282cGNDOHA5dW9lS014RWc3MWd5Z0NaRUI1RXVmbzZORUtqcXRCZkJlaW5FM1k4bGFrWkZSbWNLRVg5b2xaT3ktYlhWSC1uck9ZUlo1ZEZfRUhXNXAyMzlOU3JodE40MElZZEhLXzlxaDRDSm9YOTdLaXVT?oc=5",
+      "summary": "Foreign governments own fewer Treasurys these days. That's pushing interest rates up    Marketplace.org",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T23:16:12+00:00"
+    },
+    {
+      "title": "Canadian Natural Resources (TSX:CNQ) Q3 Results Mask A One Off Profit Boost - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUswNjRsMlRNM2pJbVc5WDFSTm51cmdOenM5NmxpQlAtMGM3WHAxNlNoOTFDZktVNjIyVktIeXlxcnk0X0JIQ2xzSkV5bllSNE8tbE1OZnhqZWJJN1RmT2stOC1VZWU1azFvVjIxMUhHOVdYVVl0dkJodjFxdDlldTBucmF1RlFqX2pSU3BqRXVXRGEtRkp6cTZocGd2aUVB?oc=5",
+      "summary": "Canadian Natural Resources (TSX:CNQ) Q3 Results Mask A One Off Profit Boost    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:16:00+00:00"
+    },
+    {
+      "title": "Nasdaq tech stocks recover but Wall Street posts 4th weekly loss - upi",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTJYZFJmdkRfc1Zjbkk4aGQzSmtMQjdac3ZGLXJZdVlSUFVWcEJJS3hDNk5zSjJSbHotLUlFLUVIZDVIZExsZXBva3gwSm5NY0lrS29XejlQQWNIdzg0MklnQks0bll4T3F3RXNYMnFDcjdkSFk5TEZjamFfb05GUmZDck5HUTZSUW03ZmhB0gGTAUFVX3lxTE1sczhqRlZEX0RvblNQMmlUbUo5Ym03NUI0aHFrbjNUMXVQbkh4NFpCdVNtYWx1UFVscmpqS21qVkhmVFFTeWROdnpuclRCZGFseHIzSG5aRzVKaW9xTXBxNS1YR2NCTC1EaGpKVzFzNzBJaEZ6eXhuZzJSTy1BT3BIQWcwRUpWaFdCRFFpdkdHdHQ2NA?oc=5",
+      "summary": "Nasdaq tech stocks recover but Wall Street posts 4th weekly loss    upi",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:14:36+00:00"
+    },
+    {
+      "title": "3 Indian Growth Stocks With Earnings Growth Over 37% To Watch - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTG9nNUVBMWFRWmFNWDlLXzdnSWFuem1iWjVnRjhTc1ZPbko3QmVEZTQ4aEJNZXJWZGpJYVVQaFRSRUJFeFFBZEtEazdlMFoySkJqbzZ5eHBENmUzSnBPandsc1dIaTBHWThyZ05ySGprTVBYbFZBNXAxOXJiX2lpRmtYOVRRekxla05HTVpFZUswSE82ZzRIcklqMFA?oc=5",
+      "summary": "3 Indian Growth Stocks With Earnings Growth Over 37% To Watch    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:12:23+00:00"
+    },
+    {
+      "title": "Top 3 Indian Growth Stocks With Earnings Growth Up To 58% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdWxGUTlkOFVVMGJuUzJJdkRERXc1eGZfcXpyQ1MzLWFTLVNtYkJmRDZBWG5nNW1EeW1WUUhFQU1EYUpMTmp3cm4tXzhzalEwaF9ZUm5idy05ZTdNdF9KY2ltMVlSdHFYbXdGNHJ1VmI0cHlPUXBLUV9IUTczSi0zZE5hcGVXcnlxM29PWUMwcm5waGFmMGc?oc=5",
+      "summary": "Top 3 Indian Growth Stocks With Earnings Growth Up To 58%    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:12:10+00:00"
+    },
+    {
+      "title": "TELUS (TSX:T) Stock Climbs As Q3 Results Deepen Loss Concerns - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3JLaHRvSGhrMmJUb29LSDRNREFoc1FBblI4MDVVbS1VWEZCYzRzMGFERVdtZWllLW1lVUd6UkpGXzV2X19KUDhlTkQxdFh1c3h5VHYtUWxWUFowcXllNHo0OXFOcDVhdHhRSjAxRDFnZlhPM05kV1dld0s0WjN0VnlwWmMwMjZ4bDN5Z25xSjVUQWs?oc=5",
+      "summary": "TELUS (TSX:T) Stock Climbs As Q3 Results Deepen Loss Concerns    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:11:21+00:00"
+    },
+    {
+      "title": "October jobs report: Strong hiring, but inflation wins - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xSmxFaDJBZHp3RU9mVW5UMktQQktGN211Vy1LQUJObU1KMHNYR2ttTVhIVkNSckdHTlJPMWhSOVJhcl8yLVNWVGt1X1Z5OUljeFEzN3pGaE9kZEpKelQtUTlWQW8wa1hsSEQxYU82RlAtSUNzaVhBMGxmd0tMeW8?oc=5",
+      "summary": "October jobs report: Strong hiring, but inflation wins    Yahoo News Canada",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T23:11:11+00:00"
+    },
+    {
+      "title": "Eldorado Gold (TSX:ELD) Stock Fair Value Moves Lower After Mixed Analyst Target Changes - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSW5Pb2JZVVlmSFRDalpjc0JxSkhwQ252RS1EYVFCUHRLNmFZSHBrZ3V5Ri1JZEVvenh4V0lGREtoRVpfZ2ZXMFJRSUhBY2hBdV9nZHlTMnY0aE5qYnNQOHA4LVdGcUozVTRWdUQydXpzc1h5clRWTU51aXhzMFdWZ2l3?oc=5",
+      "summary": "Eldorado Gold (TSX:ELD) Stock Fair Value Moves Lower After Mixed Analyst Target Changes    Yahoo! Finance Canada",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:09:29+00:00"
+    },
+    {
+      "title": "Saputo (TSX:SAP) Stock Looks Hard To Call Despite Fresh Q2 Results - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzc3VHZ6Z0pKY2F2SGpzZkdsLThRSDJVWE1kRDZLejBqNm1ULVBxaXE0bDlTRXN6OFdXcEhReml5cERVajg2Y1FyX0psZmNoZUJvaEhwTk04Wk1HZUJKc3B2OTNUM3VsMXpvZFhKTnJuekRNMTBQVWdPRDgwQU1sNXc5ZTAxNEkzbVdrQ0gzU3BMbGFOQkE?oc=5",
+      "summary": "Saputo (TSX:SAP) Stock Looks Hard To Call Despite Fresh Q2 Results    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:09:08+00:00"
+    },
+    {
+      "title": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind - The Weather Network",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnJvckpSdy1kNHZjck1VSEM4ci1ObVlyTTBqOFV4V2FMV3ZzRzNYRXlRaUZGMm83dnRPU2VLZWkxREpXVXBMdkotVWdldmpEWFBXNXY1SmpmWE1QQ2dlQU5aMW1zUzQ5Y2JMUnVId2VnSXAtUkxPX3Fjc1NibGtEd1ljcTJDR1ViZlhIUW5meWRRdERJUjUtamRxRi1saVFRRGtqdk96ZW16bXB0LWhmTUl0WGczZnlPVFhlQVpGem1lUnVFdFF2N05OSmFEYmlDb0ZVdklpNjA?oc=5",
+      "summary": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind    The Weather Network Friday Northern Lights Forecast: The Aurora Borealis May Appear In 10 States    Forbes Geomagnetic storm could light up night sky    Yahoo News Canada Northern Lights Alert: 22 States May See Aurora This Weekend    Forbes Northern Lights dance across UK sky on Halloween night    BBC",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:09:00+00:00"
+    },
+    {
+      "title": "As B.C.'s new government pledges to fix health care, federal budget doesn't boost funding - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVd2ZzU3UkMxT01lOUNYNzRhRUtkVkJKbVVpR2NMYmZaY1lkM3UzWHUtRWRYOW8tTGlTSUM0bXBiNWtMRlg4RnN2VEpTS1hGdkVNLUJQelhUYzBNdWMyWElQRmhCQ3JfLUdpT1N5T3pXYnJKam9uSk5RQjBWOGRuTHBZenB4UjF1M1E?oc=5",
+      "summary": "As B.C.'s new government pledges to fix health care, federal budget doesn't boost funding    CBC",
+      "source": "Google News: BC Economy",
+      "category": "BC & Victoria",
+      "published": "2026-11-06T23:08:31+00:00"
+    },
+    {
+      "title": "US sanctions 8 Canadian entities over alleged Iran links and money transfers | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTUhqQlY5ZHZERk5ES0JFZjhaRTNid3B2Wk8yUmpSaWxnR2l0U3lKWjFPVlVldUpGZnp1MTJrZGFTNzJVMzFEeDVkNFFFSnRtNENiQ2pkNEdpeExNOC1BMEw1Uks4R0lOQVIyN2FsMVhKV2UtY09VTDFzQ0J3ajAwODY2VlowcGt3blBiSjBzM3BxRy13QXdlTVlpTjUxUmNuN01wVGdLVm1vaEp0YWNMX09oRTlTOVJoeHEyeXpUQmQ1VWtLYWo5WE81UzVRbHRSV214bUZmOTVmYnVJcFB3d9IB5gFBVV95cUxPR210cVlZR1F5QzQ0YkZlRnhfYmNGbUpVcU1UR21qMkVxNWRRbmc3WHFsNF9ScjBwOXNsdzNIMk9ETHdib1hMR0ZCdmNPQ0s4cHd1bEhkQktObTVCcXR4b1JOaXNGRG94am1mQi00Y0YzR1JwcTBoVXJCY1EwNFhmRmNqU00xNFAyYTVCQlFRM0tLWmtIdUw4MUpWZy1oZTlPejNuMTFoYjY1RmYxUGEtRHdtdGpmMWlIVUdJUFZlN3YxUFhaWUpDLVVSbFdZZy1kejRhVjBycEtkRGxnWnJHUU1UQ3hCUQ?oc=5",
+      "summary": "US sanctions 8 Canadian entities over alleged Iran links and money transfers | Hindustan Times    Hindustan Times",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T23:07:50+00:00"
+    },
+    {
+      "title": "2026 Christmas & Holiday Activities in and Around Victoria – Santa Claus Parades, Lights, and Holiday Events - To Do Canada",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91eDMwUmdHNUhtMGEycGJyazhnTmc5WTFPcGxlVDg5TWJDZkM5akd5SVo4bzR5WW1Wb3VyUFVnZGNJVHgxUUFDYmZ1c1ZPdWU0TWFkUnpoWUoxcHhnQ3F6dV93bWtqVURSd1JSSA?oc=5",
+      "summary": "2026 Christmas & Holiday Activities in and Around Victoria – Santa Claus Parades, Lights, and Holiday Events    To Do Canada",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
+      "published": "2026-11-06T23:07:49+00:00"
+    },
+    {
+      "title": "Ousted Paraguay president Santiago Peña ordered arrested for offenses tied to bank collapse - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Tb3plYnkyWnB4eEViVXBxeFhXZjRzTEh2bnlUbUF3X0o5WHZqcGF6YlpyR2FIOVROMnFjTi10MDBkYnRYUHY3M0ZkRFdUWmN3azM4bXkwMmNaRVN3YXlKNTQ1MHI4RDFNVklrRzVlQQ?oc=5",
+      "summary": "Ousted Paraguay president Santiago Peña ordered arrested for offenses tied to bank collapse    Boston Herald",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T23:06:23+00:00"
+    },
+    {
+      "title": "Why investors are dumping AI company stocks after Democrats’ election sweep - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHBQalQ0UlBpeEtqdmZBTlJpQTJtaVNlV1B4Zm45UnV3Q0R4VWl6MXF6U1RfZDRUSXBLQU5YWWFma0xxMnJ5OXpiRVliTFlELVoxZEZiWGFmbm8xNlJvTkJBdlZCTlY0RzlOTVNZNFp2UU1qTnFsalotZmZPcE5YbVktcm9URUNUN0dSN2draU5EYU81ekl1ZTZCOGZoZFRmVDI0NDlON2k1ZEREMEdyaWJsaHZyLTU5QWhNNnJ6bWE5U3BU?oc=5",
+      "summary": "Why investors are dumping AI company stocks after Democrats’ election sweep    The Washington Post",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:05:36+00:00"
+    },
+    {
+      "title": "Wall Street's \"Energy Transition\" Funds Are Packed With Natural Gas - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDRBMW9NMUlSUFBoMXlrWVlQNUdaU0VJYzQtTHpURm5JRDlWZkNsN2x2TGpuM1dLSmZ1bFBrdVd1RTN3R0dJXzZlQlJZbzdGUGlyOFJzV3Vwc1paLXowaUlaM1NSc0w0ajMyTVBxa2gzSWhPc3JQcHVJQXlRV0NIYzVQUVVJeXJLV3NuaGducFhVTVJHSDV1Sm5rdzlZWmRhTDVmelJrRmx2NjFNUnfSAbMBQVVfeXFMTjFvMU44MWUyN3FsMFhReEZ4UDJlY0x3SURRTnZKYWNUV3c5UFR4dXRHX0Y4bHU4M3NzOVpzVXBwd0hLQ25aZjJIZGRxSGdqMS03bVVnR3hILWs4Yi1ZLWdjSHFJTzFuQ194dWx1MjBOTkhDTnJBRTdUWlNGWk9namROTnpuZGVXSWl6eUxNa1FWdnN1OTNHTnc3ZlJoUG5qejJVcDFuS04ya2s5dGNFYzFBT1U?oc=5",
+      "summary": "Wall Street's \"Energy Transition\" Funds Are Packed With Natural Gas    Crude Oil Prices Today | OilPrice.com",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T23:00:00+00:00"
+    },
+    {
+      "title": "Fed needs a better way to talk about interest rates - Chattanooga Times Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3BIVjVaSjlJUG9ma2lQVkZDRjNmRlZLWU80MGhlUzB1YVFtRkxzY2FDcHQ4NlNIclliamVKQkM4RVVGRlkwZ2RkdGxUNWJTT0NaSEVMN2h0T1I4SVRydkpEM0xQZHpLS2lVRXVHSFA1dG45bGE0ajNsdVAzS0FDRzlxOTJGQmRWbHZjMjBzQmVScUFqejliaW1ESUU2alk4WkE?oc=5",
+      "summary": "Fed needs a better way to talk about interest rates    Chattanooga Times Free Press",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T23:00:00+00:00"
+    },
+    {
+      "title": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1JEN0RQUFk0X2kzYTNTX3NqR0tWY3lXSThhZmNRVzExaU5pazlieXNfc25nT2xYanJGdlZFdy1UTExFdkhSWVNzTTlGWW9MNlpYUWFHUGFxZnJIcklpQm1VbzdsOUFXc1NLM0JTM1lEclR5MUlPLTRFZnc3eUwzcWw2bzU5cFVhVkM5aG5zZXZMZ1k?oc=5",
+      "summary": "Stock Market Today, Nov. 6: Micron Technology Jumps as Chip Stocks Rebound From Thursday's Rout    Yahoo Finance",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:56:15+00:00"
+    },
+    {
+      "title": "Trump can’t bomb his way out of the Iran war - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yd0JxRDI0NDBHZFN4TFlWOXNZUi0xX25OM3pod0ozQXFpd0NKbUdUZ3Z6LWlSX1lUX09vV0FHcTZMQXpiMU5oOVg4N2dYREtERVlSaHpWNV9Ec2E5UDJNa1BR?oc=5",
+      "summary": "Trump can’t bomb his way out of the Iran war    MS NOW ‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat    The Guardian What’s Next for Iran Peace Talks After the Midterms    WSJ Can US midterm results save the Gulf states from war?    DW.com After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss    PBS",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:55:38+00:00"
+    },
+    {
+      "title": "Ukraine and the IMF launch EFF reviews to secure $1.67 billion – Koretsky - Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3M0RBYVo3M1lIbUFzc20yakdzVG5ocE9wQ0pYY0xWei1BSldkZEhTWHd1c2ctZ3Y0c3RaZU9SX2h5dDlmQ1pERGFRa2wtOVVfbFZLN3Q4S3hJVUtCMFFyOHJhVGVMOWNtcFVGajV5Q0FyR2lwX2RXV0wwSGtDR00?oc=5",
+      "summary": "Ukraine and the IMF launch EFF reviews to secure $1.67 billion – Koretsky    Mezha.net",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:54:22+00:00"
+    },
+    {
+      "title": "US sanctions 8 Canadian money services over Iran digital asset ties - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFk4QkpKb3FjU2VrSHBYT01KZHg2UXFLdHZkX0VFNTRyWDB4aUd6ejZzbVBhUkk4aEVMaVZWOUhwSXJGUWdqR2lhV0R5RXU3c3JISXFjM0ZrTEhuYXV4SDFFaU5rc2pVY2l4ajc0VUxiZ0pNWm8wVFRXWk1Eb213RW5QMFFWM0VpQWpHMVVsWlkxOWJaVDM4YlhSTVZzM2M2VkN2VElTS2VIOFRNZlBvTXdxelBqTmN0?oc=5",
+      "summary": "US sanctions 8 Canadian money services over Iran digital asset ties    Investing.com",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:53:18+00:00"
+    },
+    {
+      "title": "Volatile jobs, inflation data should temper Fed's actions, expert says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQXoySWZsZ1hDVTRSUUhSc3IxS1MybU85QU1NakkxLVRxOTRmZkRDVk9hMmRjX0Y5Z3I0THBFak9rdm0tbzFmc2JKa3BqMGdFQjJ1MVVielV4NUVuUzRZMHVlb0YyY2M?oc=5",
+      "summary": "Volatile jobs, inflation data should temper Fed's actions, expert says    Reuters",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:52:44+00:00"
+    },
+    {
+      "title": "BC political leaders speak out on Canada’s Budget 2026 - Victoria Buzz",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3QyTzZSZHNCM09GMkJ1czNuR1RiRFFVZVRFRDl1TVlmZWJnY1hOTEZsYVAwTExRNnY4WmZYZ2lDMFBhRWtpUHJZZm1UM2NjZktzdFVhT3dHa3RxUk1PMzFvQnQ0eFI2bFB0LU1fdjZHTEZwTjY0SXFXdGh4bWhzemxwbm05Tk1INEZwNER1QnA?oc=5",
+      "summary": "BC political leaders speak out on Canada’s Budget 2026    Victoria Buzz",
+      "source": "Google News: BC Economy",
+      "category": "BC & Victoria",
+      "published": "2026-11-06T22:51:20+00:00"
+    },
+    {
+      "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1p2cHVoU2tWUm44d1pxaTIxSldWelNQTWtrOGpJOXdtOGJYUGp1cjNDcVFHSDlEbXFvQ2ZHSVNsbGxPcHl1SU5MS0lMQzNhYW5zZHJRWmFnSzhpWHhpWHp6TXBqeVJBMTBnRVV2eG1McmE4d3RoNnoxc1dNMVU5UG5fcEs0eEw0bF9EY1F3OWlCcGpQcXZMbw?oc=5",
+      "summary": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound    WSJ",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:50:20+00:00"
+    },
+    {
+      "title": "Warm Up with These Four Picks from Vessel Liquor, This November - Scout Magazine",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZhYVdOUXNIbDN1d1pybkktNE1nNjBKRmxoTFc1WFhlbEUtOXFwS1lfQjktN0RXQjJCQmVtdlR2eDhJTVNRenMyVVV3VVlsdzlpVGRwaTNpZjJWRDZSMHZQSi1FNDBhOFV3NFNsYzB3akxUSGNWbXEtanBuY0JmLWRlWEgtUEM3UUtQZW5qVUtMdw?oc=5",
+      "summary": "Warm Up with These Four Picks from Vessel Liquor, This November    Scout Magazine",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
+      "published": "2026-11-06T22:47:31+00:00"
+    },
+    {
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+      "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions    Reuters See more headlines & perspectives on Google News",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:46:57+00:00"
+    },
+    {
+      "title": "Unemployment up in Alberta and Calgary, but economist says province still doing better than rest of Canada - CBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUdkWVE4WVRqSW5PWFhBXzkwNHIwQlJObzhCS0JsTV9XME5KcVJ2eGlfR3F4LXpTYVBvUlpZOUkxbDdSMXNvUldmaktqNHJRaldVNVA2c3U0elhhR0VPWHc5Tk1qUmY3MlVJQzFTWnREa0FXa3A2ajlGaEtrQVJGcUZ0Y29iT2pKVjJlRmd6aHF3REtfQm9B?oc=5",
+      "summary": "Unemployment up in Alberta and Calgary, but economist says province still doing better than rest of Canada    CBC",
+      "source": "Google News: Canada Economy",
+      "category": "Canadian Economy",
+      "published": "2026-11-06T22:45:42+00:00"
+    },
+    {
+      "title": "Mortgage rates drop and stocks rebound slightly - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlpqTDNEX3JNTWU4T1RyeHdYR0YtM0dPbWlyRWw2WlQ2UmNTeWg5UGl2ZklTV2pyOTc5Z2NPWjFaakpEdlVKcnAyVHFaU3hUVFFpUkhjM09rbEtwcmNrYlg2RG1xZUxuTGhnSlBmNkpSb2I1QWl2SkFVVWx0d3pHSDE5aUU0RFlyNmlYdUpGVTfSAZYBQVVfeXFMUEdoOXM1WnQyRTBrRDFDOVFCU2s1UTlQeHluQzdmVG93VWVfZEJMWGRNZ2dfUmp2eC14bHltY1ZPWnluQWxtOFZtRjlsYjctdkV5Q2VLRk10dG9FTkxOdGdDMEtVYUE0WkVWT2dEQjBNVWZlZDZDdi1mRTVBZ1M3WGZzRXluOW9XcjRNMzJPTWVrYTlOVC1n?oc=5",
+      "summary": "Mortgage rates drop and stocks rebound slightly    The Hill",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:44:00+00:00"
+    },
+    {
+      "title": "U.S. sanctions alleged scam group affiliates - Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkJzb3RubUJiWUJ5ZzVCVHdERGdBZFBDQlN0YUN2dnVxLXYyUEZQQWIydjBKdUMzNGF4Y0paUlBPd3RZXzZVcjFkemloMjRRaURvTDA4TG00NWtCT19oeDRnUlFPY3FObzBtV3hhR3djOUFKSDJUamdFbDk0ejZ6NXVR?oc=5",
+      "summary": "U.S. sanctions alleged scam group affiliates    Daily Tribune",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:43:15+00:00"
+    },
+    {
+      "title": "AI stocks tumble post-midterms as Canada bets big on AI infrastructure - Global News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMzBaemJUc2xpX3hpWjV6V183UnBQQUVNTC16MnB6TDhMalppM0FPMW1oTVlVZnU5YllQNGJaZDZ5WExzYmd6SkpTb25tbWt6bjVXTUoxbzdEcDkxUlVJdVZmd2gwZEpVQkpNcm1sR2k4QmI3bENjMmZIT1pPQ1hVQkRGWnZfbktFUzd0QWdOUElVWkhUSjZ3RFRKa1RlMWJtZnJRSlRMVXhwVzJW?oc=5",
+      "summary": "AI stocks tumble post-midterms as Canada bets big on AI infrastructure    Global News",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:41:27+00:00"
+    },
+    {
+      "title": "Stock Market Up, Still Suffers Stiff Weekly Loss; Inflation Data, CoreWeave Earnings Due - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWS1CUGRkOWhJQ3NnaUlpS3ktVElZaTNQb1ZGTDRVY0pycGtPZUhCTV8wd1lxanNYUk5JOFpfcXRNNnhmVHJadmtfQUhfUW5ZVDlwaDZUdGNDYVNEVTlEcUxSQUxOSVlmY3Nkal9rSnJ3T1REcEoxMWV1T2R2dTUwS2VTSFRqZHl2WnhpZFdvNlQ4VXJkVEtYU0hBb3p4dFlKd2JZTUNZNzhZOHVsODNCbU5lY3VPTXVzVFNtRnZQZHc?oc=5",
+      "summary": "Stock Market Up, Still Suffers Stiff Weekly Loss; Inflation Data, CoreWeave Earnings Due    Investor's Business Daily",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:37:00+00:00"
+    },
+    {
+      "title": "US imposes sanctions on eight Canadian exchange companies — Anadolu Agency - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzJqbXNfOTdva1hhSk55S09ZSzRqUXI5N1N5OWRxZVg2ajVWM0JXZ0tRVWZkX2pCc3V5VzJKS2FhZzdIZXp1VTl6NkJSLUd3WS1GQ3pPRVpfUnRTVm1TTkh1MzE4WXNxSHROMlpRYzJEc2ZFc2FRajdUdHB4N2pHS2c1R1dEY0trTGVxMjl4cGRYbjd0Q19UZ1U1RG9qMVZINmVGVGJhS1dhcjBicVZrdUlBRmR6bFE?oc=5",
+      "summary": "US imposes sanctions on eight Canadian exchange companies — Anadolu Agency    UA.NEWS",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:36:11+00:00"
+    },
+    {
+      "title": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally - Kitco",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHVsMFNpWElRdW9uMnNaWURPNm1xNktGOTNYeWppWXhJWnJqVEg0bW12R2pnUTJ1NEt0N1psUkc1S1d4NkNIZ2NxdktkV2YwVW1kTXBWNXpjVkcwUlZmRG5hdTZvNzVJZjVJNzNpU3RTWUhtTHZHSEpHbFV3QmN2a2JxMTE0VXUwR0JockJJaFlnc3dyLTUxMmdyczAxWkVzZS1KTkN6dW9ydS0xSjBONm8xRnI?oc=5",
+      "summary": "Wall Street split on gold following Dems’ midterm rout, Main Street bulls emboldened after post-election price rally    Kitco",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:33:36+00:00"
+    },
+    {
+      "title": "US slaps sanctions on Cambodia's Prince Group over online scams - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjgxejg4TXptODFqNzd1bjF6U1VsaHBnbENOaERHTVdkYTdVV0VaR3g2Vlpyd3J4bDZYT1k1enZtSmdoMzZ5NTNiTWRkZWVzakdzTlZHYUNHWlJkQnlFWFZjaVl1VE1HU0Ywc0c4czk0SHBZSmt2T3hWWUwzT0I5cTBmMm5adGFLdU51S3A5NmtqR3VvUTBXMm9WWDVUeVN1R1F4NFhoaDgwTjF1ckt2ag?oc=5",
+      "summary": "US slaps sanctions on Cambodia's Prince Group over online scams    Nikkei Asia",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:30:00+00:00"
+    },
+    {
+      "title": "Strong Hiring Reinforces a Sturdy Job Market - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXBUazJMek5pNDFqRGQyNl9XT0tRQmRFTjhXLW1sbDJ4VEExaXRUU0RxaXZRVkdDS1VYbnRiR2JqZEZTVXNlemN5dEtkZ2NfMU0xaTE3QUlzd2locHl1eDVIdXppaHlISXhybXNCZ0UzS0ZlVkhGazVEN1BaQnlZeFduWlpndmYzaEE?oc=5",
+      "summary": "Strong Hiring Reinforces a Sturdy Job Market    The New York Times",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:29:37+00:00"
+    },
+    {
+      "title": "Wall Street stabilises after AI chaos - The Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNV9MTW4tVlAyajdLR0gzMVZ2UFMzZFpKX0gzWTZ1WEZ5ZkNycE5iMmFES3hSZlJWbV9nMko1N0t6bWNyX3ZVQ2dqQ2Q3YURrVHhxa0pJb29zSF9OamE2UVMxanNhanFpUHhUcUNRZEJEcUtIbENNU2d1a1lBMFdMYTgweHE5X053a1RtOE5UZnpPeVNtVUFCWHZqZHBVQnU0T3pmUA?oc=5",
+      "summary": "Wall Street stabilises after AI chaos    The Times",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:25:00+00:00"
+    },
+    {
+      "title": "Afternoon front page: Democrats look to end Trump’s trade war; U of T dean quits over use of antisemitic images; and more - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdV9SbXFreGwwMDRtbHQyMWVrQ2VJM0VzcldhdzlpeURnT3FQR0ktNmVKbkFheFNEZGY0T0xCclUzZ0RJcExWRXp0UDNaYWZycV9lMEU5SDdWdVI3T0FrVkxkd1drRHZQQ0hhVlZNcGdVVHY3SUVEcE95MWxCM0FLWXFB?oc=5",
+      "summary": "Afternoon front page: Democrats look to end Trump’s trade war; U of T dean quits over use of antisemitic images; and more    Yahoo News Canada",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:25:00+00:00"
+    },
+    {
+      "title": "Washington widens Cuba sanctions, targeting regime-linked figures, five oil tankers and Chinese suppliers - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVG5KQm9aTERtZVdXekJNWFFHU1E1UUMxcEFHYktrSzg4cldJMXFBSUFuZ3c3Q3B3ZFczSVVtYjBsNE9pc3E2LUlTaHBJQ0tWNkYxODNrc0N3WjdJbGRGbE1tZy1yal9pX3N1SHlCUDdFVTNuTHpUVmY2U215TUZuZ0xXVGtJSjQ5V25vNnBR?oc=5",
+      "summary": "Washington widens Cuba sanctions, targeting regime-linked figures, five oil tankers and Chinese suppliers    Latin Times",
+      "source": "Google News: Geopolitics & Trade",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:24:59+00:00"
+    },
+    {
+      "title": "Ukraine Committee Advances Crypto Bill Despite Central Bank Objections - www.tokenpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVnNoWEl2c0dhamVvOWE3aEt1RnUtQm5jM240YlhVbjVXWkk4WWpmZEtuRkZfVWcyN2UwUnJYd1pCWUZFT0JGcVctbWE4ZU51bHFvWEt5bTVoMjQ?oc=5",
+      "summary": "Ukraine Committee Advances Crypto Bill Despite Central Bank Objections    www.tokenpost.com",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T22:24:51+00:00"
+    },
+    {
+      "title": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5",
+      "summary": "Two missiles struck Iran's Qeshm Island after aircraft heard above - report    The Jerusalem Post Iran news agency reports 2 missiles struck Qeshm Island    The Times of Israel Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks    WSJ U.S. limited strike on Strait of Hormuz raises questions what’s next    Global News US strikes Iranian island ahead of midterm elections   …",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T22:19:06+00:00"
+    },
+    {
       "title": "U.S. Treasury sanctions Canadian firms connected to Ryan Wedding - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUUo2UmVqVVlOT1lteF8zS01raEhDV3NSazloN2gyMmFTQlBwbm5IU2lDTlRxZEJUa3JpVzI3eGY3TVVvVTZURUducEhndW8tU2RiWGJlZU02bURpU0JGYzY3VlhZeG5WZFpiSFc0eVJremJGa1F2c1UyZTdfRmczZDBHMDhuSE95dl9ya3RScUZ6N2trSmFhTk54X2VzSy0xUnl0dHV5SmlJWUZMczI3TUd4NnRaY1p4VWVJQnpYWjkwcnVHQUlHYzlwRmNrN3dwRzBKalNYaUpaVkZHdjVJeWNKRQ?oc=5",
       "summary": "U.S. Treasury sanctions Canadian firms connected to Ryan Wedding    Toronto Star",
       "source": "Google News: Geopolitics & Trade",
       "category": "World & Geopolitics",
       "published": "2026-11-06T22:18:35+00:00"
+    },
+    {
+      "title": "These stocks could be Budget 2026 winners, according to analysts - Financial Post",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHdNMnI0dnFHSHcxakZnaHZwMHkxRmxKRE9tODZaZG1sdElNMkVDRVVrOVJzUVItR3RfTWdUR0YtWElIc0xJdUJMcThrMzhfZnZSYXZUUE1jLVRHQWJ2NjhGQUtUZlJlSDBDSnRiMl9ueV9lWXpWQzlmY0wzUEdyMnhQbTEwVWtlbTdScTVLQTk?oc=5",
+      "summary": "These stocks could be Budget 2026 winners, according to analysts    Financial Post",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:15:48+00:00"
     },
     {
       "title": "US sanctions 8 Canadian money services businesses for alleged role in Iranian sanctions evasion - Anadolu Ajansı",
@@ -26,12 +466,12 @@
       "published": "2026-11-06T22:15:11+00:00"
     },
     {
-      "title": "AI stocks bounce back as S&P 500 trims weekly loss to 2.7% - The Business Journal",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfRGpnN0czbndkdHAtQV9fZHNSR29oU2hLVy1jQ3RtMVRTdlpCX1hMNlNESURDNDdaaEdHc2UyYUdwQlhkUnBVcXJLcV92MkJkVGJ5OHNiOWtOZklvRWtWUmtHUnVfU29PN2lqbVFyYXZZSUJCVjVv?oc=5",
-      "summary": "AI stocks bounce back as S&P 500 trims weekly loss to 2.7%    The Business Journal",
+      "title": "3 US Financial Stocks Riding The AI Bond Boom - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTBQNlBKblh5X3EzZUxSb1N1aDlST3FPbS01ZUZyQjg3eGk1WGJqV1pyU1VOVmpoWEl4QUEyX0YxMVRFWUc1Sk5XV0d2Um5PQ1hGX2lYQzVLTUlNbmdUZERTeGtlOEw3bkJYQkdXSjJHUE1TSkRkZjhkU1ZLOWQ0UVNDTmxHSzdmZElMMHpuam9ZVUxxeUc2eQ?oc=5",
+      "summary": "3 US Financial Stocks Riding The AI Bond Boom    Yahoo Finance",
       "source": "Google News: Markets",
       "category": "Markets",
-      "published": "2026-11-06T22:13:13+00:00"
+      "published": "2026-11-06T22:13:12+00:00"
     },
     {
       "title": "AI Stocks Rebound as Investors Weigh Whether Selloff Is Over - Bloomberg.com",
@@ -50,6 +490,14 @@
       "published": "2026-11-06T22:03:11+00:00"
     },
     {
+      "title": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal - WTI Closes Below $91, Brent Below $99 - EnergyNow",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMFp5VDJMTmR6d1c2WGI2c2toUkVwT0E0dWhHLS1LUERMdHlaSEJXQ2NVWWRNTE9OUGM2c3VlUi00eHhhU3RtNzNzNkwzZEpxLUxmTzgwazBXbkZzSk12NWs5aHUxclFHMjJpN0RaYkZTS25BVkxFQllMYXM4MDJId2hoNzhJTlJiYV9OYjlzQ1RCSlk0UEl4Rk1zaVppN0RLV1VKQi1JM2hKRjVDa2dDMm9IMG9xa2l0dkZwVERwVXhFWWF3dWZGU08tXzNna0xBVE1ZYTJVZmJ3SnV3b1ZtY1pzcHc2UDg?oc=5",
+      "summary": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal - WTI Closes Below $91, Brent Below $99    EnergyNow",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T22:03:00+00:00"
+    },
+    {
       "title": "Feds seek $22-billion spending boost for defence procurement, war in Ukraine, trade war support, and more - The Hill Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEFONTF1S0ZCRFFxV0ZaUjVXRzUyeDhJaXBlN3hxTHVVLUltZzBqNFV1Uk1WclJLSU9oYkV6djZSVDIyRWxSYTExOTNheU1uSWh3elJ5OEJJT1ZEM2czbWFPS3JKN1ZZR2xBQVdaOEp4OFZXdWZxaUN3RzRnNFF2aFRhamZ0MjB1THp0azUydDA1SzRic0IzQ3lyQmZ0X1hxOUFPb0VUblhIcXhtcjljVkhVc2Y4dXNtSkNVckNyUzctT3otZVBUeDQzRmpJQXlRb1FpS0xSUUxvMlZSYkpr?oc=5",
       "summary": "Feds seek $22-billion spending boost for defence procurement, war in Ukraine, trade war support, and more    The Hill Times",
@@ -66,12 +514,28 @@
       "published": "2026-11-06T22:00:56+00:00"
     },
     {
-      "title": "US Sanctions Eight Canadian Companies Over Iran Transactions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXdFWHJTSzhveHF4VkZWaEh2bnNjWFRPUElVY2VMWXdCa0l6ZHFOeTYzRkxJNHd5aWI3dWk4VHRzTXRJZGFzMFhrejYxSFJTY05WaEpSd3RFbnRNWFh2d1hnZXo4STlPZ1g0X0IxS25paThlUHM5VUhvT3FwbHV0UXQ0cUpIb3Z4dkZZM0x3aE50RXVTOW95X0NDcGpIUDJ3MTc4dlRjYkhhamtfbEdVRkxqVGk2NW51UnVFNWc2LUgzQ05HMWFadQ?oc=5",
-      "summary": "US Sanctions Eight Canadian Companies Over Iran Transactions    Bloomberg.com",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:58:24+00:00"
+      "title": "Wall St Week Ahead As tech swoon roils market, US inflation data on tap - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYWlPMS1sdHZxcTUxa3RDeUkwRFNDMFhEeGVNRktDVW9xeTNnMTFXbWMxQjlOTkttTkx5b19EVlVZOThRRGNCX0FrR2dIVTZpUHQzblctejRubG4yTWNyajJVaU8yV3JoYjZ1T19HY1U2dHBlMVE2a2oyUHpBZFZtb2g0T3FtSWRaT0hscHhkdGMwNktlb092R2g4cUFWWE9QS2RCOHh6d1QteW5pcWc?oc=5",
+      "summary": "Wall St Week Ahead As tech swoon roils market, US inflation data on tap    Reuters",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T21:59:27+00:00"
+    },
+    {
+      "title": "U.S. Stocks Jump After Democrats Sweep Congress - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVFJRHRnbXFVZk1nWnFDSE1ZUjhaY20wY2dVRnpnUnZZYzQ2OXM4NE5CRFJsemNDcXZ1dkhUSl9BSnRaMTdzU2xNZExWdWNjZmNFNGd6Qllpcjk1eUVwMTZrc3pSdnlCV09uSlM2XzJ5d3ZMTnA5VHB3RWRVdE1fVFRkY2lVbXJfaXpCVW10OEtNZ2N6NWFUbjdfRXpCbUlaeThkTnozWl9oVXhSVGxNZ1RodUhWUQ?oc=5",
+      "summary": "U.S. Stocks Jump After Democrats Sweep Congress    WSJ",
+      "source": "Google News: Markets",
+      "category": "Markets",
+      "published": "2026-11-06T21:58:58+00:00"
+    },
+    {
+      "title": "17 Photos That, As Of This Week, Aged Very, Very, Very, Very, Very, Very, Very, Very, Very, VERY Poorly - BuzzFeed",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMFRUTjFhWHVNR3Q3Yy1aMWp3UktLb0h0aWMwN290WlZhcnBNX1ZEd09GUUR4Mll5S3F3bko0N0FUNXVMaHN0SGloZ2tIaF80VnFndU9DN2tSbGNkai1NcmgwUVAtMnVxb29LTk5xTlgxLWJreTV1UA?oc=5",
+      "summary": "17 Photos That, As Of This Week, Aged Very, Very, Very, Very, Very, Very, Very, Very, Very, VERY Poorly    BuzzFeed",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-11-06T21:56:36+00:00"
     },
     {
       "title": "Weekly Market Update: Stocks Down After Big Losses in Energy and Tech - Morningstar",
@@ -82,20 +546,20 @@
       "published": "2026-11-06T21:56:01+00:00"
     },
     {
+      "title": "Repair Inflation Drives Intact's 10% Premium Hike - Collision Repair Mag",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2h4b3hickpSLWdkNURRZlEwMzItU2N6Uk12ZDdNZGdaQ01nS180YzRpQkNsRC1WTU9fd1ZTSVRybVBrRFkyQk9tUVR3Ymk0ZkMwRFFPa1hNZ2tsRFRTeUdSaTE4WW5pZzN2b0hkU2I4TElyeVhvV2hYZHNxOHZjLWtIUmJrd0pRSVJNZ0szSTVBUzVpM19tck5VQU02WEVjTFd0OVhoNnAzckkxV1Nza042cFZJQ3R4R0thWnJB?oc=5",
+      "summary": "Repair Inflation Drives Intact's 10% Premium Hike    Collision Repair Mag",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T21:53:55+00:00"
+    },
+    {
       "title": "Investors try to regain their footing after tech stocks tank - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlzcGJ5b2FoTDRoekZ5blNRdTExdkc3NURPalBjNElDM1NzamNoS1IzS1B4cXlzX3dGMlJXcG9RdWMweW5CM1NCQ0MwdGYwc2h4dGZQaFZSZVBBZUpIZGw0ci01bE1aamxNRktLdGw3MkFKQ05peWZQVjdkdEk4d1U2M2NQNDVqUy1aZFJWUEdvN1RWSFNaNXFzSnJ2aEZmbmxTVW11aUFQS0lhbFlaWDd3?oc=5",
       "summary": "Investors try to regain their footing after tech stocks tank    NBC News",
       "source": "Google News: Markets",
       "category": "Markets",
       "published": "2026-11-06T21:53:03+00:00"
-    },
-    {
-      "title": "BC political leaders speak out on Canada’s Budget 2026 - Victoria Buzz",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3QyTzZSZHNCM09GMkJ1czNuR1RiRFFVZVRFRDl1TVlmZWJnY1hOTEZsYVAwTExRNnY4WmZYZ2lDMFBhRWtpUHJZZm1UM2NjZktzdFVhT3dHa3RxUk1PMzFvQnQ0eFI2bFB0LU1fdjZHTEZwTjY0SXFXdGh4bWhzemxwbm05Tk1INEZwNER1QnA?oc=5",
-      "summary": "BC political leaders speak out on Canada’s Budget 2026    Victoria Buzz",
-      "source": "Google News: BC Economy",
-      "category": "BC & Victoria",
-      "published": "2026-11-06T21:52:12+00:00"
     },
     {
       "title": "As tech swoon roils market, US inflation data on tap - TradingView",
@@ -108,50 +572,18 @@
     {
       "title": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Rout; Nvidia, Intel Lead Chip Rebound (Live Coverage) - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpPb0ctNHctc1ZBczhHQW12ZE5YZDdyd2MzcG1tUlNMYjBiaE9MT05XOS1RRVpaekgtWThPY3BSYVVYODZhV0hiVXZUMmxHdGtoSGtqR0lDSno3Z2FHRUZWX040ZEZldFI2UlRRb2p6WjN3MEhSVUlYZjNhdjRtOTU4T2htSkhRUHdXVE5ralJMUjJ3MXh3Yl9SdVcxcy1WY01WdmdmWUptMW1pLVZ2RDR1NW5TeExLQzY0?oc=5",
-      "summary": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Rout; Nvidia, Intel Lead Chip Rebound (Live Coverage)    Investor's Business Daily US tech stocks edge up after AI slowdown fears hit value of firms - live updates    BBC Nasdaq gains ground after tech selloff, with losses still outweighing rebound    Fox News Markets realise they hate America’s blue wave    The Economist AI stock sell-off…",
+      "summary": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Rout; Nvidia, Intel Lead Chip Rebound (Live Coverage)    Investor's Business Daily US tech stocks edge up after AI slowdown fears hit value of firms - live updates    BBC Nasdaq gains ground after tech selloff, with losses still outweighing rebound    Fox News Wall Street stocks in relief rally after heavy AI-related selloff    BNN Bloomberg…",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T21:52:00+00:00"
     },
     {
-      "title": "Visa: Consumer Spending Will Surpass Inflation in the 2026 Holiday Season - HomePage News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeF9sZmpPZlZkSWk1NFBkbXY2VFljNEJkbm9rSjd1REcwTks4SjhsdWFQaTVCbkY4QzdIaVFPbHVScDVFYjdrZE9MWm1iZDVMclM0TWlqNlgzN3FKSU9hbnlGa3dEMDZMdjZlZExaRVhqVDFjVUhIcC01dG1WMVVrUVVmTDkwaHFqM0tSekliR295XzRwQkpaOXhCM2lVYTAtNDlnWDIyNkFSdHFyLXA2c0Q5bU1tN2d1OVE?oc=5",
-      "summary": "Visa: Consumer Spending Will Surpass Inflation in the 2026 Holiday Season    HomePage News",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T21:50:41+00:00"
-    },
-    {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lMWdybVlISnZwQXhjTHZ3c3BFWVJuSG94UWVtd0wtT1NoNlFOSW9GdXliaXNES3lsbXpQaGlYeVcxZU5xRExMblRTNGh5SUJtNThlMnRVdVBjOFU?oc=5",
-      "summary": "Elon Musk appears to signal the end of the road for Cybertruck    BBC Tesla is going to stop making Cybertrucks, Musk says    Global News Tesla’s Cybertruck heads for an exit after years of hype and division    Yahoo! Finance Canada Farewell To The Cybertruck, A Total Failure    Defector It's sunset for Tesla's divisive Cybertruck    Axios",
+      "summary": "Elon Musk appears to signal the end of the road for Cybertruck    BBC Tesla is going to stop making Cybertrucks, Musk says    Global News A Preposterous, Overpriced, Beautiful Disaster of a Car    The Atlantic The Cybertruck’s Death Is Actually Great News for EVs    WIRED Tesla Stock Rebounds After Brutal Selloff. Musk Has a New Cybercab Plan    Yahoo Finance",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T21:49:50+00:00"
-    },
-    {
-      "title": "How High Tariffs, Cost Of Living Made Trump Unpopular In US Midterm Elections — Rep-Elect Adesanya - Channels Television",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWU50SWJmdGIwaFdTNkhlZmVieGNOYnJzempUb1BWLVpmdmdtcklwOE40bDJFc1poNm5oQXp5M0hiYm5INTUtRXhUR2ljbmQtWVR2TDhmTjRJMHVTeWZiTFJCNm1NM2dCcXpfejY3Y2tIR29oaWUySTBOamtjYlBuY2J1eWJEaXRCazU3WGt3OHkzSmgwenVVal8zRmE1TUY5eDhOMU44ZzA3QXpTbHU1V3J6MkxhdE5PSnY5VU5Db1V3WEUxc1FRZnFmVmNET28?oc=5",
-      "summary": "How High Tariffs, Cost Of Living Made Trump Unpopular In US Midterm Elections — Rep-Elect Adesanya    Channels Television",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:48:53+00:00"
-    },
-    {
-      "title": "5 Activist Target Stocks with High Cash and Low Valuation - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWhaSHl4TDh0QUdoS2ZYVm5tc0R2QVNCMGJhTHAxbkV1SkdMN3JldzAyakJnYUg0UFh1dnVEb1ZvZms0dDFvc3lVVzVzcDd2S3o0UlktODhDMzVjX2t1TmZFR21OSXdBdVpoTUdEd0N6NkFCT2NJVU9qbFhnbkNqMWNha3kzVEJZYU5TSGk4U3ZOd3RkcnFnZkV3?oc=5",
-      "summary": "5 Activist Target Stocks with High Cash and Low Valuation    Yahoo Finance",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:47:29+00:00"
-    },
-    {
-      "title": "Tech stocks stage partial rebound while dollar gains after US jobs data - Winnipeg Sun",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWEZ0dDNjcGJOaGFzWnVpN1JXNlhyUE4xMU9hQ3hvMkY0SGFsOE9WRjRXWXdHbVoyYkRGVkh3elBnUUpPZG9TV1RKWWdEdE5CRHpxRy14NEt0UUxWZGQ4eTkwclljclRVRnY0Yk1XaW1PYTliUTlYOTRMMjc2Nllvc3BiWU1rZ3A0d05teWxlSUNhNmIxVUFnUVlZME1yZW9GME1UZEw3X2hxR2dYLTBvX2ZlaFlUc3FzenQySGZuVkpLam8ydERFQno1OHJ3TGVVcWF1UG9wanBROTl4QTdQNXNxSnF0RjIxUUJUcnRvVF9CUQ?oc=5",
-      "summary": "Tech stocks stage partial rebound while dollar gains after US jobs data    Winnipeg Sun",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:47:13+00:00"
     },
     {
       "title": "Newly Emboldened Dems Gear Up for a Fight Against Trump’s Canada Tariffs, PM Carney Welcomes Effort - WWD",
@@ -160,14 +592,6 @@
       "source": "Google News: Geopolitics & Trade",
       "category": "World & Geopolitics",
       "published": "2026-11-06T21:47:04+00:00"
-    },
-    {
-      "title": "US lawmakers seek closed-door briefing with Nvidia CEO - Global Investigations Review",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamI3V2YwTUlpOEtsdzFKd1FsdXJKN0xqS2o5aDRLU2ZPNW0zSFJjcW5jZS1lanVRbHZ1d3hFdXlwdC1mMWFWZGlyVW9fZUM1V0R1ckt0QWxDVnNkaGlKTXhwcTdwNV9SRGtPMVFBMzdMTDFzQzFkSjdkV1l3a3UxM1dMQ2hkaHo5bjk1RGVGTFB2RkpDNGRibjFXSXJoZDlCU3NCQURteFdIMzBaYlRxbA?oc=5",
-      "summary": "US lawmakers seek closed-door briefing with Nvidia CEO    Global Investigations Review",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:45:50+00:00"
     },
     {
       "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
@@ -186,68 +610,20 @@
       "published": "2026-11-06T21:45:00+00:00"
     },
     {
-      "title": "Repair Inflation Drives Intact's 10% Premium Hike - Collision Repair Mag",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2h4b3hickpSLWdkNURRZlEwMzItU2N6Uk12ZDdNZGdaQ01nS180YzRpQkNsRC1WTU9fd1ZTSVRybVBrRFkyQk9tUVR3Ymk0ZkMwRFFPa1hNZ2tsRFRTeUdSaTE4WW5pZzN2b0hkU2I4TElyeVhvV2hYZHNxOHZjLWtIUmJrd0pRSVJNZ0szSTVBUzVpM19tck5VQU02WEVjTFd0OVhoNnAzckkxV1Nza042cFZJQ3R4R0thWnJB?oc=5",
-      "summary": "Repair Inflation Drives Intact's 10% Premium Hike    Collision Repair Mag",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T21:45:00+00:00"
-    },
-    {
-      "title": "Trump says making adviser Stephen Miller White House chief of staff - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdDNsZEg3eDc1U0M3dUwzc0lZaHNad1lOanNqMjNLc29UMlVacGh1NDBJRklFNEhZbDFaeUkyRXYwcm5BT0NCbk5ZcGpHS3RJWTg5eG9aU1AzZ1hNV1oxWTJET1JQUmpNX3VpdFhSdTlEeWxzM0hacmU1LW9KSnI3SlBwejhwTEFpT2diUlRjeFpWbU5jQ1VzQ3JwQkplMzJNVXU3UjZpN1ZVeHVL0gGyAUFVX3lxTFBxTTNWaHQ1RTFCVUJ5a05HSlhIVGpONnY3VUFJNFNfeDgyVHlOUU5zaFQyYkp3UDBQSzZwQ3UxM1hhV1ZaYWRpSnFPajMwY2dfZVRPa0FDcEFuM19CMmJGX2piNDUyMW1Ib0Utd1BfcURxZXp4Q0EtdVJMeEV1NmdyWHVDTEZFRUJkVEM3WHRSbVd2bDNCbHRGWS1MNU81dW9wMjhoS3NWSmdWSnlnbXJuMEE?oc=5",
-      "summary": "Trump says making adviser Stephen Miller White House chief of staff    Al Jazeera Trump names Stephen Miller as new chief of staff, replacing Susie Wiles after midterm defeat    CBC The White House’s post-election shake-up: From the Politics Desk    NBC News Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’    The Hill Trump goes full Trump with his new chief of…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:44:38+00:00"
-    },
-    {
       "title": "Joly asks Competition Bureau to probe Stelco deal after CEO comments - CTV News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnlJQWlEOF9OYWhzbTkwbWN5eGU1VW9Rd1E1MWZKYk5EQ2FrZ1JGWllpVHBOOXJBbTAxMllVdlMtU3BRdmhtZnl2Tmk1Ulc1ZmZUaTRiY3JuMnhZSVNPZGd3ckdqRDVERWY2MW92dWVlUWVtU0h6SjZobEs4eHIyNWhvc2NXZjNxb21BbEJaMkt0Ymw2X1Jael9YMEhJTEswajM1TQ?oc=5",
-      "summary": "Joly asks Competition Bureau to probe Stelco deal after CEO comments    CTV News Joly seeks Competition Bureau probe of Stelco as more layoffs loom    Global News Joly asks Competition Bureau to investigate Cleveland-Cliffs purchase of Stelco    CBC Joly asks Competition Bureau to probe comments from Cliffs CEO about Stelco acquisition    The Globe and Mail The Case for Nationalizing Stelco   …",
+      "summary": "Joly asks Competition Bureau to probe Stelco deal after CEO comments    CTV News Joly asks Competition Bureau to investigate Cleveland-Cliffs purchase of Stelco    CBC Joly asks Competition Bureau to probe comments from Cliffs CEO about Stelco acquisition    The Globe and Mail Joly seeks Competition Bureau probe of Stelco as more layoffs loom    Global News The Case for Nationalizing Stelco   …",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T21:42:50+00:00"
     },
     {
-      "title": "Nasdaq rebounds but posts fourth straight weekly decline - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5",
-      "summary": "Nasdaq rebounds but posts fourth straight weekly decline    Reuters",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:42:10+00:00"
-    },
-    {
-      "title": "The Democratic sweep could be good news for wind and solar stocks - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXY1WmdUYV9wQkV6NWxfTDZnQ1RNODg3ZXVZUmQydEZWRGhsb3Facjk4T2V2QVFnV05faWw3NHB3RE1NYllGRUdTYklMZEZKbU9IdXZrZHA0RHE2b2swYlBqSk9KSWUtU3Frb2RuQS1lYkdvRXMtRWtYRmZtVzBiVnIya2hnNzR6d2gzZXd2a2x3UXJ1UzhTc2NtYkZ5SC1ySkxiaGJOZkRmbkp2c0dHRVFLek5sWGdmUXpxQg?oc=5",
-      "summary": "The Democratic sweep could be good news for wind and solar stocks    The Globe and Mail",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:41:56+00:00"
-    },
-    {
-      "title": "Carney says Canada welcomes 'any moves' to restore free trade after U.S. midterms - Castanet",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGdkcmo3VTVvMHEwMEdXckE2QVhRZmVjZGprNHBBRHg1Uk1zcXdqR0hkWDllRmVyajBKSjd4MWQyR1NoSE5odld5a3ZIdjJNMTlac3Y5MWNMQWFVMl9DRmpWUVk3LWRfM1RnYVQ3ZlhjRGtzVS0zVWVQUFRzWFJVb3ZQR0ZtSmN5M3JJSG5GWTNzSlMtMTlCbzVaZUF3YnFKTVN2ZFB1UFdHU3pJOGtnOElwdDI0TFItOFlCN2U1Yw?oc=5",
-      "summary": "Carney says Canada welcomes 'any moves' to restore free trade after U.S. midterms    Castanet",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:40:45+00:00"
-    },
-    {
-      "title": "Still Up Double Digits This Year: Should You Still Invest in TSX Stocks After Thursday's Dramatic Drop? - The Motley Fool Canada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0RFWmJiODcwYWY0QmxpYzNmOUxLTlFxNGphdU5NRDNzYnU0MW5DMVVmakNLM3doblNkVGZZYmQzeXZoWE9EcjN1cTRHWklxQnRKSEpKWVVoaEZRcGJNbzhSNWpkR1k0clJ3aGUtaG42ZlhyRFhkd3lvVzFBNEhOWDlwOHREMGJBYzM1Wlg4cnhrU21ZckhlSUVIemFVZTFuSzdtN2NDZ2JrLUZFWEllVWFHcDZsYzg3WUFxQVdMN2YzZ1FOMnA1V1lITXE?oc=5",
-      "summary": "Still Up Double Digits This Year: Should You Still Invest in TSX Stocks After Thursday's Dramatic Drop?    The Motley Fool Canada",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:40:00+00:00"
-    },
-    {
-      "title": "Robust Jobs, GDP, Muted By Dramatic Electoral Shift To Democrats - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOFE2TVh2TFRlS2lFUDVRNldtd2pHdVNBa240el9HcWlkRHhmTlN1Rzg3dEFOUEhtU1VwWi15OHJaRUNZVm5qQ3pPQTN4RGs5R09JbENHM0xKRWdTTF81ZG5UODB4VEQxSlpsRlI1MjNqTGxraDhtODBpNjZoenhETGpySFpwTDM1SURya0ZBaTZoRE5meTVzY1VPZ0FhbVRNbjduM1ZB?oc=5",
-      "summary": "Robust Jobs, GDP, Muted By Dramatic Electoral Shift To Democrats    Seeking Alpha",
+      "title": "Ueno Bank depositors start getting money back: Paraguay Central Bank official - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWW9oeWhfOFA3T3pydFE4VkNrM0R6OHlLUTd5b01WNG45bVNobXA3bDIxZ081eXpSaENpamRpMl9IYzR6bTNKSmNOdGFZaEU0QzEzQllZMnJBbURTMGUwTWlwMG4tcXpkbVExSWV0YWt1b01abjRGekdnTjZ6am9aelhFZHhfaW11UEdfUGhXMXBBZnlEczZmOTFQc0hRcF9Nck1pUGw4WFNFZVlXTW9tR3FpYjFNZw?oc=5",
+      "summary": "Ueno Bank depositors start getting money back: Paraguay Central Bank official    Arab News",
       "source": "Google News: Global Economy",
       "category": "Global Economy",
-      "published": "2026-11-06T21:39:20+00:00"
+      "published": "2026-11-06T21:40:36+00:00"
     },
     {
       "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
@@ -258,44 +634,12 @@
       "published": "2026-11-06T21:37:00+00:00"
     },
     {
-      "title": "World’s Richest Tech Billionaires Gain As AI-Linked Shares Start To Recover - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUczZW9XZi1IRFFQQjZxMG82S0VSb2hXZmgtVkFIZGpSM21iSVNtS1VWdUFTd3FkYzY4aHBnWXVOSUlLb0RhNzJtdVBYUW5BT0RUd0FScWxFbl9ENU1jMTlwdTVpVnZkeU14QWl6a25HS1lnX3ljTHJXX2N5V2J3NkE1R0JSMWdXV3RrNUY1V1ByQmtEQk1OeHBUclotNm1aN04xWUNKbWlyc05GVU9wVDZlRDlaenUtVF9SbXZKbkwtSlJiYnpqMg?oc=5",
-      "summary": "World’s Richest Tech Billionaires Gain As AI-Linked Shares Start To Recover    Forbes",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:34:09+00:00"
-    },
-    {
-      "title": "Cautious Bank Outlook Weighs on Stocks Despite Strong Earnings - Global Finance Magazine",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uT1JoMy05S256R0J0YWU1TDhuTDJiUWNuVVVZYnh1azNyMDhEZW4tTmc1TXlPNUhWUWdSemZxMVpWaUhobGtYVFM5dnJsTHhwU2hWQ2ZQSFFtLWRRTWR0S1I2WC1Rd1ZEVlg3UDBWWS10YTY1cFJFYg?oc=5",
-      "summary": "Cautious Bank Outlook Weighs on Stocks Despite Strong Earnings    Global Finance Magazine",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:33:39+00:00"
-    },
-    {
-      "title": "TFSA Investors: 4 Canadian Stocks to Buy and Hold for Life - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS2VCa2xNdTM3N09zek5xODFsTjBiU2VTNWVXbjhCX3c2clVmYkM4TVU3N1p0d2tsSWpoQ2JFVG5sRDkyT1RfMWtnSUo1SmM1ZkhxZjlvZkpXR2dGUGc4T1BsOHQzWTgySzFBSTVKR0VsY3RLT2ZtV1hmbWNFb0Q1angycU1DOGZnSk5xMnFJaHVISmhBTXBhdnlJUFRXaDRsRDNITXIxbFJYSEZRWWliclNnaldEVWVUTnBDN2lTTUJfWF9MM0Utc2dLSENPVE9vN0E?oc=5",
-      "summary": "TFSA Investors: 4 Canadian Stocks to Buy and Hold for Life    The Globe and Mail",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:32:09+00:00"
-    },
-    {
       "title": "Unifor believes Stellantis has finalized sale of Brampton assembly plant to Roshel",
       "link": "https://www.theglobeandmail.com/business/article-unifor-stellantis-rochel-brampton-auto-plant-november-6/",
       "summary": "Sale of facility that shuttered in 2023 is expected to be announced next week, source says",
       "source": "Globe and Mail Business",
       "category": "Markets",
       "published": "2026-11-06T21:31:00+00:00"
-    },
-    {
-      "title": "S&P/TSX composite up more than 150 points, U.S. stock markets mixed - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnJaRng1M0EtcmVaN3Z4c0VzWkEtcmxvMlUtQTJFMTNNdGd2YU5FcXRrV1B5SUR1cWlqYUhxS0w4SnhreHJtRU8xZ2RVaU5KeFNOYVpQQ0ZtS19nVWlPUVpQZXUwMTFXZ1dYdzBkUWNuVzVnbWNnUkZZMDM5MEIwejBfd1MxM3FhV0FaVWNtaVAxM3pob2pvSGJwSnQxREVWQU9WNGx2VVc?oc=5",
-      "summary": "S&P/TSX composite up more than 150 points, U.S. stock markets mixed    CTV News",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:30:56+00:00"
     },
     {
       "title": "Pitching in: Bringing fitness to young mental-health patients at Sunnybrook Hospital",
@@ -306,60 +650,12 @@
       "published": "2026-11-06T21:30:31+00:00"
     },
     {
-      "title": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fblhqTzg0eVNMSFpfMnVwVHktcFNzU2VnVUEtUk1xUUFGZWZVemk4Z3ZOeFRjMU5JZFF2Y1BOclh5UV9KNWRnOG5xb1Nmc2FDajZSa3BBRTByX0ZleUk5WGVVeDY?oc=5",
-      "summary": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today’s Market    Barron's",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:28:00+00:00"
-    },
-    {
-      "title": "U.S. Sanctions Cripple Networks Sustaining Iran's Regime - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDZueW9ZaE92cFA5TlZ3cUduN2pZRTdLcnhBSEItVDFHSkcyLXV4ME9vZlhDVGg4bFI0Tk1yZldDUHNGa3l4Yy1GTThmbFpLcXdJa2dsZEdZc2R1M0dzRzJhcmtZNW5IcnlUSWJvdUx0Q1JRNGtxR0F5Z3czUnRKSEtpVnAzM2tiNUE?oc=5",
-      "summary": "U.S. Sanctions Cripple Networks Sustaining Iran's Regime    Mirage News",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:26:00+00:00"
-    },
-    {
-      "title": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUE9xeHV1eTYzM3BjTXBPUnVMcEZZczFuNDRyMlZSQmRqTDllM1hmZFhTQmV5MzF2YXhlbUlTX2tTYTFxVW5pbEROajVZekhfeFFLV1gzVlBaeWJTVWl5dV9wakhVamN1TjNqcGVuNTB1VGg4VjFEdmxBSC1idjh2QWJ0TlFVYzRMcDRXUWdqWnB2TnJMRHhzMUhRX0pxNkx2cmdRUzM1SExWcHB2ckNOTXpiMnExZ211N1lkbnBrRTZYYnUyRnJvSEppYTRGMWhycTczODNZMFFab05FSUFtUUV0UUl3MWtEclB0V19KNHJ1V2dEb2NoWGVROW1hUl9memlaSFpXaXJ0Zw?oc=5",
-      "summary": "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong    The Globe and Mail",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:25:09+00:00"
-    },
-    {
-      "title": "Oregon sanctions girls' flag football as participation soars nationwide - KDBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1dCREVBLXJ0Q1J0cnJaZmhYakFIaDBJbkp1TTZBOWlnR2wtTFFhakFfbmxqZXRaejdPdWx1b1hCMU1KUXhsa0NpLXFWeHd1aWZjSFN3bTZIdkpvTGltMXZjUXo4dXBkU1hyNmM2bm9IM3B5MUVtQWhZX1R6bHF6eFpScGRaZVl4YjgySEVzejZRZG9wQVRnaTBFbHhpSEt0QnRhYjJfLXRidy1sT1dj?oc=5",
-      "summary": "Oregon sanctions girls' flag football as participation soars nationwide    KDBC",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:24:35+00:00"
-    },
-    {
-      "title": "Tech Stocks Recover Some Losses - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUDYzYVJPd2ZjeVVYOVZkWktvR25UREFLalBfeHdtUU1CX0FYX21pemVnNzZTemFlTmgxYWR3c1I5T3NyemJOWjdWWTloZEl3ZnNZWTFzNENZamdsc3BzWlRVNUVTSWR6aHFVbEsySVM4Q1N4dFgyOXQ0Mk9USGdDMg?oc=5",
-      "summary": "Tech Stocks Recover Some Losses    WSJ",
-      "source": "Google News: Markets",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "source": "MarketWatch Top Stories",
       "category": "Markets",
       "published": "2026-11-06T21:24:00+00:00"
-    },
-    {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary? - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05rMlNIQXZwWGRFbUlERjJ6bXlobEFuV19nckJuSlpWZlpKYmJvd1c0Z0FiOGtqc0FaeTItWDBsUkZJY044ZnV0emk5dlBjcVFtNkxBM2xGbzhmRi1adk9XNXpIZVpYNXRubUcwOVNYcHZJVjFzMEducG1pMXFscE9rX0xJazdhaHh0UDZUN3gzZ19aRm4xOG1acE5ONXBVeUVKM1dBb0ZYRjdrUGZNTzBhaEs?oc=5",
-      "summary": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?    MarketWatch",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:24:00+00:00"
-    },
-    {
-      "title": "AI’s Wild Week Has Wall Street Hunting for Fresh Escape Routes - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUthZWVGS0lWUTZtbFMzeVk0dTdpTERCejZ2VzBJaUI2VTE3Z0ZHbzZIYVdnb25pRlY0aTR6QlNWcC1JbzJQRUVBejg1eUxQdGRPdTlsNUtrdkM2eWptZDFjYWtUUVg5bFJHX2R4VHVFWEx4TWJqLUJOYXp4SWxzNlIxa2xyeVpXQUp0Z1AwMVlKX0FReG5mYlRwcXlaUHFMckpzdkRoS1F3LVUyLTQtSFAyaw?oc=5",
-      "summary": "AI’s Wild Week Has Wall Street Hunting for Fresh Escape Routes    Bloomberg.com",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:23:32+00:00"
     },
     {
       "title": "Standard deduction rises as inflation adjusts tax breaks - USA Today",
@@ -368,46 +664,6 @@
       "source": "Google News: Global Economy",
       "category": "Global Economy",
       "published": "2026-11-06T21:23:17+00:00"
-    },
-    {
-      "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1p2cHVoU2tWUm44d1pxaTIxSldWelNQTWtrOGpJOXdtOGJYUGp1cjNDcVFHSDlEbXFvQ2ZHSVNsbGxPcHl1SU5MS0lMQzNhYW5zZHJRWmFnSzhpWHhpWHp6TXBqeVJBMTBnRVV2eG1McmE4d3RoNnoxc1dNMVU5UG5fcEs0eEw0bF9EY1F3OWlCcGpQcXZMbw?oc=5",
-      "summary": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound    WSJ",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:22:00+00:00"
-    },
-    {
-      "title": "2 Top Canadian Dividend Stocks for $1,850 in Annual Passive Income - The Motley Fool Canada",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzBTbmhCa204R1Q5SDJ0aFlqTElaRTNSbTRxeE5xVF9IZ0VXT2swdk0tVjBXV2RHVHBlbm5nNy1jd1UwdjBBUFE2NUE4cmNrX3RBUDVjZ2pGcWF5SWp0dHZwVDQwLUs4WW5iWTUxeF92TXp5ZFFrZGdrN0dUMXVLa0lOeGNoajZmT08zQWRPZk9CUlBoRnREZ25Rb2g?oc=5",
-      "summary": "2 Top Canadian Dividend Stocks for $1,850 in Annual Passive Income    The Motley Fool Canada",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:20:00+00:00"
-    },
-    {
-      "title": "3 Canadian Data Centre Stocks to Buy Now, Ranked - The Motley Fool Canada",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkN4X3Yxa0lHMk5ycU8tOTZudTA0alpFZURhZlJUbDd1Sm1NcklBX0lZUlBJbU95MGFMTjlZQkVwSzVEbXhmM09YV1dtaTlKNlBfcjI4Nlk4S01GNmJ5RHRWZEl6Rk81djhhU3NlNEkyRjBCMnE0SEZ4S0xwZVhoVUZuMmY0QQ?oc=5",
-      "summary": "3 Canadian Data Centre Stocks to Buy Now, Ranked    The Motley Fool Canada",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:20:00+00:00"
-    },
-    {
-      "title": "Emera (TSX:EMA) Stock May Stay Reasonable After Merger Backing - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91T1BNVDVSTWlMVFZaSjRhNFhxd2d5bnZzQkRLcnVPVmR2MEYyeVBUTnBVcDYwUTRMWng4TEcyZGRXbEc1dGdGYUZCNV94OTBFcmpTODljYlhNSDJOM1FUakx5T0hUeGM4QlNnZkZTRzlsQmJ5VktYc014Sm0?oc=5",
-      "summary": "Emera (TSX:EMA) Stock May Stay Reasonable After Merger Backing    Yahoo Finance Singapore",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:18:29+00:00"
-    },
-    {
-      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmRsTE4wSExwMkhLOWF2UHhUZ3ZiRVZVUXNmTVFqaTVJMWE0ZVRCRUJ2NlVmNkxUaWxhRzBEOEhxZ01FSUxjNFlxY2o2SlhlQW9peWFEbm45N25vVW4zUG13SkhQaWxtelhZdnJTdUowZ0FQaHY0dWVka1kzTk51UnRxMWhKbGFnWkRRbmV2Um5oeFJLdjc1dXVRS01PTjlrTTBmZmdlaWtvSDdBN1B5N1hINk1TSTIxUGIyZ2MwVTFlRHdmT0hJ?oc=5",
-      "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions    The Times of Israel",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:16:34+00:00"
     },
     {
       "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -426,28 +682,20 @@
       "published": "2026-11-06T21:15:00+00:00"
     },
     {
+      "title": "AI boom or bubble? How will it affect the global economy? - Chatham House",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWlROFFoNm9rWnZIRjZpSlJNelVhbEpHVjRpOFk4YXo1VkVYOTA3cHZSak5FNFc4UGJiNWtxVFdwUnBKQ3NDaHdiQ0t6bU1UTlBTeXJjbmJfWDNDQkxsWC1qbml1Nkl0UkpSWHR1WHFFNVpMSTQ5UzBfbkR4X1U1ZmphMU9tR0ZrRHpDbk5fWGd6UFE4TUdBWVhzdVpVWThnUjVHWHc2dnVlQQ?oc=5",
+      "summary": "AI boom or bubble? How will it affect the global economy?    Chatham House",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T21:13:31+00:00"
+    },
+    {
       "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2R0R3Jjejc0TzhHd0cwR3RXVVlQZ1ZHM3N1X19VYUVCc0xBc1I1ZUhFVzBNazRvT1lFVVpZVzVjdEJIWE1wTXFoZEFHRnBDM1k0TGpBa2k0WXdOU0xlQzlVWEg0OUdTMGJLeDFkblJUMVk0MkRpOGFSb2IyWG5scW1mR3lHbXZhcTltRnpCM2NTYW83YUtUUGktOGluTjZ3YTFN?oc=5",
-      "summary": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape    The Guardian Cornell Faculty Senate approves no-confidence resolution over university’s handling of sexual assault crisis    CNN Cornell faculty vote ‘no confidence’ in university leadership after alleged fraternity gang rape    CityNews Winnipeg Cornell faculty vote ‘no confidence’ in university…",
+      "summary": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape    The Guardian Cornell faculty pass no confidence vote over leadership's handling of Jane Doe allegations    BBC Cornell faculty vote ‘no confidence’ in university leadership after alleged fraternity gang rape    CityNews Winnipeg Cornell Faculty Senate approves no-confidence resolution over university’s…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T21:11:00+00:00"
-    },
-    {
-      "title": "Nasdaq rallies as chip stocks recover from brutal losses - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbFR4UldUSzBaT3pnbkdCX2lETmkwbEFzMkh4YjByV0pzODNGWnBSc1dHTXpOZ05aYzFRZWlpQjlZajRaMDNpMkphdGVCV3RLS2FJTV9SbWJ6X0VFd1MzdDdB0gFnQVVfeXFMTUpTNzdXTjNteTkwcDkwU0t5R21sMFRONnNMa1RKaXhNVG43SDNzLWdQVGdqcGRtelhpTi1oZmpXNzhndXNDUGVza0EwejZGS3J4ZThYUmJhLXhsQ21hdWdabjc4TFBJcw?oc=5",
-      "summary": "Nasdaq rallies as chip stocks recover from brutal losses    Fox Business",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:10:00+00:00"
-    },
-    {
-      "title": "US Announces New Iran-Related Sanctions... - Jordan News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0ZQX3R4LVlWdVZPcHlVeVBxaHktejRzVTlSbVloMmZ6Y05DdHpPbVR6SGE1YktoWjBVZ2JWYWNBZTFlaThzQnNpV1N4Wi1FdUpqM3lvMWxLVmFuRFFGbjAwalNKYTh6bXg0akFyTkJnX2tyaVBDZWV3RlVOdDlhSDJCRktQRnBOV3ZnQU91TXA?oc=5",
-      "summary": "US Announces New Iran-Related Sanctions...    Jordan News",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:09:40+00:00"
     },
     {
       "title": "2026-11-06 - Labour Instability? What Labour Instability? - Canadian Union of Postal Workers",
@@ -458,14 +706,6 @@
       "published": "2026-11-06T21:09:40+00:00"
     },
     {
-      "title": "AI stocks bounce back after trillions wiped from market values - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNlQ2MXB3TldBa2dOdXBzUXpYUlNBenNaZTlFX3E1ZUE1V040UnpKQlVZSjNpWm1TVEx2NnRfWUowVmsydV85TEJHbjJKSVVUNTF1d1Y0YU5RYjQ?oc=5",
-      "summary": "AI stocks bounce back after trillions wiped from market values    BBC",
-      "source": "Google News: Markets",
-      "category": "Markets",
-      "published": "2026-11-06T21:06:25+00:00"
-    },
-    {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -474,20 +714,12 @@
       "published": "2026-11-06T21:06:25+00:00"
     },
     {
-      "title": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0YwY3BZVmJJTGNmT2N0QVdkdXYwRHBydU1KYXpFWGU5ZDFEaUY0WGM4VnJtekpiaU9ieW53VngycHZvU2FoQ21xb3MwSGYycjZmR0g5TkJIVUJ2NHB3c21WcE1yUWFfM0h6WTdwbnAzSjh3aXQwcjdiQ2pVQ2JBcDh2alYzaEx0TEp6NHpPaWFDeVdMWmVfbXQxbGduaF9vQXJTMFdMZHVKLUVDaGc1eWswbDBNTEhKazQwQ0hzX3o?oc=5",
-      "summary": "Carney welcomes Democrats’ push to end Trump’s tariffs on Canada after midterm victory    The Seattle Times",
-      "source": "Google News: Geopolitics & Trade",
+      "title": "Amy Acton Responds After Vivek Ramaswamy’s Concession Voicemail - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWxVTUlNWE9TdERkWjE3UWFXcjJILWRKUlpkeDRUek5FcHhPcHVtY0JPRV83TENWOHJZWEhhb2R6MHlkQnpLeGs4c2VxRENCSHJkeUpnY2tGeTFnS3RhdW9YSkFKeWJEeEU2R0VfTUtOV1VOTDV2UXREUFBWWHc1YTJUZDFxdGV6QktXUzNnYm82TUpUcFpjS0lnZV8?oc=5",
+      "summary": "Amy Acton Responds After Vivek Ramaswamy’s Concession Voicemail    Newsweek Amy Acton says she has \"no intention\" of speaking to Ramaswamy after \"terrible and despicable\" campaign ad    CBS News Acton: ‘No intention’ of speaking with Ramaswamy after ‘beyond the pale’ ad    The Hill Dem Star Twists the Knife on Vile MAGA Candidate She Beat    The Daily Beast Amy Acton Has ‘No Intention’ of…",
+      "source": "Google News: World",
       "category": "World & Geopolitics",
-      "published": "2026-11-06T21:05:23+00:00"
-    },
-    {
-      "title": "Shafaq News..US sanctions Canadian firms over Iran cryptocurrency dealings - شفق نيوز",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWZ5Rk5DanAxNHg4elA1V0l4Wk4tb2hfT1pOUGUtbTBRaWRCbTJFaUtLUkZYSDJDUEgzYWJnZXFXc1BDU1EyaWxwVGFhcVB6Ul94Zm9kUDlKa3R3VjBvbnVZczJnS1VZUTIxVkRscVpaR0pWd1cxd2xCeDQyWEpTd0ZodE5LcExNSzJLSk9MaUpPTWM?oc=5",
-      "summary": "Shafaq News..US sanctions Canadian firms over Iran cryptocurrency dealings    شفق نيوز",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T21:03:05+00:00"
+      "published": "2026-11-06T21:04:00+00:00"
     },
     {
       "title": "With Interest Rates Rising, 3 TSX Dividend Stocks Retirees Can Count On for Monthly Income - Yahoo! Finance Canada",
@@ -495,6 +727,14 @@
       "summary": "With Interest Rates Rising, 3 TSX Dividend Stocks Retirees Can Count On for Monthly Income    Yahoo! Finance Canada",
       "source": "Google News: Global Economy",
       "category": "Global Economy",
+      "published": "2026-11-06T21:00:00+00:00"
+    },
+    {
+      "title": "State of local emergency declared in Zeballos as storm hits Vancouver Island - Times Colonist",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0J4akdpRGp4TFk2VHpQVkstQllDR0NwSDNJcGFzQmJ6YTRFeUNMSVN2OV9yVktLcDZDQkd6cTRtUFdpSzRzeUx4Ujg5eGxEX1JrRG5IZ1F3WXQtMkIteDBzR0dYanlYQ0IxUHl1NVJlRmtaYVNBc2xvdmRGa09wZ3dhcVZNTXVuOEFLVU1CSzZMMmEzOGZUa0RvZm43ZHh1RlpCRll3?oc=5",
+      "summary": "State of local emergency declared in Zeballos as storm hits Vancouver Island    Times Colonist",
+      "source": "Google News: Victoria BC",
+      "category": "BC & Victoria",
       "published": "2026-11-06T21:00:00+00:00"
     },
     {
@@ -514,28 +754,12 @@
       "published": "2026-11-06T20:58:00+00:00"
     },
     {
-      "title": "United States announces fresh Iran-related sanctions, says Treasury Dept - The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3p0cnFKLWtleFc3Z0lHS2VUbWF0N0dPM1VqYnFsbXhwaHZVOTBoQU12RVItVDFtR3lINmFuV1hnbDFoa2tYTi1VQURBelFwV0ZmMWx1LXQ3d0NvMDVtYVoyQWJHRjN2SlM4clE2enVZOGZwbjBRRFpGQ1hyNTJPdE5nTUoxZ0JMOHgxSW92N2FYcWJLOWVHdWJ6bXlOTkFpTXZXN1FPZzZWbU5FTXNnTzNieDNEZ9IBugFBVV95cUxNWFRkbXhkN1JHWVg2M0l6NFVFUVZqanBFaVozSEFMZG55bmpXYjNVTVZrbzNSTFlxcjJmQ3JJVEhWbWdZNUc2Wk00UnY2ejk2YnRpTDkxbHBYLW9TVTBEdjBocmVUaWlvTG1vN3pNTzRUcXdMR3I2QkJHMlRua0hGa1ZoRUM1RmdPWnlzMGxnWWszRVA2TlZYUEExZUxSMFFuNWN4QXlwZEV6SkVaVk05eXJvdlFXdkRSR2c?oc=5",
-      "summary": "United States announces fresh Iran-related sanctions, says Treasury Dept    The Tribune",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:57:07+00:00"
-    },
-    {
-      "title": "Sen. Thom Tillis on oil prices and inflation impact - qz.com",
+      "title": "U.S. Sen. Thom Tillis: high oil prices having ‘significant’ impact on inflation - qz.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13dFZvYWVNSDFGMnlYZ2ZLbVhwd21Zb0ZvbHZlMDRvYnBsNE9WQ09Eb0VMcGZfN1MzV2txNlpIUU9MZzIxXzVGdkwyWXctVG00TG41THZ0bmRQMEk1b1ZMdDlFZWJHaFF2dXlR?oc=5",
-      "summary": "Sen. Thom Tillis on oil prices and inflation impact    qz.com",
+      "summary": "U.S. Sen. Thom Tillis: high oil prices having ‘significant’ impact on inflation    qz.com",
       "source": "Google News: Global Economy",
       "category": "Global Economy",
       "published": "2026-11-06T20:56:36+00:00"
-    },
-    {
-      "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTNUYllWQmZpQmliVmZTSDBSTENwc2hhNUFWU3BGcnBXZmpIZXNSV3VnZVl1NWU5Yi1acXZ3SjduRU9Cc3N4RXJRX19rMEFYQW8tVldQTXg3bjRVZU9KR05zYjdSSk9xX0ZMS1VCQ3hNcXZUX21KZDZlcWhNSmIzQzZBZnZXQXhxVE91LTFBdTQ4NEduYzl4TlliX2pVZy01NFdRcHpJNE80aUQ3cEFr0gG0AUFVX3lxTFBpR1pyM3M4UWU4MXV1d0ZIMkRudjZpYXJYMElUVHlCcXRPUldYbHJBalZsaVlNem4zWlV2QjlkTnFDaDV0b3k1dVhBRE1mVFdtVkpzNU9WajJiVkQzMGpyWFlJZGd5V3lHaU1HaTMyWk9BNkxYbTZmcFg0QmtRb2ExeldQSEtfekpEUTE1cXB5SFNONW1YQXlRVy11YkVBRjN6WHRSTkF1czNxTXJtdUZoSU5pZg?oc=5",
-      "summary": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory    ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:51:57+00:00"
     },
     {
       "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery - Kitco",
@@ -556,10 +780,18 @@
     {
       "title": "‘Manifesting millions’ pays off for winners of record $90M Lotto Max jackpot - Global News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdE5EdmJkVkgxRWE3VEkycTV1aXRHMVlrc3NPR09XLUJGVVAyNG1fZTNYeE5WMmtYTDlMYjRBOGRtQ1lHanViNlVYaWg3VjJnOTVQR3BybUU3c1Fab1ZNRXVpRmRqNzVHU1M5N2ZWM2toemN0dkRfOE9XT0dSdFZWUkN1aw?oc=5",
-      "summary": "‘Manifesting millions’ pays off for winners of record $90M Lotto Max jackpot    Global News Calgary friends win $90M in country's largest-ever lotto jackpot    CBC 'It changed everything': Historic $90-million Lotto Max jackpot won by four Calgary friends    Calgary Herald Lotto Max jackpot rebounds to $50M for Friday draw following Canadian-record $90M win several weeks ago    Inside Halton…",
+      "summary": "‘Manifesting millions’ pays off for winners of record $90M Lotto Max jackpot    Global News Calgary friends win $90M in country's largest-ever lotto jackpot    CBC LIVE: 4 Calgary friends share historic $90M Lotto Max win    CTV News 'It changed everything': Historic $90-million Lotto Max jackpot won by four Calgary friends    Calgary Herald Calgary winners of historic $90M lottery to be revealed…",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T20:41:50+00:00"
+    },
+    {
+      "title": "Official exchange rates on selected date | Bank of Russia - Центральный Банк России",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5",
+      "summary": "Official exchange rates on selected date | Bank of Russia    Центральный Банк России",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T20:41:40+00:00"
     },
     {
       "title": "Doerkson’s a fan of Carney’s budget, but it might not work as a template for B.C. - Toronto Star",
@@ -570,36 +802,12 @@
       "published": "2026-11-06T20:40:42+00:00"
     },
     {
-      "title": "Dad of 20-year-old co-pilot in Florida Learjet crash says final radio calls showed 'she's tough' - CBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BNzkweENSbDd1WFU5cTh5aW9VejNsWGhfZldkNkpDaWhPNEIwUjN1Ukt4eUdjWHJOeGU4c0dGRDlTWXFzUmhMR0Y4aVNiSVV1SzBac1l0VUp6cVZWVVY3enFxRkctSWp4N3NZYkZBbjAtZ00wM3ZLalRHOVBmdw?oc=5",
-      "summary": "Dad of 20-year-old co-pilot in Florida Learjet crash says final radio calls showed 'she's tough'    CBC Florida Learjet crash investigators dig up engine piece after pilots warned of rough weather ahead    Fox News Jet may have broken apart before Florida crash, officials say, as family named among victims    BBC Dad of Co-Pilot in Private Jet Disaster Holds Back Tears and Says He Wishes He’d…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:38:56+00:00"
-    },
-    {
-      "title": "Walmart Expands Symbotic Automation Use In Ecommerce Sites - Supply Chain Digital Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXdZbmNXcGRXY0tvUGdNWnNIXzFaaGZZelBVVmhkMjNmV2FSS1o1OW5EUWs1bjlFTHJPUXhocFNEWkV5cHoxOTB3OU95N1lDVGVvOFZ5Zm4wOWRqN1E2WkZfZGxvSld5N0FMOW1qT1BRN0lZWWF0YmppSmY5Q29yRlRldmQ3Y2xQODBSQWQ5RG1WXzRZZkY5NXVCdWg?oc=5",
-      "summary": "Walmart Expands Symbotic Automation Use In Ecommerce Sites    Supply Chain Digital Magazine",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:38:53+00:00"
-    },
-    {
-      "title": "Who’s the boss? Trump retreats into renovations as Melania takes on Ukraine diplomacy - The Independent",
+      "title": "Trump retreats into first lady territory as Melania takes on diplomacy: Who’s the boss? - The Independent",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcy1rU25XMTJCVTZTR1VJNmNsQWs3QmRTY1BLSk13ZXFYY0NvUk5PY3AxbFZ2UUZnZGRuQzU4b2JwX3MzMngtU25Cdl9ZbFdaeUVQenlHdEVTc1pXUkJldXlHYnYzQ094TEdoLUxjT3JoZzFhWTltdy1KaEsteTdVeFV5aHIySFV5RTJrSW9vNlFSdXlNZmI2WVEwN3d3MS0yZjR1bEs3LVBYQ2RuMXV4QUJVTlBfQUgzelVILWZ1eDVMMHl2?oc=5",
-      "summary": "Who’s the boss? Trump retreats into renovations as Melania takes on Ukraine diplomacy    The Independent Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’    The New York Times Trump Ignores Republicans’ Staggering Midterm Loss In Speech From Ballroom Site    Forbes Donald Trump’s Repudiation, America’s Revenge in the Midterms    The New Yorker Trump is soothing the midterms loss…",
+      "summary": "Trump retreats into first lady territory as Melania takes on diplomacy: Who’s the boss?    The Independent Trump still defiant after a bruising week    Axios Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’    The New York Times Trump Ignores Republicans’ Staggering Midterm Loss In Speech From Ballroom Site    Forbes Trump is soothing the midterms loss with what he loves best:…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T20:38:00+00:00"
-    },
-    {
-      "title": "How Democrats Could Impact Trump’s Tariffs In Congress (And Possibly Undo Them) - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2J0QmxmVnk1dHhUNS1OM3ptV1BhbjRHRWdqckdlbjZHREJEWG5JNW9FMlJWdW90Qzk2aGVIbzRaQjBRNFU1b3RQY29jek5ZRWp2cWpra094SURpamNvNW1SQ2ttZlVHZXRWb0tCTHpVcXJzamxyTEdKZEkxaVVIQWNwXy0ySkt5M0NCVU5TcmFMM3gxUHR5cjRZVlRvZWFwc0V0NGJyX2w4VmFKM2VhaHotS3NyczFpLWVRNWlJemRLVmd2T2FOeGY1QVByc3ZqS05QSmVCa2pYaUJiQVFDVV9B?oc=5",
-      "summary": "How Democrats Could Impact Trump’s Tariffs In Congress (And Possibly Undo Them)    Forbes",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:34:50+00:00"
     },
     {
       "title": "IMF mission begins work on the second and third reviews of the EFF program — what tranche does Ukraine expect - Українські Національні Новини (УНН)",
@@ -610,6 +818,14 @@
       "published": "2026-11-06T20:32:57+00:00"
     },
     {
+      "title": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFBCOGtkQkJnOEl3ZVJrREZlSzhYRVBGSWJuaERjY3RNYjlQTklQNGdVV3h0RU94YlN2U09nZnZLUVliUUEzWXU2RVhlOVpUVlNsMTV1U1BIYnRrc1dfamxtTEdMME9wNFRHb3RROFVNZ2E2aTBBMzJqSkV1V05Oanh2ZzJhWlNnSVh0cjBSSklfSEllNklybXJBQkxXeDBhcXRsck0tUEhqZUJpRFBWMTFhUmMwNzZPRU4zaQ?oc=5",
+      "summary": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely    Morningstar",
+      "source": "Google News: Global Economy",
+      "category": "Global Economy",
+      "published": "2026-11-06T20:28:52+00:00"
+    },
+    {
       "title": "For oil markets, Trump is anything but a lame duck",
       "link": "https://www.theglobeandmail.com/business/commentary/article-for-oil-markets-trump-is-anything-but-a-lame-duck/",
       "summary": "After his party took a drubbing in the midterms, angry U.S. President may well turn to Iran to lash out",
@@ -618,36 +834,20 @@
       "published": "2026-11-06T20:28:20+00:00"
     },
     {
-      "title": "BOJ chief Ueda sees 'some upside risks' to inflation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OOEdkZXV1VkxiQTllZGVwRFFnazBCZEhxMm8ybDdrZXM2RzVVVXlZLVY3enZtRk1KRlBHSVNLcVZNQ3dxTm1qNVNLU3kwNVZ6dXVIeVpUbHE0aWdTdUdvcUk4eHBXOTM5SmlPNXNhVHZHNGQwbi1EbEFDZnpTTXpHLW5oc1J0bHNyYldYSnpZeGluWExDLVZNdkVZbGlUNjJQbA?oc=5",
-      "summary": "BOJ chief Ueda sees 'some upside risks' to inflation    Reuters",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T20:28:16+00:00"
-    },
-    {
-      "title": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFBCOGtkQkJnOEl3ZVJrREZlSzhYRVBGSWJuaERjY3RNYjlQTklQNGdVV3h0RU94YlN2U09nZnZLUVliUUEzWXU2RVhlOVpUVlNsMTV1U1BIYnRrc1dfamxtTEdMME9wNFRHb3RROFVNZ2E2aTBBMzJqSkV1V05Oanh2ZzJhWlNnSVh0cjBSSklfSEllNklybXJBQkxXeDBhcXRsck0tUEhqZUJpRFBWMTFhUmMwNzZPRU4zaQ?oc=5",
-      "summary": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely    Morningstar",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T20:26:15+00:00"
-    },
-    {
-      "title": "MTA wants incoming Democratic Congressional majorities to boost transit funding, insulate it from Trump tariffs - amNewYork",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RFTTFubGhlS0c5NWNpNm9KMjZYTHd0U2ZaWjYyT0VBY1NBRVpwN2JTRDlJUU5DU3J3R2tOV013Ri1iXzZRWUtJc1U4amhacVR2RFhZTFRMVC16dDYteWF4RTRCY0VEOUxHZ0wzVEJ5eWt5NHFWX3hXamFiazlkeW5kVFBiTUk?oc=5",
-      "summary": "MTA wants incoming Democratic Congressional majorities to boost transit funding, insulate it from Trump tariffs    amNewYork",
-      "source": "Google News: Geopolitics & Trade",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T20:25:35+00:00"
-    },
-    {
       "title": "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXFIN1hXNGpRRHBPc2pNQU5qNnZUQkdZQV95NzhCcTR2anNDcERhLVBXbU93REhqZHdfU1ZjSnB3dU5wRHBsVmhWNlBJaHN6Tms3ZnJQenBCS1FTX3Q2ZVE5U0RRb2lwRE95YU5CbWtzRE9SSWVZeWpKaDdCTWxGdU0zR1pRaWduZGFUUGxERUkzUW82dEd4Y3k0WE5PMUt1RzlmNlFzR0ZuT1Vtd2lYSmdRZVpyS0k1YWxwUDB1TXlHN00?oc=5",
       "summary": "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases    WSJ",
       "source": "Google News: Canada Economy",
       "category": "Canadian Economy",
       "published": "2026-11-06T20:24:27+00:00"
+    },
+    {
+      "title": "Moderna’s newest combo vaccine approved by Health Canada - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUhvZkE3MFJ4djFSZE1SQXljOHVnbGdwRTV2WW1GdzVQVmhHLWNvZFBWUVRjUnlvcWJpeTNsUllNRS12RDRxS08zYnd2V1pzWUtCWFljWTFEMDRoaDNBZXdWSEpyS3pUTnRIanhpUlNqUG04REpqWnExU0lmQjBrNHlWa203ZTQwdVVXTWdIbjROWUhHT0xqLUZvWC13RXFmMXNoM2xpZEJ6cDlh?oc=5",
+      "summary": "Moderna’s newest combo vaccine approved by Health Canada    CTV News Health Canada approves Moderna’s combined COVID, flu shot for some    Global News Moderna's mRNA flu and flu-COVID combo vaccines have been approved by Health Canada    CBC Moderna (MRNA) Wins Canada Approval For Two MRNA Flu Vaccines    Yahoo! Finance Canada New mRNA vaccines approved by Health Canada    CHCH",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-11-06T20:17:29+00:00"
     },
     {
       "title": "October CPI Inflation Is Likely To Be 'Hot,' But Focus On The AI Bubble Burst - Seeking Alpha",
@@ -690,41 +890,17 @@
       "published": "2026-11-06T20:10:52+00:00"
     },
     {
-      "title": "Paraguayan President Santiago Pena resigned after the Central Bank took over Ueno Bank and froze the deposits of some three million people, including pensioners. Link to the full story in the…",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaHdWRjBYTy01Y3NHTFRYZ2IxckdrXzhJQUxrR0k5aFA3RzZGR3hrTk1TQXFIYlRrYVZDNGprVGtHU2pJVXBJR0pNLUFRcmxPM0psQlFKa1JLZmRmbHRQVUo4ejRlN1VQdlZoYTdTMXdRcXdHWVZrdGN1TXQ2YVZTdnhGc3Z2bXhlV1dHdWJWejFrdFBwSnNPT3FEcms4bzhmdHYxcDFxMmlXd2NGTGoyZ0VIMWltZDBudVVoZ3h2UGU5TGVtQ1RkUTlVZHpSSERyWHA0YXNmOA?oc=5",
-      "summary": "Paraguayan President Santiago Pena resigned after the Central Bank took over Ueno Bank and froze the deposits of some three million people, including pensioners. Link to the full story in the comments section.    Facebook",
-      "source": "Google News: Global Economy",
+      "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5",
+      "summary": "Cathie Wood buys $47 million of popular semiconductor stock    TheStreet Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom    Yahoo Finance Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom    Investor's Business Daily Cathie Wood’s ARK Investment buys 348.4K shares of SpaceX today    The Globe and Mail…",
+      "source": "Google News: Business",
       "category": "Global Economy",
-      "published": "2026-11-06T20:08:05+00:00"
+      "published": "2026-11-06T20:07:00+00:00"
     },
     {
-      "title": "How Russia’s central bank plans to give the FSB access to crypto exchange customers’ personal data - Meduza",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFdFQXhTR29LaDNqU1psb0hGXzJvLUdDS1BGUjB0X2hZRjM2RWRKNHIzd25mRVh1eHVkUGpFSGdqRk9qbVByZ1dYVjdnWjYyUTdQRXFuLWkycGRudEExcGNKWFNTOXd5UzdZeERfZkdJcWcza2pCcFB4UzU0UEpGeHlDX09QOWdJWlBkM0RCZlh1VHlKbW81bFdob0d0d2FmaFFoQ3RMUm42N1R1VVhxdFhHbVVvOUZhSmhoRE1yNXJMd9IBxwFBVV95cUxOQ1BjWXlWeWRLMi1TYy14YTZ1SGxIa0RFclJja2llaGcwd2dfV0pnUmdqS1VDOUpLajZjc2M0YWppRW04MzJDYWhmb0p4amRvMmZxeFNuSDE5MWtCWmtFTWllNF9UcDcyQnllVGdqMElPOWVvdFhZYmRjNS04UENuLU9fVXdFazlFLTgwSGF0RTA2RkpuWW9CWkI1SmhDUVFFM3JZd1BDZ2NIT09tY0ZaeHJvc0o2RTludU41dU1rX0RrSExuTjYw?oc=5",
-      "summary": "How Russia’s central bank plans to give the FSB access to crypto exchange customers’ personal data    Meduza",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T20:03:00+00:00"
-    },
-    {
-      "title": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation? - NIESR",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9paUg0eGZ2VnFPUS1yc0xFeGZKQ1dmNG5BQUpfc1I5ZzNyTmN6Yl90U2dtVUlhUmdNdFlTdjhkTmxBQW1BRnIwaXFWOFhTRWZud3hHYVVHMmc0Z3hFdlBmc3hKQTF0WjJicGl5ZkJWcFZNaENZcFBB?oc=5",
-      "summary": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation?    NIESR",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T20:00:28+00:00"
-    },
-    {
-      "title": "Moderate inflation revives Japan's corporate risk appetite, BoJ governor says - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWZPV3llSUdJUFJsWEJ0SDEzVUZ4T25obU5lWkNMSUppNEppV2Nlbkg0eFB1cURnSHBaOWVUbkpFWTRtWUNzZFR4UmxDeEZlSzRnNEhBalFvVHBMU20yTF9wM3ZPb1hqSzJTNXl1SUpjd0hYTnhHajVMaDJ5UFl6aXA4R3g5VW5ud1VlZnBPODItVmM1bDAzdjdReW9wenpKMnpzTTNpSE4zTXhQcDJjWEpKRkdGLXlLemdVU3BR?oc=5",
-      "summary": "Moderate inflation revives Japan's corporate risk appetite, BoJ governor says    Anadolu Ajansı",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T19:54:50+00:00"
-    },
-    {
-      "title": "A Toronto resident was about to lose nearly $3 million to a scammer. Then police showed up. - CP24",
+      "title": "A resident was about to get scammed out of nearly $3 million when police showed up - CP24",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbHE2WGlyUW0wUThpTlB2NjlPZ0o5Z1J0b0FsSG55bVFsVDNnd1FIbXQtak9ZUXU0cE5iQVNjZGU4MkdUWFVhQl94bmwtVi0zb2h4QkFXQzhTcEpUZEFGS2pOcnhpZlVpQmhCZnV0R3QxRURTWThaNEo1Z0ZOWmd0NVlPQmlDajF0VFotWWtUeUd1SnRyTzVMY2pTQVN3Vi1USERvU2RGQmFEQi1ocjRpVTdXT09CT19wbjhfcGNMM2ctalE5NG5nX0dnOGJZVXlP?oc=5",
-      "summary": "A Toronto resident was about to lose nearly $3 million to a scammer. Then police showed up.    CP24 Toronto police halt online scam in progress, prevent $3M loss after tip from Edmonton police    CityNews Toronto",
+      "summary": "A resident was about to get scammed out of nearly $3 million when police showed up    CP24 See more headlines & perspectives on Google News",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T19:52:56+00:00"
@@ -736,14 +912,6 @@
       "source": "Google News: Canada Economy",
       "category": "Canadian Economy",
       "published": "2026-11-06T19:47:27+00:00"
-    },
-    {
-      "title": "The U.S. Economy Added 165,000 Jobs in October, Beating Forecasts. Here's What That Could Mean for Interest Rates. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaVVtWFBsUHpReXhUN1dyM1dpWloxN0VVRTZudGplOWhhOFV4R3dteGV0QkI4bEJXa3VMUUR5SXF0N3Y4aWpoX3djZTN0NkozZnh4ZDR3cU4zNTRWTXJscU9Sa1pCSC0tbXZ2c1FjTjB2YXczeWdidHd4T1paZlNBZ1g4X0JjMEE0bjRmWjAxeG92OHA4UkJ0QUV5Ym13TFpGZHBaTnB3R2xLOEM1SkJTc3JfMWNzcVFWcjU2YlFNWWNQMHFSNlhHcmotWFd5Z0pVcVBBSk53VDctWWRvbERoTzM1aHlCMHhTVkdyY2FTQ1ZTNFhJd2tGWEVTV2Zqb0xYQ1A1anhsdzVrenFUcmVLSG5DeTJlYjVobjQwQw?oc=5",
-      "summary": "The U.S. Economy Added 165,000 Jobs in October, Beating Forecasts. Here's What That Could Mean for Interest Rates.    The Globe and Mail",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T19:46:11+00:00"
     },
     {
       "title": "Royal Bank Of Canada Issues Pessimistic Forecast for Texas Roadhouse (NASDAQ:TXRH) Stock Price - MarketBeat",
@@ -778,14 +946,6 @@
       "published": "2026-11-06T19:35:18+00:00"
     },
     {
-      "title": "Fed Officials Pointing Toward Additional Interest Rates Hikes to Beat Inflation - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYURfOVFYbFc5UHZKOHRxRVBybDkweUw0ZXpkVE0tdFl2ejVubHZYcjdPUlgtc0RhR3FITEJWVDVnZXZ5LXh5d0xISlkzLTdGT1JZTXN5c1k4SHZtQm1nZTRxRHFuOUJSN2hZeUNqc2JoSUFXY205ZjZDaklaMVpHejE3dmJvREZHXzdxTXB1cXNQUm9PM3VtNHo4WGdFNG5NYjBIWjd2UnFwMURLOGEtRy1tTWVuNmMtUkxTc3VoeFJRbElabmhYTERidnA5YTROVDVhYg?oc=5",
-      "summary": "Fed Officials Pointing Toward Additional Interest Rates Hikes to Beat Inflation    TradingView",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T19:34:00+00:00"
-    },
-    {
       "title": "Royal Bank Of Canada Issues Positive Forecast for StepStone Group (NASDAQ:STEP) Stock Price - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd0FMS1AwRlpjZjVTSlc1Mi1CbFFJanVrVURVTnUyWDZpa1BkNVRUXzNpa2F0R3plb2lEMU5PdHFyWW1IeEZwUUtYVk5IVmNjTDUxeUNNVXVuNjhkdkdqZzVQVEoxQzMwaHN5aVJYQmpjQzFMcmxzRjcycHZBNU5LektlWnNEOGJwVldWd01uLVRYVENYc053dWJ0a2NSbmVmT2owX1FKWjVXZjVPaXNJTkY4WlFGUVdNNi16Y212TG9TTElaQkhYSzB5MEthcy1qV3pueUo0QzF4dXdBa0RQS1UwendoUQ?oc=5",
       "summary": "Royal Bank Of Canada Issues Positive Forecast for StepStone Group (NASDAQ:STEP) Stock Price    MarketBeat",
@@ -804,7 +964,7 @@
     {
       "title": "Two top Justice Department officials resign as post-election exodus accelerates - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3d2VFhsUzJucjhiOHdzTnBuU0VDNF9PcEV3c2VvQ2FlQ3lZM2k5VXF3TXlseFJaMDlkekVxT19GUHJvbG1VdHdfbmNRWi1MdU9zdXpGVjJCSkhXc0NOSXVseldlXzZvOU1NVlJmaFlqNUlkUkJFeHFPZ2ZIRjNkdE5vb2Ixd01LVGttWEluTTNnakkybGVtMlFfM2VHcGVqbzBFbWJWWDNFcWVTSmJGWFdmRWlVVG9tS3hpcmVtQ3Jpd04yRmdKeg?oc=5",
-      "summary": "Two top Justice Department officials resign as post-election exodus accelerates    Reuters U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns    The New York Times Trump's Justice Department hit by 2 high-profile departures this week    CBC Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns    NBC News 2 top DOJ officials resign, including assistant…",
+      "summary": "Two top Justice Department officials resign as post-election exodus accelerates    Reuters 2 top DOJ officials resign, including assistant attorney general for national security    Politico Trump's Justice Department hit by 2 high-profile departures this week    CBC U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns    The New York Times Trump DOJ appointee who led ‘grand…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T19:26:15+00:00"
@@ -818,20 +978,20 @@
       "published": "2026-11-06T19:25:56+00:00"
     },
     {
-      "title": "IMF Completes 2026 Mission to Benin - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nQk1DMnA3bVNpYnVFemZhS0gxQnBuTEhIVWJJNFA1LUNXWHRCZHJ6NTZHNFAzQW5ZOV9uOW1UX0c2YkpicS01aHdUYlNkOHRMMGxrSXUtbDd5cy1jQXJULW5kc0w3S2JUZGpSQ243UlJtY2ZmRmlRdFgxUQ?oc=5",
-      "summary": "IMF Completes 2026 Mission to Benin    Mirage News",
-      "source": "Google News: Global Economy",
+      "title": "Enbridge says it’s poised to capture oilsands growth opportunities - BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODV0ekgxQUlkNjdoVlZ6ellaWmhNb3BuaDhJZmVEUzJkUDNIcGZFLU1wM0pOOHBQdlJxV0FXS0NOVVVFR2djbFpCQWlQU0U1ZGJkNGZSemh3dE1udmNVbWhhTFcxMk5XUVJPYXBraXdTUElyNnUxLWtzT0RNWWRuaVZVOHdzbkoxdlppZFRGUFAySWpMYnIzUkQzWmNRb1pYVUQ5eXlPazUzZ2JRTm5hVnZfWEtVWm1XcXFfZTM0dGZCN2tNNi1R?oc=5",
+      "summary": "Enbridge says it’s poised to capture oilsands growth opportunities    BNN Bloomberg Enbridge expresses interest in building pipeline for Canada's Pathways carbon capture network    Reuters Calgary pipeline giants see ‘powerful growth cycle’ in Western Canada    Financial Post",
+      "source": "Google News: Business",
       "category": "Global Economy",
-      "published": "2026-11-06T19:16:00+00:00"
+      "published": "2026-11-06T19:22:35+00:00"
     },
     {
-      "title": "A Recession Is Coming Eventually. Here's Warren Buffett's Best Investing Advice. - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVJqTTRIdENLSHFiRUJNdUsxR2tZMUhpdmJDMjhXNXRfcGNCY0tOb3BlUXdGTURJRnJfTEw5WXJpbjE4cnRua0xTdkR1TEt0dEdUYnpMWG9CU2d0NGxFcDBBRDN0M0lOZk04SHZhYlVwSjk1MEZfWUN2UERBamNieGxjaV9VTlBzVkY4Y1NVbmNIa19yeXE1V2tOMXBJTXc5S3piRG1kaVRGdXBrUzF4TkVuRjhReHdsU1FOdk5XU3pLckpvVWg0SF93REpnX08zcUI3NXEtTjVodXkyNHFvd002d09BVS1ScWlDTzRFTWRSWm8?oc=5",
-      "summary": "A Recession Is Coming Eventually. Here's Warren Buffett's Best Investing Advice.    The Globe and Mail",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T19:06:25+00:00"
+      "title": "Trump names Stephen Miller White House chief of staff after Susie Wiles resigns - CTV News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUU9DdXBYUTkwQ1dpNUt4dGZ3UWF2anM0R2MzY3BrUExndU5BRWI1VTFRQl96N0djTTVwZ3ZIdW4wajRTSVZZakdiZFJFSnk4X2pZQVp0U1VvTmJsTGJUeGZ6YjlzcFl3MVJCb3AyQm9IZlZaZmtYR2JDSk1wc3dGb0lrM0I1czlndTJ6STlOeHBnX01wRy1VRmhCRnR1QUt1RmRNZmlKV1lLR19IN0VsTlJUT2gxSXdFaVBtSFF3cFZhVUpRbXNN?oc=5",
+      "summary": "Trump names Stephen Miller White House chief of staff after Susie Wiles resigns    CTV News With Stephen Miller pick, Trump readies for a battle    BBC Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration    The New York Times Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’    The Hill Trump told 60 Minutes he was planning some post-midterm…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T19:11:01+00:00"
     },
     {
       "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -850,22 +1010,6 @@
       "published": "2026-11-06T19:04:36+00:00"
     },
     {
-      "title": "A Decade in a Week - Policy Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hS0FqdnJMNmNBZGFrT0hmS3FPVS1PX1FoQzZxZGp2aDdVSkFRaFIzNEJsX05TM0wwaWNXM2oxWjZiR0ZSQ1JkRHZKc3NOQzdnV1FzcFZMcWVFZ3gwRmc?oc=5",
-      "summary": "A Decade in a Week    Policy Magazine",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T19:00:52+00:00"
-    },
-    {
-      "title": "Mexico’s central bank cuts rate to 6.25% — Mexico News Daily - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaFVlUFV2cGZTNjhBTVZZb0VxSDU4eEtKaThaSTYzYXpHTzhvMUNYUFFNb3k2NzRlaXdVSVFGeWFfQmNXOFBxX1NjR25QcDQ3b1ZaS3pfVk1SWlpfZlBNSUNZWkhzM1dob1N5bS1WcEZIZWpBNGtFSzhZcld3SzdlYWFTRk15Q1lxUjR4Z3l4XzROMm5sV3Yw?oc=5",
-      "summary": "Mexico’s central bank cuts rate to 6.25% — Mexico News Daily    UA.NEWS",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T18:59:58+00:00"
-    },
-    {
       "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
       "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
       "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
@@ -880,14 +1024,6 @@
       "source": "MarketWatch Top Stories",
       "category": "Markets",
       "published": "2026-11-06T18:53:00+00:00"
-    },
-    {
-      "title": "Canadian Dollar Set for Worst Week Since September on Weak Jobs - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkZrR1lieXFoN2dwRVppTTZTYjVqSTFLbVctczRKYzdmYllKcUlMT1BFXzV1a3Z2M1NOVlUxeVJzQkxfUER0dlFSOUxGU29hMHFwRTk5X21MSEtWLVZpMURfdWl1WktOWE5TbzRBenVhWjlDNVo1OWZXYmpLY3YyXzh2cWZOcm1Udzh1NHJmUV9Ra281ZE5oY04zXzM5T1BRTjNVY2FqOFpmSnhnNjRGdkp3Y3k?oc=5",
-      "summary": "Canadian Dollar Set for Worst Week Since September on Weak Jobs    Bloomberg.com",
-      "source": "Google News: Canada Economy",
-      "category": "Canadian Economy",
-      "published": "2026-11-06T18:48:22+00:00"
     },
     {
       "title": "Doximity (NYSE:DOCS) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says - MarketBeat",
@@ -906,12 +1042,20 @@
       "published": "2026-11-06T18:46:17+00:00"
     },
     {
-      "title": "Forecasting the upcoming week: When it comes to US inflation, size matters - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHc5a2FOeW1KODU1TkpSdmFpY1ZyZDR2QUhFX2lxZ2JjdE5BWlZwdGJ2MTFfT2tqS3FxcHhWWms1V08wbVpWODNKTHNjUW52a1JXbmJod0R3Z3ZtNmFMZ2dabzlPX0o4YUN4a1RFSHNpMEZ4MlMzWTlMM0szLUFNOHJrWUhHeFVtMFcwTjJNcW1meXRxdFBPZlN5T1IxUy1KclRtTktiY3V6QlFMVjdzdVFINENubzg2LWFZ?oc=5",
-      "summary": "Forecasting the upcoming week: When it comes to US inflation, size matters    FXStreet",
-      "source": "Google News: Global Economy",
+      "title": "Kenyan cult leader Paul Mackenzie sentenced to 200 years in prison for murder of 190 children - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUNtMVFMN0hnSGxrMG41NFF3dW9TNU40ZE82R3dJODV1dmIxcXc3aTUxTEZ2SHRNQ2swQVFJOGVzb0Qzcmh4dktpektaMEZVdi0xNG9RTXNLd3VQZUxrbzJGWlFHbFZpN3VfTWo2RFo4dDAtazFKUGl0NDlpX0tYeXFLY1hEQnpCT0JZ?oc=5",
+      "summary": "Kenyan cult leader Paul Mackenzie sentenced to 200 years in prison for murder of 190 children    CBC Paul Mackenzie: Kenya doomsday cult leader sentenced to 200 years in prison for Shakahola deaths    BBC Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children    CNN Kenya cult leader handed 200-year sentence for 191 murders    The Washington Post Kenyan doomsday sect…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T18:46:15+00:00"
+    },
+    {
+      "title": "Anthropic’s IPO Is Cratering - Futurism",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUa1UzcjdaZThLRFNxQUxVZ3NUY1oyanBjUmlPZmpSWnF2M2VMbUUwMEVDVjBqVkVpTDNsTHFRR2loVE0wRF82eFJxTms3M0FjUFpOc04xd3lWci1pcG9nazRkSnhoUTlXSjRObGU3eFpCSktBR3VrXw?oc=5",
+      "summary": "Anthropic’s IPO Is Cratering    Futurism Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'    CNBC Market turmoil saps enthusiasm for the buzziest IPO of the year    CNN Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion    Bloomberg.com What Anthropic's IPO could mean for Amazon and Google    Yahoo Finance",
+      "source": "Google News: Business",
       "category": "Global Economy",
-      "published": "2026-11-06T18:44:08+00:00"
+      "published": "2026-11-06T18:46:11+00:00"
     },
     {
       "title": "Coty (NYSE:COTY) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says - MarketBeat",
@@ -930,12 +1074,12 @@
       "published": "2026-11-06T18:42:22+00:00"
     },
     {
-      "title": "52% of Americans think inflation will ruin the holidays, survey finds - WVIR",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUZKUHBIUnViV0RKWmw4dmQwcmp2VmVWUzZYNDV1OFlVN3RQNl9tVVF0MDA1NWZJX21nOGpWWFYzYWtGZ0tfQnFSMzJsTUxGa2hEeDE3SW05RS15bVBoTVlxVGFwdEx5YWRnY1dURklvQ1dZOW0wbHVvTzhsS1prdlIxTWtHSG1sd1NIS2Y3bzZxWE9OOTh5UXVzVQ?oc=5",
-      "summary": "52% of Americans think inflation will ruin the holidays, survey finds    WVIR",
-      "source": "Google News: Global Economy",
-      "category": "Global Economy",
-      "published": "2026-11-06T18:37:00+00:00"
+      "title": "US-Iran talks show signs of progress even as Trump weighs renewed strikes - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjA3Q1BhbURndWpNWDRLRFB4Y3BsMVpOQjRTRDdDeWhicmVDa2o4MGVZREszSGNCa2pvRC1rM09QWTJ2TEV3aUxITy1OMTlDNHVNWmw4SjlYTHBsMFAtc3d1clkwX01qUjlqV1ZLQmxoMG1OUng1TzAxTE01dHlMelhlVlBKdVpQNnF5STJWTTBZQ0xLU0pHZmYxVURPVW5EQjhwTTE0d9IBrAFBVV95cUxQSUpvQVRXbDJvaVY0MDdFd0U3SkgxQVF1enNvM3hBeEdtMzdld2pCNU05anE1VUdUS2FEdERPMzlBR0V0RzZqR2RhbGp0RndQazBld1ZrTF8zSUpERzVQSTNwWFZoQVVYWUg2WHpzVGEtZ1RxUGlGSjY3b3NxUGxVZGhaZ2RiNzYteUZxQkM2U3FQRllodFpwVUgzSXZkaGFzcDJWLUppWmZ5TG5U?oc=5",
+      "summary": "US-Iran talks show signs of progress even as Trump weighs renewed strikes    The Times of Israel Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know    Al Jazeera Iran is reviewing proposals focusing on Tehran’s nuclear program, officials say    CTV News Live - US warns Iranians: stay indoors and away from IRGC if tensions escalate    Iran International Hegseth calls US-Iran…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T18:41:00+00:00"
     },
     {
       "title": "Why the US midterms sparked an AI stock selloff",
@@ -956,7 +1100,7 @@
     {
       "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash - Crude Oil Prices Today | OilPrice.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEtBeVRSdXhZcy14VFF2ZEdXeXZKV0Jqb2ZBRm4tMTdJYTE2bmd5WmNKU0JFVkpKVGF6RlpSdC1kR0pZc3huaTdNSk8xWDlRWERFelNudEJaM1RDNjA3S2k5Sm9Kd3B4RHVoaUQ2N0pkR3MtRVdPdEdsRlNLcm5MOV9pRTB0bnNId0FtaGhSMk9LSGU3YkhySzFhUExRTjlCRmFGRXlZd9IBrAFBVV95cUxQUG9PZ2pJelBINnFXNlp2ZFRVYVJ1RDlvWk85bk1TNU5FTjFTc3JDbVJVLW5Jc2FieUpwLURTOFQyblZOcmJLQk5lanJlb0w2UEhzS1RvZGVTX3FMM3VhTWN1bXBCbFJkSGRPSEc5aG4xczB4UjZLODNNc3VleGFWTlA3a1RqWDFFcUxXYmVjeXNydGtjSVJMYVlvQ3Ytbk0wZzItTXhsMWh6a1hQ?oc=5",
-      "summary": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash    Crude Oil Prices Today | OilPrice.com Canadian Rig Count Slips to 223 as Natural Gas Drilling Pulls Back    EnergyNow",
+      "summary": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash    Crude Oil Prices Today | OilPrice.com U.S. Rig Count Climbs to 604 as Oil and Natural Gas Drilling Edge Higher    EnergyNow",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T18:21:00+00:00"
@@ -970,17 +1114,9 @@
       "published": "2026-11-06T18:18:26+00:00"
     },
     {
-      "title": "State of local emergency declared in Zeballos as storm hits Vancouver Island - Times Colonist",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0J4akdpRGp4TFk2VHpQVkstQllDR0NwSDNJcGFzQmJ6YTRFeUNMSVN2OV9yVktLcDZDQkd6cTRtUFdpSzRzeUx4Ujg5eGxEX1JrRG5IZ1F3WXQtMkIteDBzR0dYanlYQ0IxUHl1NVJlRmtaYVNBc2xvdmRGa09wZ3dhcVZNTXVuOEFLVU1CSzZMMmEzOGZUa0RvZm43ZHh1RlpCRll3?oc=5",
-      "summary": "State of local emergency declared in Zeballos as storm hits Vancouver Island    Times Colonist",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-11-06T18:00:00+00:00"
-    },
-    {
       "title": "Budget 2026 is proposing an ‘RRSP-for-life.’ Here’s what it means for you - Global News",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qWGJZeFQ1WUQxS01FVzNFb1h6RUU0UUhBd2NsV0ZDZjNaWFpWbkpDQk1CZHRLUzJnaTB6dm1aRGFDZG1reGc3cWx2NmlmWDctUmx1a1dEVnR0NndiZ2ZDbFpvSTdvOEVHN1FMRVlDYw?oc=5",
-      "summary": "Budget 2026 is proposing an ‘RRSP-for-life.’ Here’s what it means for you    Global News",
+      "summary": "Budget 2026 is proposing an ‘RRSP-for-life.’ Here’s what it means for you    Global News Goodbye, RRIFs? What Ottawa’s proposed ‘RRSP-for-life’ means for retirees    The Globe and Mail Budget proposes ‘RRSP for life,’ eliminating need to convert to RRIF    Investment Executive RRSP-for-Life and New Tax Deductions to New Grocery Benefit: All the Perks and Changes Affecting Canadians ...    To Do…",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T17:56:19+00:00"
@@ -1004,7 +1140,7 @@
     {
       "title": "Bristol man who built 3D printed sub-machine gun at family home jailed - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb1pOeGNXZXU5NVo0SGtKb0N2OS0xTVNDam9ZLV91Y0RtSUFZcllTUE5VTUdIVkpHcjlHYWhENzBMZjVFNklISXVDelI2R3pxNEk5M1lMdDJ2TTA?oc=5",
-      "summary": "Bristol man who built 3D printed sub-machine gun at family home jailed    BBC",
+      "summary": "Bristol man who built 3D printed sub-machine gun at family home jailed    BBC Man who built 3D printed submachine gun jailed    Yahoo News Canada",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T17:37:46+00:00"
@@ -1036,7 +1172,7 @@
     {
       "title": "What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms - CBC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQel94TXJESmRSU3QybFE0OWxQVHhsZ1Y3SkRTbHFIRnBaWHNwNjRaVE02ckg5bUx5dzVRcTVLemZDMEtTelJ0ZVdBS2VzdkU2azY0NDFNeERsTUtRSzN6bTBGMHhtWVdxTUNZa2RHX3d4SHA1ZExYZmkzQ29EVUxHYm0xM2t0amQ0WTFkcmhRQQ?oc=5",
-      "summary": "What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms    CBC Further bomb threats disrupt at least another 18 flights across Europe    The Guardian Bomb threats and cyberattacks on airports, smart appliances disrupt life across Europe    The Globe and Mail Spate of bomb threats poses serious challenge to airline industry    BBC Bomb threats continue to…",
+      "summary": "What we know about Europe's latest wave of bomb threats targeting flights — and now newsrooms    CBC Spate of bomb threats poses serious challenge to airline industry    BBC Bomb threats and cyberattacks on airports, smart appliances disrupt life across Europe    The Globe and Mail Further bomb threats disrupt at least another 18 flights across Europe    The Guardian Bomb threats continue to…",
       "source": "Google News: World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T17:15:00+00:00"
@@ -1050,20 +1186,20 @@
       "published": "2026-11-06T17:09:53+00:00"
     },
     {
-      "title": "2026 Christmas & Holiday Activities in and Around Victoria – Santa Claus Parades, Lights, and Holiday Events - To Do Canada",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91eDMwUmdHNUhtMGEycGJyazhnTmc5WTFPcGxlVDg5TWJDZkM5akd5SVo4bzR5WW1Wb3VyUFVnZGNJVHgxUUFDYmZ1c1ZPdWU0TWFkUnpoWUoxcHhnQ3F6dV93bWtqVURSd1JSSA?oc=5",
-      "summary": "2026 Christmas & Holiday Activities in and Around Victoria – Santa Claus Parades, Lights, and Holiday Events    To Do Canada",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-11-06T17:07:49+00:00"
-    },
-    {
       "title": "Microsoft AI data-centre site in Amsterdam breached by protesters as Europe’s opposition grows",
       "link": "https://www.theglobeandmail.com/world/article-microsoft-ai-data-centre-site-in-amsterdam-breached-by-protesters/",
       "summary": "Activists were expected to stage data-centre protests in several European countries over the weekend",
       "source": "Globe and Mail Business",
       "category": "Markets",
       "published": "2026-11-06T17:04:36+00:00"
+    },
+    {
+      "title": "Estranged father of Meghan, Duchess of Sussex, arrested on charges related to child sexual abuse material - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclJ4ZnRweHRNay1rNDN0YmtGeWhMdk1fQ1hlS1VabW9jcFRqcXpjZkgzcjRpaDJFMDlySHQzanZtU0JNZmROV3ZieURtbGkzWkRlVHZ2SlFNYXlxUDN4bTBMcEplRDdQSkxNZTBzc0VXSlkzbUpqVzFzRDBua2Fmcjl5ZHpTLUdUamc3R0lUWmNTRl96eWMycERQY2FzbWtUb3l4ZGlQUjRBTTQ0VnpkQkUzVDktODJR?oc=5",
+      "summary": "Estranged father of Meghan, Duchess of Sussex, arrested on charges related to child sexual abuse material    MS NOW Meghan Markle’s estranged father arrested and charged with possessing child sexual abuse materials    CTV News Meghan Markle's father arrested and charged with possessing child sexual abuse material    CBC Meghan's father Thomas Markle appears in court over child sex abuse material…",
+      "source": "Google News: World",
+      "category": "World & Geopolitics",
+      "published": "2026-11-06T16:56:29+00:00"
     },
     {
       "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
@@ -1082,28 +1218,12 @@
       "published": "2026-11-06T16:42:23+00:00"
     },
     {
-      "title": "Meghan Markle’s father Thomas Markle arrested by FBI in Florida - Global News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRy1JYi1IeXZMVnFGVWJxMDJxU3Q1eEFYNC02TzlyUGpSN0xYUnJtUWpWeHpLNEcxRDRvYzFsbkNrNXBpeWZyV0VKWm5TRjR0X3JjZzhTeGhDenZQT096NHJPTXNRWjZPelhteXlSSmVRNGt1d0doZDJmc0xwY0piUTVyaTRVM2x4eHhkc0xhNFUwT18ydTdxdg?oc=5",
-      "summary": "Meghan Markle’s father Thomas Markle arrested by FBI in Florida    Global News Meghan's father Thomas Markle appears in court over child sex abuse material    BBC Meghan Markle’s estranged father arrested and charged with possessing child sexual abuse materials    CTV News Duchess Meghan's father, Thomas Markle Sr., arrested in Florida in child pornography probe    CBS News Meghan Markle’s Father…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T16:36:06+00:00"
-    },
-    {
       "title": "Canadian economy lost 4,700 jobs in October as unemployment rate ticked up to 6.7% - CBC",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFRxRU1sQUVERVhGODNxUXUzSEhUX2QxajYxcW5XOE0yMmdwNXVMZVJwWFJnaWI3N2hoeEZ5dmxYRXlkbmpKRFdHRURaeG5TbnVTNTVfX1IwWmhpMG9oRVVyLU1GUVY1VE9iWUdXNkg0VXVORDBkQVJodmhSYm9vLWN6TUJ0QQ?oc=5",
-      "summary": "Canadian economy lost 4,700 jobs in October as unemployment rate ticked up to 6.7%    CBC Economists concerned after labour market sheds jobs for third month in a row    CTV News Statistics Canada to release October labour force survey numbers today    CityNews Montreal Canadian dollar tumbles to nearly three-week low on surprise jobs loss    The Globe and Mail Canada’s prime-age unemployment…",
+      "summary": "Canadian economy lost 4,700 jobs in October as unemployment rate ticked up to 6.7%    CBC Economists concerned after labour market sheds jobs for third month in a row    CTV News Canadian dollar tumbles to nearly three-week low on surprise jobs loss    The Globe and Mail Canada’s prime-age unemployment steady in October    RBC Windsor's unemployment rate rose to 7.5% in October    CBC",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T16:31:06+00:00"
-    },
-    {
-      "title": "Canada, others call on China to end 'unjust prosecutions' after sentencing of Joshua Wong - CBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbndLbUljaExrWmlvbXVUanlFTnBCU1BZeXNzRFFqdDdjQ0RGcWtzcjJUQWFPMk1Xa2dwMFJuMl91VXRuRV93aWxuaWx5WGg1SS1CQzhabk1pbUVzTGkxOWJtbHpnZExPRmVIMlFfaGpqOC1BcFJrdExtZGJON1o2VVFBTQ?oc=5",
-      "summary": "Canada, others call on China to end 'unjust prosecutions' after sentencing of Joshua Wong    CBC Hong Kong activist Joshua Wong sentenced to 10 more years in prison    AP News US, UK and others condemn sentencing of Hong Kong activist Joshua Wong    Reuters Canada, U.S., U.K. and others condemn 10-year sentence for Hong Kong activist Joshua Wong    CP24 In jailing Joshua Wong, China is telling…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T16:27:33+00:00"
     },
     {
       "title": "Winter support for residents facing cost pressures",
@@ -1138,14 +1258,6 @@
       "published": "2026-11-06T16:12:22+00:00"
     },
     {
-      "title": "Gas prices down in Nova Scotia - CityNews Halifax",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzFLQVFhbGl2Vnk3WEMtcVotY1RTMUxzV1pEZUN0UFFxMjNaRXNhOE56YW5UdWRTczhiY0JXSG9jZy1iVWRqOFp3dHQ2c04xcXhIc2hmYlJUMnZ1cDlqbUZHR0lHVEhBbWRBdDNXTDNERkRMTW81S0ZYeTY0bm8takd6Qk5CV3lMMTVEb1hoc3I?oc=5",
-      "summary": "Gas prices down in Nova Scotia    CityNews Halifax How much gas went down overnight in the Maritimes    CTV News Diesel prices fell up to 13 cents across Canada, but grocery bills won't follow anytime soon — here's why    Yahoo! Finance Canada Interrupter clause to be invoked for gas prices in Nova Scotia, but not diesel    PNI Atlantic News How much further diesel prices need to fall before…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T16:08:26+00:00"
-    },
-    {
       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
       "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
       "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
@@ -1178,12 +1290,12 @@
       "published": "2026-11-06T15:30:42+00:00"
     },
     {
-      "title": "Uganda tree-planting scheme loses Welsh government funding - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bFVrb0VERTFfUzlLWDV0Q2xIUUVYMVBDWGlEOW1ocTRLRmRSeGppQ05DYUdXSHJMenhWVjRjOFpraDAtYVdLOEk5dzk1VFVxMFRuX0c5dmlHakk?oc=5",
-      "summary": "Uganda tree-planting scheme loses Welsh government funding    BBC",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T15:27:44+00:00"
+      "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjM5UnZ3RUNOMTM0U0EtQmhaZXBFTW5qbnpyRzRodmJQc0RXTkxOdVdBY3htOVNRXzZTLV9MbTBpcEhGWWZ0cldTV015MFdPZG1GbTBGbVBkT29KZ08wZzVoVDlkOFNzNDczY1VaendWMmdNR1YwUjFPVVY1TXBXRXM1VG8xVVI3QkhCVUJFTGk2SW05VTQ1dDY0UHNHS25FdFFaNUF0bVE5aklGbk9EdjI1TXRsZ9IBuwFBVV95cUxNdDg4QThZb250RGVGYjFIeUpNVXlRWnRiMjFzeDYxS2lOcVFVdE1QV0UzQW1fNy1kYnBkR0d6R3ViUGp6ZE91S2sxR1J3cDBpVnM3LVowQTloQkV6cW5PRTQxZWVlblZxWm4xODlSckRkU2cxSGhZQmdZQVlpTVpldFZqX3VFU3duSWRwRlIxS1lPQm96eVVOSUkwYmxWay1tSEZKaEk4NXdUSVJzLWIwYjhpSUxKSXdpcGFn?oc=5",
+      "summary": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace    Crude Oil Prices Today | OilPrice.com Brent oil price benchmark set for biggest weekly drop since 2020    Reuters Hedge Funds Fled Bullish Oil Bets Ahead of Election Day Drop    Bloomberg.com Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections    CNBC Brent crude jumps, settles up…",
+      "source": "Google News: Business",
+      "category": "Global Economy",
+      "published": "2026-11-06T15:28:00+00:00"
     },
     {
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
@@ -1250,14 +1362,6 @@
       "published": "2026-11-06T14:46:03+00:00"
     },
     {
-      "title": "Protesters Break Into Microsoft Data Center in Amsterdam - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOTkyUHlNZFBaZFY5UjNTMjRjOGl5ZVdVcmgtMU9zQWQxaUF5dDZ6dFhJY3hRVXVqeTcyRTJyaEpuYk10WF9LYWFiTXNzemFVX1hQd1dpLUpHajFTS1JTdFItVW15Q09GMkpqZ21MMVA5N0lQU2hjN19wdmtuSkJ3ajZtRGFITVNlcVlRZ3BxNVFGVXQ3WDA5ZVprUU9xX3lQczlveG9NQWRPYUZCNnpDejdB?oc=5",
-      "summary": "Protesters Break Into Microsoft Data Center in Amsterdam    Bloomberg.com Activists breach Microsoft data centre construction site as protests spread in Europe    Reuters Datacentre protest and a giant statue of Pope Leo: photos of the day – Friday    The Guardian Microsoft AI data-centre site in Amsterdam breached by protesters as Europe’s opposition grows    The Globe and Mail Protesters break…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T14:27:55+00:00"
-    },
-    {
       "title": "What we know about the bomb threats to European flights",
       "link": "https://www.theglobeandmail.com/world/video-what-we-know-about-the-bomb-threats-to-european-flights/",
       "summary": "A wave of bomb threats were issued to passenger flights around Europe on Friday for the third time this week, as Spain's foreign minister said the continent appeared to be facing 'hybrid aggression and a form of psychological warfare.'",
@@ -1268,7 +1372,7 @@
     {
       "title": "Feds look to ‘support accelerating’ construction of Alto high-speed project - CTV News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZWJTaVJ6XzVfd3k4Q3lDTEgwdmZCUTY1VjRPSXcwamYtSmE0dFktQzdndV93X1MtSjJUQVBkMURodlhYWnhaMk0wd3Y3cWpCV0xJdS1jV1oxYUpjd0hfR09WMXVqeENQTlk1TmNfbjMtazdORlRPcVhGcTBadnRIZV90LXNYdUN5NDk5bDJpUV9wa1ZwOGNxM3FwRHNFQWRZQXBkbkhsM3YyNktsYUV0SkxR?oc=5",
-      "summary": "Feds look to ‘support accelerating’ construction of Alto high-speed project    CTV News Uneasy feeling for Stone Mills homeowners as Alto purchases land in unknown location    Kingstonist News",
+      "summary": "Feds look to ‘support accelerating’ construction of Alto high-speed project    CTV News Ottawa to introduce budget-related legislation on private airport investments, high-speed rail    The Globe and Mail Uneasy feeling for Stone Mills homeowners as Alto purchases land in unknown location    Kingstonist News",
       "source": "Google News: Business",
       "category": "Global Economy",
       "published": "2026-11-06T14:07:43+00:00"
@@ -1282,52 +1386,12 @@
       "published": "2026-11-06T14:00:00+00:00"
     },
     {
-      "title": "What Happens to Your Heart When You Take Creatine - EatingWell",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQalQwMnRHaGpEay1IdnVXMkpEMEpFQzd1eEowalliRXh5RG9qWGJERDRJcjVYaDlTaXRRU0hlZTRCMjA2ZEdETVplRkpscjFWa2I2NVBVU1dKRkJ3OWpiTzZKQUQyaUtCOUx3M0Z5NUpPT09YR3hCd20zSVJURTN5TV9XcU55UFBiQWFOYm53?oc=5",
-      "summary": "What Happens to Your Heart When You Take Creatine    EatingWell Can Creatine Supplements Make Your Brain Stronger?    The New York Times Creatine benefits, risks, and uses: 10 things to know before taking it    qz.com",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T14:00:00+00:00"
-    },
-    {
-      "title": "Gold falls as U.S. payrolls surge by 165,000, strengthening December Fed hike case - Kitco AM Report - Kitco",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXI2NUgwV2RLMm5RUVJVVW9ESHRPZ0dCT3lPRHpnZG03UUpsZFU2MW9vdHduRS1Mb1h2V29xZm5WVVpzN1dWdmJSY1ZnMHhDcndyT2FGSGdYOWZLTHJZWXQwUXdIaWNKU1hyQlZXMWlMT0R4ZGdRUWtBRDQ4MUc2dzBFZmxlRmtYaTNMcFdRVVU0YjlPYTdUV19kSlVmWktXX2VycmV1ZjJ1NjNUdS1zYmFWbU5PS21vWFE?oc=5",
-      "summary": "Gold falls as U.S. payrolls surge by 165,000, strengthening December Fed hike case - Kitco AM Report    Kitco A disturbing employment trend is hiding beneath the latest strong job numbers    CNBC US Employment Report: Labor market firing on all cylinders    RBC U.S. economy adds 165,000 jobs in October; jobless rate dips to 4.1%    The Globe and Mail Blockbuster October jobs report keeps Fed rate…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T13:55:05+00:00"
-    },
-    {
-      "title": "Cineplex posts record revenue as Spider-Man, Odyssey drove moviegoers - Global News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pUmZVU204Q0ozZFVNTnlLSGJ2YUtvQUMyVVRBSXZEYk5FSUpPMEt5cVhmcHdVUGo5cFcwUk52YWdpSXpBYU5jQUprQXAzdzdwREVLWmFIUjBnWDJtU09sajcwb09NQXlOLTdvMWptWThkcVFaT3R4aG5xVko?oc=5",
-      "summary": "Cineplex posts record revenue as Spider-Man, Odyssey drove moviegoers    Global News See more headlines & perspectives on Google News",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T13:47:18+00:00"
-    },
-    {
       "title": "Federal budget pledges billions to building new homes, the Home of the Week and more top real estate stories",
       "link": "https://www.theglobeandmail.com/business/article-real-estate-housing-news-november-6/",
       "summary": "Plus, one Red Deer couple searches for the perfect home",
       "source": "Globe and Mail Business",
       "category": "Markets",
       "published": "2026-11-06T13:30:00+00:00"
-    },
-    {
-      "title": "How permanent DST could impact circadian alignment - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT0Ezc2QzUTBza19VZGM5OHktR1BQODVvaTZhTFlRdGVWMndRTk5PU2dTN3ExNU1weG5jZWExZHBJVTI1MHVQeTQ5ZDVZNEdkRUo4YXJudzNLNVNvMUJrZG05VkNkU01SUDdaalctU2c5ZTNBNkMzb3lkRkVZaEVyMkw4RkVrRjFRZUUzQm1ETnZfcVg1Nmp5UFZDRmMyRTM0YW1weXQ5blZRVFRMOVVGYUhnLWprMW9h?oc=5",
-      "summary": "How permanent DST could impact circadian alignment    CTV News Switch to Alberta time sees late-night Flames puck drops    CityNews Calgary Sleep Expert Warns Against Adopting DST Year-Round    VOCM Tuesday's letters: Albertans voted no to permanent daylight time    Edmonton Journal Businesses, services ready ahead of time for Alberta Time transition    Calgary Herald",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T13:30:00+00:00"
-    },
-    {
-      "title": "$56-million penalty hasn’t stopped alleged cult leader’s attacks on Canadians - CP24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzZtMm9KbWR2R1oxNjZzMlNqVXZYVTBxazFMYkdDN1lrSlNhdk5fVnVDNTVrTjZtX2JkZEZndTFEOGx4VWVJT2NIRWk5NEYzcVg0dk9UUGhMMTE3emdTaHZPUUtDNWVCcUVhLU5JQ2pfT1VaUDJWMGNNdzl3aVFQN0JLekY4enBTZy13bjYySGt3NFRMbDVUYTlNQTByeVRvZUZ4Y0NyWFV0YXpZdEFJNXFKVVBtY2l1UW1v?oc=5",
-      "summary": "$56-million penalty hasn’t stopped alleged cult leader’s attacks on Canadians    CP24 Canada alleged cult investigation: Attacks continue    CTV News 3 Saskatchewan residents win US$40.1M defamation verdict against online spiritual teacher in Hawaii    Yahoo! Finance Canada 16 Canadians moved to Florida in 2022 on instruction of cult leader Liana Shanti. After years of legal battle, 3 get $56…",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T13:25:12+00:00"
     },
     {
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
@@ -1346,52 +1410,12 @@
       "published": "2026-11-06T13:22:54+00:00"
     },
     {
-      "title": "Budget 2026 proposes 1st deposit insurance limit increase in 2 decades - Global News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KQVZHSlZ2YTlBVUZFYlVrWTN2OURJYU9mYnpUT0pmZlBQdS1EY0JIN19IZVZEQmpaV0ljTHRaYmRkTkQ5R0ZFb19wa01XTW9IMVJSWE1TYlN0MHJ1a0xhTEFMcHBLVW1sM3hFZ253dWctTWxO?oc=5",
-      "summary": "Budget 2026 proposes 1st deposit insurance limit increase in 2 decades    Global News See more headlines & perspectives on Google News",
-      "source": "Google News: Business",
-      "category": "Global Economy",
-      "published": "2026-11-06T13:17:58+00:00"
-    },
-    {
-      "title": "Inside North Korea's hacker army",
-      "link": "https://www.theglobeandmail.com/world/video-inside-north-koreas-hacker-army/",
-      "summary": "North Korean hackers have been blamed for some of the world's biggest cyber thefts, including the record-breaking US$6.3-billion attack on cryptocurrency exchange Binance.",
-      "source": "Globe and Mail Business",
-      "category": "Markets",
-      "published": "2026-11-06T13:10:49+00:00"
-    },
-    {
-      "title": "Trump signs proclamation he says will prevent future changes to the Oval Office and Cabinet Room - CTV News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTElGRThwc2M5cmJEcXhtaWFmSlg5dEZmZ0Z6U2hzbVU3RDFJZG9vQm92N1Z6eUg3a0RFaWpIbkFvNl9QOFNxRzVHVEVLZHpUcVE1VnhaVzdRTHhQUnk1aXZCM3ZBaFMtWDU5LU1xeXRtb2NYSTlBbV84NHFPWXNFd0ZQS2xLV3lya3F6R0F6Rl9mS0prdERCOUtsdzRoTUlBWUlmOURGRkcyaFNZZ0J1XzdKSnA3c1p1czVSMmlKdmYyaFlKQWE0bnNWRWI2M0U?oc=5",
-      "summary": "Trump signs proclamation he says will prevent future changes to the Oval Office and Cabinet Room    CTV News Trump makes the Oval Office a national monument. But future presidents can still redecorate    FOX Carolina News",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T13:08:52+00:00"
-    },
-    {
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbGpDdXFxU0JuY1VWRTZudTNoY2NFeGNqVE1UOUMzTkRBR0kwQU5taFgyclAtdFBnMHMyQUcyNzVVY0ZaX0xXb1N6eFN0NjFLVENzVG5YODNPenJUQVlXSWVuR1JXTVdMV2Y4dUM1eVc4Y0NsWkVQYmZNV1hRYm9UOVlvZm9mV1FiQjJIb2xVYXVDWmRQaUNPbTI0RTNldmpxQlNGN2VLS295Y3NINWxr0gG0AUFVX3lxTE1jLTJmLXJ2d0hSLUZMTzhRdnRaSWFoRmNybWtjWHEzdjFWNE0zb1F2NlE3dmY1WTZVZGlBYUZkNmdFSVZBU1FwdG9lNEpfRExJR0ZBYUY4bjNKQm43VGdRTlI3UGt5c1U1NURpdUZoUjRGT0ZnUEFoZWZCbXBtZmxTSkVYUFBQX0s1LXB1LUpaRGtac1NSR3A3MVpBTkpXMExsOG92cGowdWJVcjhIT1dfMzVJTA?oc=5",
-      "summary": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know    Al Jazeera Hegseth calls US-Iran war a 'courageous and historic effort'    Fox News Live - US warns Iranians: stay indoors and away from IRGC if tensions escalate    Iran International US and Iran Edge Closer to Deal With Nuclear Issue Back in Play    Bloomberg.com Iran reviewing proposals to curb nuke program after long…",
-      "source": "Google News: World",
-      "category": "World & Geopolitics",
-      "published": "2026-11-06T13:00:58+00:00"
-    },
-    {
       "title": "Russian extremist group denies sending hoax bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
       "source": "BBC World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T12:51:38+00:00"
-    },
-    {
-      "title": "Laurentian Bank branches close as bank migrates customers to National Bank",
-      "link": "https://www.theglobeandmail.com/business/article-laurentian-bank-branches-close-national-bank-migration/",
-      "summary": "The branches, all in Quebec, will remain open until end of day Friday",
-      "source": "Globe and Mail Business",
-      "category": "Markets",
-      "published": "2026-11-06T12:38:29+00:00"
     },
     {
       "title": "Cancelled BC Ferries sailings Nov 6 Tsawassen-Swartz Bay - islandsocialtrends.ca",
@@ -1440,14 +1464,6 @@
       "source": "BBC World",
       "category": "World & Geopolitics",
       "published": "2026-11-06T08:18:10+00:00"
-    },
-    {
-      "title": "300+ mm rain: Impactful atmospheric rivers threaten B.C. coast - The Weather Network",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTlRaU19WN3BmM3l3X2tiTTVXMWplSVZobXlBNWVSVmNlVzVCYXd5dmdrVzBhRXZPSGZrcGxLNUdYV3I1V21pY2lXVUN2N2swbENDSmozLTRsbVVySk1IZDJyQkJWelo1SDUtT1d2Z0JGcFAwMm5jQmRJNjJaM2c5OVByeXFVaVpyNnNOZm0wVE0wLWtfUEFmaUpVU0ZTRGdKRE5Hc3Z5LTNSRDMwcUZxNjFBTGZubVNoQ2lxZ0kyMVBESjc0bjU3aVI0VUo?oc=5",
-      "summary": "300+ mm rain: Impactful atmospheric rivers threaten B.C. coast    The Weather Network",
-      "source": "Google News: Victoria BC",
-      "category": "BC & Victoria",
-      "published": "2026-11-06T06:27:00+00:00"
     },
     {
       "title": "BC Ferries cancels sailings due to high winds surrounding Greater Victoria - Victoria Buzz",
@@ -1570,14 +1586,6 @@
       "published": "2026-11-05T15:27:09+00:00"
     },
     {
-      "title": "Repealing B.C. housing legislation would be a mistake, says UBC expert - Canadian Mortgage Trends",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEwxRnR3Y082YlNmMmI0bzZkOGkybVExTUdLVldlNTVsa0hNbFlrWExBY2RDN3F5QnpjQmhzczFvYTcxWVlRYnRKWUJNWE5vWjNFZEpNVUQ3N3ZJczhva0t2cGRqazJ4aTBQcks4U0dndWdqanlOQXB1UDU2aFl0NFJjM0J3Z0hmSVktX1I1Rzg5bGU5S0tSS3hKNXpXd3c2a0c0WjBRZVpZQzJSUDlLbUVzR2NqbEU?oc=5",
-      "summary": "Repealing B.C. housing legislation would be a mistake, says UBC expert    Canadian Mortgage Trends",
-      "source": "Google News: BC Economy",
-      "category": "BC & Victoria",
-      "published": "2026-11-05T14:59:25+00:00"
-    },
-    {
       "title": "Here's what the Democratic election rout could mean for the U.S. economy",
       "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
       "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
@@ -1600,14 +1608,6 @@
       "source": "BBC Business",
       "category": "Global Economy",
       "published": "2026-11-05T13:17:10+00:00"
-    },
-    {
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-      "source": "CNBC Finance",
-      "category": "Markets",
-      "published": "2026-11-05T12:57:10+00:00"
     }
   ]
 }
